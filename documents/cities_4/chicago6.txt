@@ -1,0 +1,40 @@
+Cubs sued after fan says Wrigley Field isn’t wheelchair-friendly  Like all of these lawsuits, the first and only question you really need to ask to judge the credibility of this claim is: what is the plaintiff seeking?  
+
+If he's suing on behalf of a group of disabled people who are asking the Cubs to replace some lost seating because they feel they got screwed in renovations and have a hard time watching games, then I support his claim.  
+
+If the plaintiff is somehow seeking monetary damages citing violations of the Americans with Disabilities Act, then this is [just one example](https://www.youtube.com/watch?v=1Xjq9xWnwT0) of a drive-by lawsuit that is massively taxing on the system. I used to sit right in front of the section for wheel chairs behind home plate. Great seats. I can't remember exactly how this worked anymore, but I think it was buy any box seats and then arrange with the Cubs to get the wheel chair area. A guy I knew did this because he'd bring his dad who used a chair. It was less about his dad and more about getting the location. One time he showed up and the Cubs only let one person in their group sit with his dad because there was someone else with a wheel chair for that game. He threw a fit. This was years ago, fuzzy on the details. Cubs should make sure people in chairs can see, I don't think it has to be behind home plate.  Does every single part need to be wheelchair friendly? That park isn't friendly to anyone, I can't imagine what it's like for a person in a wheelchair In this instance - claiming that he can't see - it's all about the measurements.
+Figure 802.9.2 and 
+Table 802.9.2.2 
+https://codes.iccsafe.org/public/document/MAC2015/chapter-8-special-rooms-and-spaces
+
+Source: am an architect. 
+
+ I hope he doesn't get anything and I don't like the Cubs This does not appear to be of the drive-by suit variety.  The complaint describes at length the types of seating available before renovations began, and the fact that the plaintiff used that seating before and has fewer or less appealing options now.  
+
+Here's the relief he's requesting, which mostly relates to increased seating options:
+
+> WHEREFORE, plaintiff requests that the Chicago Cubs Baseball Club, LLC be held in violation of the American With Disabilities Act and that the following relief be ordered:
+
+> A. That the Chicago Cubs put into place wheelchair seating in the right field bleachers which complies with the ADA;
+
+> B. That the Chicago Cubs put into place wheelchair seating in the left field bleachers which complies with the ADA;
+
+> C. That the Chicago Cubs put into place wheelchair seating in the lower box seats which is equal to or better than the vertical wheelchair seating that existed prior to the alterations which were made after 2014 and which otherwise complies with the ADA;
+
+> D. That the Chicago Cubs put into place front row wheelchair seating behind home plate;
+
+> E. That the Chicago Cubs pay the reasonable attorney’s fees, costs and expenses of this lawsuit;
+
+> F. That the Court order such further relief as is appropriate. [This is for new stadiums, not sure about renovated...](https://www.ada.gov/stadium.pdf)
+
+* Wheelchair accessible seating is required. At least one percent of the seating must be wheelchair
+seating locations.
+
+* Wheelchair seating locations must provide lines of sight comparable to those provided to other
+spectators. In stadiums where spectators can be expected to stand during the show or event (for
+example, football, baseball, basketball games, or rock concerts), all or substantially all of the wheelchair
+seating locations must provide a line of sight over standing spectators.
+
+ I'm certainly not as aware as I should be, but even I know that our culture is hugely unfriendly toward the disabled, especially the chairbound.  I spent a little bit of time in a wheelchair and found it the most frustrating experience,  not only because almost nothing had been created with chair users in mind, but the people around me often completely forgot that chair users needed different accommodations and were just as often resentful when reminded. Those wheelchair users, with their better seats than mine (as long as three other wheelchair users haven't decided to go to the same event and taken the only three seats available)! They get to use the elevators (that are usually broken or clogged with people who have other ways to get around)! They don't pay the same bus fare as me (and can't take rideshares with their wheelchair; never mind that there better not be another wheelchair or too many people on the bus because if no one will stand, they can't get on)!
+
+I'm not saying everyone is deliberately cruel, but a lot of the world sucks in a lot of ways.  I'm more than happy to see a few concessions made to people whose world sucks more than mine, especially if it doesn't hurt me and goes a little way toward making things suck less. It's reasonable that they get access to good seating, yes. In the article they discuss how one section, which used to be the first row, is now a few rows back so when people stand in front they can't see. That's pretty reasonable to me... It would be better to cite Chicago Building Code, chapter 18-11, rather than IBC and the Minnesota building code, better if which Chicago follows. Also CBC doesn't have specific measurements for viewing angle but interprets then from ANSI A117.1. [deleted] If you haven't had a chance to catch this episode of This American Life, I recommend it highly: https://www.thisamericanlife.org/radio-archives/episode/629/expect-delays?act=3. It's a look at what people in NYC have to deal with if they rely on paratransit for transportation, and the whole system is quite dehumanizing. That's why the "Does every single part need to be wheelchair friendly?" hyperbole (or it may just be a genuine quiestion, but I've seen similar sentiments before) is annoying because that's not what they want which is something more than just the bare minimum. [deleted] Sight Not true, my asshole uncle is disabled, (when it’s an advantage to him,) and he is a season ticket holder. He got seats behind a pole but he doesn’t give a fuck because he always sits in the handicapped section. He truly is shit.  

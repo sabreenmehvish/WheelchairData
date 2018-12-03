@@ -1,0 +1,39 @@
+TSA potentially violating ADA Regulations [FL] So I work at an airport in Florida and assist passengers who need wheel chair assistance to and from the gate. When I got this job I was trained heavily on not to violate and ADA regulations because there are strict laws on assisting disabled people. So I come into work yesterday, and I assist a passenger to their gate and they have TSA PreCheck. If you don’t know, PreCheck is a separate line in security where they’ve done a background check on you and is typically faster and easier on the passenger.  They don’t have to take shoes off, take laptops out, stuff like that. Well my passenger I am assisting up to their gate has TSA PreCheck, I get to security and they tell me that they aren’t allowing passengers with wheel chairs through the PreCheck lane and that they have to go through the regular lane. I also want to mention that many passengers who have PreCheck have paid about $80 to get PreCheck, but because they are disabled, they aren’t being allowed to use the service they paid for. I have already had a couple disgruntled passengers complain about this but I am not sure if the TSA is violating any ADA regulations. I’m just curious, because many of the people I work with have gotten complaints too about this.  The ADA requires **reasonable** accommodations for disabilities.  It doesn't require that anyone make things exactly the same for all, nor does it require that a special case be made in all situations for every disabled person.
+
+I know that TSA doesn't regularly ban all wheelchair users from PreCheck.  If this is temporary, or if your airport has a specific and legitimate reason why they can't handle wheelchairs, there's likely no issue here.
+
+You can certainly bring this up with your superiors to see why this is happening. Even if you have pre-check, anyone can be shuffled to the normal lines, either by random luck or some other reason.  Additionally, if there was an equipment issue that wouldn't allow TSA to appropriately handle wheelchairs at pre-check, this would be a valid reason to send them to the regular line.  This is not universal, as I see people in wheelchairs go through pre-check all the time (fly about 4-6 time/month).
+
+TLDR: having pre-check status *does not* guarantee use of the pre-check line.   If I were in your shoes, I would try to get whoever is the overall boss of your fellow porters (or whatever your title is) to reach out to someone senior in the TSA leadership to ask about this.  It's possible that one shift of TSA drones at one checkpoint are deviating from policy.  The "Big Boss" for TSA at your airport is the "Federal Security Director", but your boss (or your boss's boss) may know someone else at TSA that they think will be more likely to solve this. You're not guaranteed the pre-check line each time even after going through the process. The literature is very specific about that.
+
+There's many reasonable reasons why a wheelchair pax is not able to use a Pre-Check line related to everything from the built environment to the technology to the personnel available. I very much doubt a judge or jury would rule that it's not reasonable accommodation for a wheelchair pax to go through a regular security line. Especially when considering the intention of maintaining homeland security (I know TSA is a joke, but that's at least their stated mission statement). PreCheck isn't a right.  It's a service provided by the TSA and even with PreCheck (or the privatized version Clear) a person can still can be fully searched.  Random detailed screenings are still done in the PreCheck line.
+
+Source:  Have PreCheck and have had several extra random screenings. [removed] My understanding is that people in wheelchairs are usually not made to walk through AIT or take off shoes/coats, so they are, for the most part, receiving Pre-check type security, even if they don't go through the Pre-check lane.  Is this the case at your airport? [deleted] Could be that specific Precheck gate doesn’t have a wide enough detector to fit the chair through, but the main line does. 
+
+They’re allowing her through security, which is reasonable. 
+
+TSA precheck DOES NOT guarantee you a precheck ticket. Sometimes it’s just... not there at random.  They did change the rule back because they were getting so many complaints from passengers who felt discriminated against.  So, as an avid a flyer myself I certainly understand your point that having pre-check provides no guarantee use of the pre-check line. I know that TSA doesn’t need a reason. 
+
+However, that’s not the same as them being able to shuffle people for *any* reason. Similar to how employers in at will states can fire you for wearing a purple shirt on a Thursday, but cannot fire you for being a member of a protected class. 
+
+With this as the context, can TSA really shuffle people to the non-pre-check line for *any* reason? Could they do it on the basis of race, for example? It seems there is a line somewhere, and I’m not sure where exactly it falls, but it seems likely to be more restrictive than what I think you are indicating.  *Your post has been removed for the following reason(s):*
+
+**Generally Unhelpful** and/or **Off Topic**
+
+Your comment has been removed for one or more of the following reasons:
+
+* It was generally unhelpful or in poor taste.
+* It was confusing or badly written.
+* It failed to add to the discussion.
+* It was not primarily asking or discussing legal questions
+
+
+
+*If you feel this was in error, message the [moderators.](http://www.reddit.com/message/compose?to=%2Fr%2FLegalAdvice)* If they are over the age of 75 then they don’t have to take their shoes off. But I help a lot of passengers who are younger than that and if they can walk they are required the regular screening.  /r/ofcoursethatsathing  >Could they do it on the basis of race, for example?
+
+If you're asking if TSA/Homeland security can and does discriminate based on *certain* racial factors the answer is probably. 
+
+[The Obama administration ordered specialized screening](http://www.nytimes.com/2010/01/05/us/05tsa.html)
+from people traveling to and from 14 muslim majority nations that are worrisome of harboring terrorists. While not *directly* effecting all muslims this type of broad extra screening orders obviously disproportionately effected muslims. [Additionally some airports like Logan in Boston have screening tools they use to identify illegal aliens that could be considered racial profiling.] (https://www.theguardian.com/us-news/2017/feb/08/tsa-screening-racial-religious-profiling-aclu-study).
+
+So the answer to your question is yes and no. There are no outward racial discriminatory policies, but there are policies that when you really look at them, are likely racially profiling initiatives. In this particular case (wheelchair), if screening requires a specific piece of equipment and it is not currently available at the pre-check line, they certainly can move you to the regular line.  By seeking to fly in the US, you are voluntarily sacrificing certain rights to do so.  You are willingly submitting to a search, without probable cause, in the name of security.   

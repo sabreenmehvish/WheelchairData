@@ -1,0 +1,16 @@
+Project Sidewalk: Mapping the Accessibility of the World **TL;DR**: We are researchers at the University of Maryland developing new **scalable methods for mapping urban accessibility** by combining crowdsourcing and machine learning. Check out our new tool, [Project Sidewalk](http://projectsidewalk.io/), that allows users to virtually explore cities and find sidewalk problems, and help us make cities more accessible!
+
+---
+There is a severe lack of information about the location and quality of sidewalks in cities. Our research team at the University of Maryland is trying to change this. **And we need your help**.
+
+[Project Sidewalk](http://projectsidewalk.io/) is a new online tool that enables anyone—from motivated citizens to government workers—to virtually walk through cities to locate, label, and assess sidewalk accessibility. Since our beta launch in Fall 2016, over 600 users have contributed **76,000 labels** across 532 miles of DC streets—that’s nearly **50% of the city** (and more than the distance from DC to Detroit).
+
+User-contributed labels are used to develop new accessibility-friendly mapping tools (e.g., route planners, map visualizations), to train machine learning algorithms to semi-automatically assess cities in the future, and to create better transparency about city accessibility (imagine a [WalkScore](http://www.walkscore.com/) for sidewalk accessibility!). And all of our [data](http://sidewalk.umiacs.umd.edu/api) and [source code](https://github.com/ProjectSidewalk/SidewalkWebpage) is **completely open**, so it's easy for others to build their own accessibility applications or perform new analyses with our data. See: [http://projectsidewalk.io/api](http://projectsidewalk.io/api) for details.
+
+But we are not done. Our goal is **100%** DC coverage and then to expand to five more cities by the end of 2017. To help us get there, we are proud to announce a **new version** of [Project Sidewalk](http://projectsidewalk.io/) that makes it easier and faster to explore DC neighborhoods and find sidewalk problems! Try it out today by visiting [http://projectsidewalk.io](http://projectsidewalk.io/). Even five minutes of your day could help make someone else’s. 
+
+You can also help out by sharing this message with your colleagues, family, and friends and by [retweeting this tweet](https://twitter.com/projsidewalk/status/888040060163162117)!
+
+-Project Sidewalk Team Your timing is perfect.    I'm heading to D.C. On Friday for a few weeks.  Looking forward to trying this tool out Thank you! Any feedback on the tool itself, positive or negative, will also be useful for us. I hope you have a great trip u/Dottiebears :)  To be clear, Project Sidewalk is currently in its infancy and, as such, is purely a data collection tool. We do not yet have accessibility-aware route planners or other map tools developed.
+
+However, we strongly encourage you to check out and contribute to the data collection effort. Visit: http://projectsidewalk.io and click on 'Start Mapping' to virtually walk through Washington DC streets and mark accessibility problems. 

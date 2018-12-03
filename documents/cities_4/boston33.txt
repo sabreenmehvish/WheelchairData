@@ -1,0 +1,64 @@
+MBTA Orange Line Trains Will Be Replaced, Red Line Vehicles Added  unfortunately we won't see them until 2018 at the earliest, but it's about time. I got a hold of the RFP documents through a friend in the industry. The T will be borrowing a lot of design characteristics from the newer NYC subway cars.
+
+**Here are the facts:**
+
+The new cars will not have open gangways. Sorry for the disappointment.
+
+There will be provisions for a Wi-Fi antenna on the roof of the cars.
+
+The new cars may have, but are not required to have, interior LED active route signs. I'm guessing these would be similar to [the FIND on the newer NYC subway cars](http://kellynford.com/2009/10/23/the-find-display-on-the-mtas-new-r160-trains-simply-brilliant/).
+
+The new cars may have, but are not required to have, interior LCD displays for the displaying of additional passenger information and the displaying of advertisements. I'm assuming these will also be similar to what's on the newer NYC subway cars and will similarly be ignored by passengers.
+
+The new cars may have, but are not required to have, passenger operated doors with door-open buttons adjacent to each door. The current Blue Line cars have passenger operator doors, and the T apparently has no clue how to utilize them properly. I'm guessing the passenger operated doors on the new OL and RL trains, if included, will be similarly mis-utilized for maximum passenger confusion.
+
+There will be vertical poles between each pair of opposite doors, similar to [what's on the new NYC subway cars](http://www.ttmg.org/photos/tlogan/NYCS_Alstom_Interior.jpg). On the RL cars, there will have handrails running down the centerline of the ceiling of the car, also similar to what's on the new NYC subway cars.
+
+There will be CCTV security cameras looking into the passenger area.
+
+The exterior destination signs will be electronic LED signs and will be yellow-on-black, similar to the exterior destination signs on the buses. The godawful exterior destination signs on the current Green Line trolleys and 1800 series RL cars are black-on-yellow LCD signs.
+
+Of course, there will be automated visual and audio station announcements.
+
+The new cars will operate in semi-permanently coupled married pairs consisting of an A car and a B car. The A car will contain the operator's cab, and the B car will consist entirely passenger space, i.e. no cab. In comparison, the current cars are all A cars and they all have an operator's cab.
+
+The OL A cars will have a minimum of 44 seats, and the RL A cars will have a minimum 43 seats. Both the OL and RL B cars will have a minimum 50 seats. There will be 2 permanent wheelchair spaces in each car, and at least 6 seats can be flipped up for 2 additional wheelchair spaces. In comparison, the current OL cars contain 58 seats and no wheelchair spaces. The current RL cars except the 1800 series cars, contain 62-64 seats and no wheelchairs spaces. The current 1800 series RL cars contain 50 seats and 2 permanent wheelchair spaces.
+
+The OL cars will have 3 doors per side. The RL cars will have 4 doors per side. Each door will be approximately 64 inches wide, which is wider than the doors on the current OL cars and current RL cars except the 1800 series cars.
+
+The train operator will have available a 120 volt outlet, a storage locker, and a footrest. No drink holder for Dunkin Donuts cups, unfortunately.
+
+And my favorite requirement:
+>A. The contractor shall provide 6 scale models of the Orange Line Married Pairs and 6 
+scale models of the Red Line Married Pairs. Models shall be based on approved 
+exterior arrangements. Models shall be 1:30 scale, fabricated from wood or 
+equivalent material and painted to match the selected artist rendering. Scale models 
+shall be provided with a polycarbonate display case and shall be delivered to the 
+Authority no more than 12 months after Notice to Proceed (NTP). [CDRL 01-02] 
+
+**tl;dr** These cars will be similar to the new cars on the NYC subway.
+
+**Edit:** I rearranged the post so that the most interesting info is first. I read this whole article thinking "If you're looking to fix overcrowded trains, what the hell about the Green Line?" until hitting that last paragraph:
+
+"Rider Brittany Boisclaii said she doesn’t think the current Orange Line cars are that bad—only because she recently switched from using the Green Line—but would welcome the upgrades, especially for more space. 'All of the trains could use some sprucing up, but it could be good,' she said. 'I used to take the Green Line. It was the worst thing ever.'"
+
+*Sigh.* Knowing the T, they probably have some inane requirements for the bids that may disqualify some reputable and reliable manufacturers. Rumor has it that for one of the bus orders last decade, they tossed out a bid because it didn't come in a red binder.
+
+Edit: grammer My great hope is that they will increase capacity via open gangway cars. I rode the cars in Madrid recently and they are, as they would say, muy bueno.  I've ridden in those cars in NYC recently, they are quite nice.  Very bright and clean inside. > There will be CCTV security cameras looking into the passenger area.
+
+That's messed up. :( You're in luck! The worst of the worst green line trains were just [sent out for renovations](http://www.alstom.com/press-centre/2012/106505/alstom-will-modernize-two-massachusetts-bay-transportation-authority-rail-fleets/) and are returning later this year or early next year. what's an open gangway car? There's a lot of fucked up things that happen on the T - it's probably a good thing for everyone's safety. Of note, almost all the mbta buses have cameras in them. If the  worst of the worst are already off the tracks, I'm scared to think what they looked like. Some of the Kinki cars look like they've got more rust than paint. What effect will upgrading the trains themselves have? Extra room onboard? 
+
+I feel like the larger issues with the Green Line are systemic: having to stop at every red light, infrequency, and clustering of same-line trains one right behind another. Like, hire a fucking civil engineer who isn't a total retard who can figure it out. It's a train that is basically open from one end to the other, as if it is one big long flexible train car. The [New Toronto TCC "Red Rockets"](http://i.imgur.com/3YV3vlF.jpg) are a good example. Here's a New York Times piece on these new cars: http://www.nytimes.com/2013/10/21/nyregion/no-doors-between-subway-cars-mta-may-consider-new-model.html I just asked the engineer I know at the company refurbishing them and will get back to you with answers as soon as I can.  ok those look fucking cool. Probably because they are new and because of the design. I have to say, I think as much extra space comes from the fact that there aren't walls/connectors between cars, and the fact that there is definitely less seating, which I agree with. Straphanging should be the norm save for people who are disabled, pregnant, etc. and for when the train is nearly empty and able-bodied individuals can sit down. In exchange for faster commutes, standing really isn't too much to ask, particularly most people are on their phones so why would they give a shit? Just imagine when the panhandlers everyone hates can move from end of the train to the other. They won't be so cool then. No escape! 1. empty train car
+
+2. skateboard
+
+3. start and one end and let go when the train brakes for a station
+
+
+
+
+
+4. Broken bones everywhere >Straphanging should be the norm
+
+After a long day's work my feet and back are often *killing* me. I find it so excruciating to have to stand for a long subway rude. I know some people like standing, but for those of us who have physical jobs it can just be so depressing to think of having to stand for another hour at the end of the day, especially on a jostly moving subway car.
+ 

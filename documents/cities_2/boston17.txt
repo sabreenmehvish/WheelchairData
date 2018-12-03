@@ -1,0 +1,20 @@
+New York Has a Great Subway, if You're Not in a Wheelchair (article compares NYC subway to the T on disabled access)  So, I generally agree with the author's point that NYC has lagged at improving subway handicap accessibility, and that is something it should look to improve.
+
+That said, there's a bunch of things I think are worth pointing out here that the author has rather glossed over or gotten wrong.
+
+- There are 117/425 subway stations that are accessible, not 92/425 according to the MTA [here](http://web.mta.info/accessibility/transit.htm#subways) as of January 2017. 
+
+- The 2015-19 capital plan is spending $740 million on accessibility improvements alone. I'm not sure it's reasonable to ask for devoting an even larger portion of capital spending on that.
+
+- The MTA has made all buses handicap accessible.
+
+- NYC has a much larger backlog of stations in general needing renovation. Most Boston stations have been rebuilt (or were built new) within the past 40 years, most NYC stations have not been. The accessibility improvements went along with that to large degree.
+
+- A lot of Boston's stations were less technically complex outside the 10-20% in the downtown core. Large portions of the lines are outdoors and at near street level. Those aren't exactly hard to make accessible. That doesn't change that Boston did put in some serious money relative to it's size to improve accessibility, but overall the cost per station is likely significantly less than it is in NYC because of that lesser average difficulty. >When I traveled to Boston several years ago, I was amazed to discover that its subway system — as old as New York’s, though far smaller, with only 53 stations — is more than 90 percent wheelchair-accessible.
+
+No shit.
+
+Not bad.
+ Boston's made great progress in accessibility, but Hynes station is a glaring exception and really should be the T's first priority when planning future accessibility improvements. Thanks for such an informative comment. You might consider posting it on the [hacker news thread](https://news.ycombinator.com/item?id=13987578). That is where I came across this article. Hynes supposedly will be made accessible in the next 3/4 years, when the renovation comes around. Same with Wollaston, soon to be renovated. Bowdoin unfortunately will probably never be accessible unless they tear it down and start over. The station is very compact so room for an elevator is hard to find.
+
+Now lets talk about the commuter rails handicap access record... Since Government Center is now accessible, Bowdoin probably isn't much of a priority.  Hynes is a much busier place than Wollaston so it should come first. I agree, Hynes is a must-do project. Wollaston is still a needed project though (its already at 100% design now they just need to actually do it) as it is the last Red Line station that has no disabled access. Bowdoin you can kind of get away with, as it is not a transfer station and not many people use it.  

@@ -1,0 +1,16 @@
+what are good internet blockers that interface well with you? Seriously I need to get off reddit and everything. I used to use cold turkey but then it updated and got frustrating. Using windows mostly.  I like Leechblock, because of the delay function.  
+
+
+When a blocker totally blocks a site, i often need to check it for some legit reason so I disable the blocker and then get caught.  
+
+
+With Leechblock, you can set it up so it, for example, makes you wait 30 seconds before Twitter opens. If you alt-tab away, the countdown resets - you have to have the tab open and nothing else for 30 seconds before you can access the site.  
+
+
+So when I open it up automatically, see the delay screen, even if I decide i'm going to wait 30 seconds, i usually impulsively alt-tab away because it's not entertaining me.   
+
+
+Leechblock also seems to have the best level of tailoring (lots of different sets of sites you can block for different times, or set maximum minutes to view, etc).  
+
+
+You can also set an override - say 2 minutes - so again if you do actually need to check something (time of an event on facebook) you can hit override and it will give you access for 2 minutes. In practice, I just kept hitting override again and again - the delay function has worked much better for me. Plus, when i DO decide to wait the 30 seconds, i use the time to do deep breathing exercises, which probably helps too. I use stay focused but i might switch as it's too easy to turn off. Forest is a good one for phones. Nice! That time delay aspect sounds pretty great. Good to know, thanks! 

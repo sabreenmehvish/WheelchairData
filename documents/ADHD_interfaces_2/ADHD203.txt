@@ -1,0 +1,64 @@
+Today I learned about a method of learning called “chunking”. I have seriously never been able to learn so much of my school work in one day and this is simple. I’m taking this from another [post](https://www.google.com/amp/s/amp.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/) because it was part of a really long summary of a book about learning and this is the part that helped me the most. So all credit goes to the original poster and the author of the book he/she summarized. 
+
+Chunks:
+
+Pieces of information, neuroscientifically speaking, bond together through use and meaning. They can get bigger and more complex, but at the same time, they are single easy to access items that can fit into the slot of the working memory.
+
+Chunking is the act of grouping concepts into compact packages of information that are easier for the mind to access.
+
+Example: If you understand and practice a math formula. You no longer will need to focus much to solve it like you did the first time. That’s because your "formula chunk" got so abstracted into your brain that it can only take one slot of your working memory to solve it.
+
+ 
+Turn off distractions. You want to use all the four slots of your working memory when studying. Learning will be inefficient if some of those slots are connected to something else.
+
+ 
+You have to solve the problem yourself. Just because you see it, or even understand it, doesn't mean that you will be able to solve it (Illusion of competence). It is always easier to look at the material, even if you think it’s easy, then doing it yourself.
+
+ 
+It gets easier. When you think that a chapter or a book has too much information and that there’s no way to go through them all; just focus on whatever section you’re studying. You’ll find that once you put that first concept in your mental library, the following one will be easier.
+
+This concept is called Transfer; a chunk you have mastered in one area can often help you much more easily learn other chunks of information in different areas.
+
+ 
+Master the major idea and then start getting deeper. However, make sure not to get stuck in some details before having a general idea. Practice to help yourself gain mastery and sense of the big picture context. Try taking a "picture walk" before you dig through the material, this means, look briefly at the pictures, chapter titles, formulas used… before diving into details.
+
+ 
+Recall mentally without looking at the material. This is proven more effective than to simply rereading. Reread only after you try to recall and write down what was in the material.
+
+Consider recalling when you are in different places to become independent of the cues from any giving location. This will help you when taking a test in the class.
+
+ 
+Test yourself to make sure you are actually learning and not fooling yourself into learning. Mistakes are a good thing. They allow you to catch illusions of competence.
+
+ 
+Don’t always trust your initial intuition. Einstellung problem (a German word for Mindset). An idea or a neural pattern you developed might prevent a new better idea from being found. Sometimes your initial intuition on what you need to be doing is misleading.You’ve to unlearn old ideas and approaches as you are learning new ones.
+
+ 
+Mix up the problems (Interleaving) from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
+
+ 
+ 
+ 
+Don’ts:
+
+Highlighting too much and creating maps are often ineffective without recalling.
+
+Repeating something you already learnt or know very well is easy. It can bring the illusion of competence; that you’ve mastered the full material when you actually just know the easy stuff. Balance your studies and focus on the more difficult (deliberate practice). This sets the difference between a good student and a great student.
+
+A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. This is a recipe of sinking. It’s like randomly allowing a thought to pop off in the focus mode without paying attention to where the solution truly lies. I’ve heard of chunking but I never delved into it. I don’t think I get it now either  This is from Barbara Oakley’s MOOC “Learning How to Learn” and book “ A Mind for Numbers”.
+
+ Where was this when I was in college!? This is interesting. I think this may come in handy for non academic stuff too like reading or learning a new skill. Thanks for the info. I appreciate this, i'll start doing  that more then, I hadn't realized this was an actual issue with perceptions [deleted] \> clicked on original post to save it, looks like a good read  
+\> see UNSAVE instead of SAVE  
+\> confusion  
+\> just saw a post here about all the saved stuff we never read  
+
+
+I laughed, big time. But I know the concept of chunking already, it's how i organize information most of the time anyway. Still wanna read up on it a little, since the post seemed to go a bit more in depth... Thank you!
+The head of the chemistry department back at my college (high school) got us to do this kinda thing every week once she saw we were struggling with certain concepts. She'd make us focus on one part of the topic, like halogenation, and have us draw out the process several times, answer some questions on it several times, until we got it down to a T. Then we'd have a class test at the end of the week to check our recall. She did this with every process from the topic, and I'm pretty sure it's the reason I managed to improve my grade enough to get into uni (foundation year).  Take a 10-digit phone number and break it into three pieces (e.g., 123-456-7890). That’s chunking.
+
+Here’s some oversimplified examples:  
+* 206 bones grouped by areas (i.e., arm bones–radius & ulna, leg bones–femur & tibia)
+* 50 States by geographic regions (i.e., Northeast–New York & Vermont, Midwest, Southwest)
+* Grocery list by meal/recipe (i.e., spaghetti–noodles & sauce, chocolate cake–eggs & flour) Check out SAFMEDS (google it), which is a behavour-analytical technique for learning that works well with these techniques. Like flashcards, but better.
+
+Example: http://www.behaviorbabe.com/safmeds.htm I rather enjoyed ochem Ahaaaa! Thx that was helpful  Thank you! I will check this out further when zi get the chance. 

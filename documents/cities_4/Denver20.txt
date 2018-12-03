@@ -1,0 +1,26 @@
+Thursday: How Secure Are Elections in Colorado? How is Colorado's election system keeping up with new technology and threats from foreign hackers? Learn more this Thursday from 5-7 at the Irish Snug (downstairs). We'll have folks from the Colorado Secretary of State's Office on hand to talk through this topic and answer questions. 
+
+This event is free and open to everyone - light refreshments will be served and drinks are available for purchase. The Irish Snug is wheelchair accessible. [More info & RSVP here](https://actionnetwork.org/events/how-secure-are-elections-in-colorado/). Hope to see a few fellow Redditors there.  I can't make this one but would be interested in future Common Cause events in Denver. Is there a mailing list sort of thing? I couldn't find something like that on your web site. [This is what you can expect to hear.](https://www.denverpost.com/2018/02/12/colorado-election-security-report-ranking/)  (Sorry paywall from *&$#@% DP)
+
+
+tl;dr About the best in the country.  The mail in process helps a lot. Not perfect but not bad. 
+ Enjoy the beer, take whatever you hear with healthy skepticism. [This was just in the news.](https://www.cbsnews.com/news/hackers-break-into-voting-machines-defcon-las-vegas/) We do! If you go to [our website](https://www.commoncause.org/colorado/), the landing page will say "Help us fight for a government that represents all of us" - just enter your email / zip code and you'll be added to the list :)  If you attended the event, you would learn that unlike other states, Colorado does not store voting information on voting machines. Every voter ultimately casts a paper ballot - meaning that there is a paper trail for every election. 
+
+Colorado voting machines are only **ballot marking devices** \- meaning that the voter uses the machine to make their selection, and then the device spits out a paper ballot that shows how they voted. The voter then checks this paper ballot for errors. So, a "hacked" voting machine would be detected pretty quickly, as folks would say "hey I voted for candidate A and the voting machine marked candidate B, what's up?" This news would travel from the voter > election judge > county clerk pretty fast. 
+
+And since we're on the topic (and I like to nerd out on election admin) here are a few quick facts: 
+
+* Colorado voting machines are not hooked up to WiFi (this is how the hackers broke into the machines in this article)
+* Colorado performs post-election audits (we're the first state to do this, actually) 
+* Colorado requires all voting machines be tested to [EAC Voluntary Voting System Guidelines](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines/) prior to being purchased and used in the state
+* Colorado requires election officials to carry out pre-election logic and accuracy testing on all machines that will be used in an upcoming election 
+
+Let me know if you have additional questions / concerns about voting in Colorado and I'll be happy to assist.  I never thought about it but that makes total sense about the paper ballots.  Thanks! Thanks for the information. How does this scale for every voter in Colorado? For example, I vote by mail and have no way to check that what I filled out is what the machine reports. What percentage of registered voters in CO vote by mail? > How does this scale for every voter in Colorado? For example, I vote by mail and have no way to check that what I filled out is what the machine reports.  
+
+This is a long answer, and one that will certainly be explained in-depth tomorrow evening. Since you seem to be pretty interested in this topic, maybe you should come? ;) 
+
+> What percentage of registered voters in CO vote by mail? 
+
+The vast majority of Coloradans vote using the ballot they received in the mail (either by putting a stamp on it and mailing it back, or depositing it at a drop box or Voter Service & Polling Center). In the 2016 election, [93% of voters opted to vote their mail ballot](http://www.denverpost.com/2016/11/20/turnout-flat-colorado-election-2016-mail-ballot-laws/) \- while 7% chose to vote in person.   the main point you are replying to is about the security of the ballot marking devices themselves, which is not relevant to mail in ballots; however both types of ballots are then counted by machines, and the accuracy of that count is ensured by several checks and balances
+
+at the point of counting the votes, no ballot can be traced back to the voter so no voter can verify directly how their particular ballot was counted; instead there are various methods of ensuring that ballots are not tampered with and that the machines scan accurately; [auditors then spot check some ballots by hand](https://bartels-on.sos.state.co.us/index.php/2018/07/09/another-election-another-risk-limiting-audit-for-colorados-county-clerks/), and because all the ballots are human-readable, if there were sufficient doubt about the machines’ accuracy, every ballot could be recounted by hand 

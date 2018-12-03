@@ -1,0 +1,31 @@
+Uber is lobbying for changes to a DC bill looking to increase the number of wheelchair-accessible taxis  Sorry, but I kinda think if you want $10,000 of my tax money for adding a wheelchair to your van, then the city has to have the right to check that you actually did add a wheelchair to your van. The part of the bill in question reads:
+
+(1A)(A) Each Taxicab company or transportation network company  that has wheelchair-accessible vehicles within its fleet or among the vehicles associated with the company to provide service shall maintain records that include
+
+ (1) The number of wheelchair-accessible vehicles
+
+(2) A list of requests made to the company for wheelchair-accessible; service that notes the date, time, and location of the requested service;
+
+(3) Whether the requested service was a street hail, a reservation made on the same day, or a reservation made before the date of requested service;
+
+(4) For reservations made on the same day or made before the date of the requested service, whether the requested service was provided, and, if not, an explanation as to why; and
+
+(5) For reservations made on the same day or made before the date of the requested service, the duration between the time of the reservation and the time that the service began
+
+(B) Each taxicab company or transportation network company shall submit the records described in subparagraph (A) of this paragraph to the Commission on a quarterly basis
+
+  The only thing I can think of now is the Handicar South Park episode.  > The required target increases to 12 percent in 2016 and 20 percent in 2018
+
+Are we expecting more disabled people in the future? 20% seems kinda high...
+
+EDIT: My analytic thinking skills were apparently impaired when I wrote this comment. Please disregard. I can see why uber would fight this. It would change the game.  Wasn't there a push by the District to make an unnecessarily large percentage of parking meters handicapped parking as well?  I elaborated on this more in my post further down the page, but from what I'm reading in the bill, the reporting requirement applies to all taxicab companies and transportation network companies regardless of whether or not they participate in the tax credit program From the way that I'm reading this it doesn't look like the reporting requirement is attached to the acceptance of the tax break. If that's the case there would be no way for TNCs like Uber, Lyft, or Sidecar to opt out if they don't want to divulge their trip information or don't want to set up a system to record all this data for wheelchair services (although knowing most companies they probably collect stuff like this anyway).  Uber probably wants to change the legislation to require no or significantly less reporting from companies that opt out of the tax credit. 
+
+The only problem i could see this change to the bill causing would be it incentives TNC's not to participate, thereby shifting the burden of handicapped transportation almost solely onto the  already heavily regulated taxicab companies. If the reporting requirement existed for everyone then TNC's would be less afraid of participation (since their proprietary info is already being shared anyways) and the program would be more successful. Ultimately whether or not you're in favor of changing the bill probably has to do with how effective you think the program will be, how much of a role you think the government has in providing adequate services to the handicap, how much power the government should have to enforce such equality, and how opposed you are to new and possibly excessive reporting requirements on businesses. It'll be interesting to see how this shakes out and if other TNC's get involved.
+
+If anyone wants to read over the bill to see if my interpretation is correct, [here's a pdf](http://lims.dccouncil.us/Download/32276/B20-0889-Introduction.pdf) > 20% seems kinda high...
+
+From a statistical standpoint I would assume that people in wheel chairs might need to take a taxi here and there more than the average person.  Uh, non-disabled people can still use the cars too. The issue is having enough wheelchair accessible cars for the people who require them. Just like how 100% of metro buses are wheelchair accessible. No I don't think so. The way I understand it the current amount of DC taxis that are handicap accessible is less than 1%, which isn't nearly enough to meet current handicap demand/population.  Why would it change the game? Seems like Uber's only argument is they don't want their competitors to get ANY data about how many or what kind of cars they have in service. 
+
+They want regulations to apply only to taxicabs, but they still want to be able to claim tax credits originally intended for cabs. It's difficult to gauge whether the proportions are unnecessarily large with a handicapped taxi service, the reason being that handicapped taxis can be used by non-handicapped customers. 
+
+It just makes more cabs available to people with a handicap, which cuts down on their personal wait time, saves the taxi company money by not having to drag in a cab from the other side of the city, etc.  I think uber should have to have the % of vehicles as cabs that can transport handicap people. Being handicap accessible should apply to all businesses or none at all.  

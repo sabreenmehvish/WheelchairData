@@ -1,0 +1,56 @@
+Stopped my grandfather from throwing away interesting blueprints of 1950s war technology. Need help finding a place to scan such large documents. My grandfather was an engineer for General Electric during a time when GE was winning contract bids from the Defense Dept., the Pentagon, and NASA. He's got a box of about thirty blueprints/drafts sized 36x44 and larger (up to draft-table-size) that he drew up for various projects his team was assigned to. The blueprints are dated between 1956 and 1960.
+
+The blueprints are interesting, maybe only to me, if only because they're my grandfather's. Most are detailed enlargements of small parts, valves, gear boxes, etc. A few other drawings are mechanisms for aircraft maneuverability, tail defense systems, missile targeting, and three of them are of some kinda gyro/switch mechanism that was designed for the space shuttle.
+
+I've been trying to get these scanned for a couple years now, but the situation has come to a head.  My grandmother has recently become wheelchair-bound and they wiped out most of their storage space by contracting some handicap-accessible renovations.  So he's tossing shit left and right and wants to get rid of them.
+
+All these blueprints are folded up, and along each fold, the draft paper has yellowed.  I'd like to be able to scan these images (eliminate as much yellowing as possible as well as the noticeable folds in the paper, and hoping I can rise to the occasion with my photoshopping abilities) and shrink/crop them down to maybe 11x27 and maybe frame a few for him to hang in his study before he croaks.
+
+They do look pretty neat... notes scribbled all over them, various levels of approval initialed in unique penmanships, occasionally a bleeding red stamp reading "Dept. of Defense PROPOSAL REJECTED" or "VOID by General Electric" with "ABANDONED" handwritten below it. Stereotypical, even.
+
+My grandfather is semi-paranoid about me scanning these because most of the prints have a sticker on them warning that all the information is proprietary and not to be duplicated/distributed, but seriously, what's gonna happen? Am I gonna sell it to The Russians?? This shit is 50+yrs old now.
+
+No luck so far finding someone capable of scanning these, so I gotta tap the well of Reddit know-it-alls.
+
+**What I've already tried:**
+
+* I went to Kinko's because they said they had "large document scanning" capabilities, but these documents were too large.
+
+* I went to the College of Engineering @ Syracuse and they couldn't help me.
+
+* I tried a couple places online that you mail the blueprint to and they send it back with a digital copy, but they wouldn't scan them because of the proprietary warning labels.  And to be honest, I didn't really like the idea of mailing them away.
+
+* I went to /r/photography and got someone to take high-res images of the blueprints but they didn't come out very well.
+
+Any thoughts?  Maybe School of Mines might have a resource or something?  I'm kind of out of ideas.
+
+Thanks! I know that the CU-Boulder college of architecture and planning could handle this without a problem. I would contact them.  Go to lewan and associates on colorado. Don't call them.  Stop by and show them. They'll geek out and want to do it.  Try Archive.org, they just got funding for new scanning facilities.
+
+Maybe you need to find a big wall and use a good many megapixel camera.
+So ask around photo or video studios perhaps?
+ A quick google search gave up a couple local businesses that look promising. Warrants a couple phone calls anyway: https://www.google.com/search?q=large+scale+document+imaging&rlz=1C1CHFX_enUS479US479&oq=large+scale+document+imaging&aqs=chrome..69i57j0.7980j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=large+format+document+imaging+denver&safe=off Have you considered buying a good quality flatbed scanner and simply scanning them a piece at a time? You can then stitch the images together using photoshop or other apps that are available. The place I work has a large format scanner for pretty much this. I'm not sure if it will scan all the way up to 44", but I can check. It's pretty good sized, but it may only handle up to 36". 
+
+Edit: completely misread the sizing. I'm pretty sure it can handle 36".  Also, when you're all done scanning these, if you're going to throw them away, you  might consider contacting the gov't - like the Nat'l Archives or NASA - to see if they want them. A few years ago there was a huge stink because it was discovered that almost all of the blueprints from the 1950s-60s and even 70s that had been stored at NASA had been *thrown away*, including almost everything from the space program.
+
+Or a museum in the area, considering how much work was/is done here for defense and space. Hell, GE might even want them.
+
+If you're worried about getting in trouble, you could always pull the "I bought them at a yard sale in a box of other old documents years ago" routine. Sorry for being really late to the game here.  Have you tried Indox (LoDo) or Ken's Reproductions?  Indox has scanned some HUGE maps for me, but the largest one was too large for their scanner, so they recommended Ken's Reproductions.   I am a former woodworker, but I still tinker and frame interesting/historical things that I come across. (My most recent project is 3 large maps of Denver, all from the now-defunct Denver-based Hotchkiss Mapping Company: one from the 30s, one from the 50s, and one from the 70s. They're hanging next to each other in my living room.)
+
+Seriously, if you don't want to save the physical drawings can't find anywhere to archive them and would like them to go to somewhere they will get appreciated, let me know. I would even frame your favorite for you. :) The Western History Department of the Denver Library is used to all sorts of unusual artifacts and records, they would have the means or contacts to do so. While there is probably no issue copying them for yourself, if you try to sell or distribute them you might be in violation of ITAR and technically could be tried for treason. If none of these suggestions pan out try contacting a geography department in an area university. Most likely still have large format scanners, Seriously these things are like 5ft across. 
+
+Source: GIS geek transplanted from the east coast.  If you do get them scanned are you going to share with reddit?  I would love to see them.  How many drawings do you have?  I work for an architectural firm near 6th and broadway and we have a 48" color scanner. Only takes about 10 seconds a sheet to scan, but if the paper is in bad shape I would be hesitant to run it through the scanner. Bring a large external hard drive. Large format scans get huge quick.  Most engineering and architecture firms should be able to handle this. God damn I love boulder.  Best 4 years of my life.  
+Edit: didn't remember this was the Denver subreddit.  Thought it was a random coincidence.   I'll show myself out.  I hope so I will check it out I tried the denverdocumentscanning place already... when these online businesses say "large format" document scanning it pretty much means only slightly larger than 8 1/2 x 11, maxing out around A2. > A quick google search gave up a couple local businesses that look promising. Warrants a couple phone calls anyway: https://www.google.com/search?q=large+scale+document+imaging&rlz=1C1CHFX_enUS479US479&oq=large+scale+document+imaging&aqs=chrome..69i57j0.7980j0j7&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8#q=large+format+document+imaging+denver&safe=off
+
+ I've done this before with old geology maps & documents, same problem (creases and folds) and had pretty good results. There's a number of stitching apps you can download and use. I've also tried what Gnaw suggested, photographing them, with okay to great results. Message me for some tips that don't require lots of equipment if you'd like to try this out.
+
+Have you called the Air and Space Museum (Wings over the Rockies)? Or perhaps one of the local aerospace firms (Colorado Space Coalition would be a good place to start)?
+
+If nothing else, you might consider calling actual engineering firms and seeing if the engineers would help or offer their equipment or at the least have some suggestions. Oil & gas companies too. Seeing as how cool this is, I can see a bunch of engineers just jumping to help you. I think I'm more likely to damage the blueprints further than they already are.  The creases and folds are pretty delicate. The first thing we did was try various libraries, assuming they would convert them into some kinda digital archive, but nope.  They just box them up, stick a reference number on there, and wheel them away like the Lost Ark. I will check it out.  I haven't gotten them all done yet. I don't really care to sell them.  Just wanna shrink and frame them, get a few shadow boxes built because he has some bits and pieces of machine-shopped parts corresponding to a few of the blueprints and it would make a nice display. sure 25, maybe?  I appreciate the offer, thanks. I'll keep you posted. I've also used these guys for scanning maps and they were great; they scan up to 50''. I can't vouch for their engineering scans, but I've seen them work miracles with old well logs where the paper and type were horrible.
+
+[DDS](http://www.usgsquads.com/services/data-conversion-scanning-services) How about these guys, they specifically mention engineering drawings: http://www.msimaging.com/Services/Documents/MapsScanning Die slow  I hope you're right, these might be good options.
+
+The photography thing was a failure.  The yellowing vs the fading ink just didn't come out very well at all and the photographer really tried his best. Well, for large scale scanning they would be using a drum scanner which are usually fed through an auto feeder and automated devices are not very delicate. Probably high quality photography is your only bet, it would require tons of equipment and some sort of a lightbox but you don't have a lot of options. Do not post them online.   That could be construed as exporting to a non US person.  Even if it's 50yrs old stuff I wouldn't mess around without checking into the legal issues first.  Read up on ITAR.   Did he try black and white?
+
+Also I've made it work in Photoshop wherein the digital photos didn't look great but playing with various adjustment layers - channel mixing, color adjustments, etc., would make it work. If you're good with Photoshop you can also duplicate layers, play with the adjustment levels for exactly what you need, and then bring it all together in either a gray scale or black and white. (I would suggest you stitch it together first into 1 image.)
+
+Also I've had luck with photographing large documents twice. I make a grid using fishing line suspended over the maps, not directly on them, and then photograph it two times, once for the image itself and another time for certain problems (like fading ink) and then stitching it together. It might help to take a picture of it (with a cellphone camera or something) just so we can all see what we're dealing with. 
