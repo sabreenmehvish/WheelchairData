@@ -48,4 +48,4 @@ def csv_to_dict():
     #print(topics_list)
     return topics_list
 
-generate_page(csv_to_dict())
+#generate_page(csv_to_dict())
