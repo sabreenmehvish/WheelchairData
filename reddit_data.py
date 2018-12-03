@@ -4,15 +4,17 @@ import datetime as dt
 import urllib.parse, urllib.request, urllib.error, json
 import boto3
 import os
+import datetime
+
 s3 = boto3.resource('s3')
 
 
 #enter reddit credentials here
-reddit = praw.Reddit(client_id='client_id', \
-                     client_secret='client_secret', \
+reddit = praw.Reddit(client_id='ot3GaEquEnOMGg', \
+                     client_secret='bIjzZxOdVUlmH-Ljdr4AqvLuv18', \
                      user_agent='scrapey', \
-                     username='username', \
-                     password='password')
+                     username='hcde_research', \
+                     password='hcde_research')
 
 
 
@@ -112,7 +114,7 @@ def process_text(subreddit_list, post_getter, parsing_method, job_name):
         subreddit = reddit.subreddit(subname)
         sub_data = parsing_method(post_getter(subreddit), job_name)
         all_data.update(sub_data)
-    writeDocuments(all_data, False)
+    writeDocuments(all_data, True)
 
 
 
@@ -130,8 +132,8 @@ disability = ["Disability", "Veterans"]
 general = ["AskReddit", "legaladvice"]
 
 def test():
-    selected_subs = ["Disability"]
-    job_name = "cities_3"
-    process_text(selected_subs, lambda sub: sub.search("wheelchair"), post_per_document, job_name)
+    selected_subs = ["ADHD"]
+    job_name = "ADHD_interface_2"
+    process_text(selected_subs, lambda sub: sub.search("interface OR layout OR reading OR technology", limit = None), post_per_document, job_name)
 
-#test()
+test()
