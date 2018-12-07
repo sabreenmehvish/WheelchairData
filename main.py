@@ -1,4 +1,5 @@
-import topic_rendering as visualizer
+import topics_rendering as visualizer
+import webapp2
 application = webapp2.WSGIApplication([ \
                                       ('/.*', MainHandler)
                                       ])
