@@ -1,0 +1,32 @@
+grad students & assistive software/tools Are there any grad students out there who found a software that helped them stay focused when researching and writing? I heard about a software called "Inspiration." It claims to provide "research-based principles and strategies to develop and support our visual thinking and learning." In other words, it assists you in visually mapping out your ideas with graphs, charts, etc., to promote the formulation of larger themes. I can't tell if this particular software would actually be helpful for grad level research and writing. Does anyone know of any software/tools that are helpful to people with ADHD doing academic research and writing? I use Toggl to help me keep track of how much time I actually spend working. I find it really helps me be more aware of how I actually spend my time.  I switched over to OS X (Macbook), and I found that helped a bit. Granted, Windows 10 is a bit better with laptops now, and more streamlined. But just the overall sleekness of the user interface reduced distractions. I'll explain my thinking, although I don't know if this is what you are looking for:
+
+- With a desktop, there's a separation of mouse, keyboard, and a fairly large screen. Viewing distance is further. Your peripheral vision becomes distracting, and more things to keep your hands on become distracting. Furthermore, it's far easier to multitask and open tabs, and just get distracted. Hence, a laptop is helpful.
+- Windows 10 should be fine nowadays, but I find a Macbook Pro is even less distracting. The laptop itself doesn't have flashy bits or distracting parts to it. It's one metal unibody. The tactile feel of the computer is nice, again, not distracting. The trackpad, screen, everything, nothing to distract: No light bleed, uneven lighting, or weird trackpad feeling.
+- OS X itself pretty much runs full screen. Viewing a webpage? It's full screen. Nothing at the top or bottom to distract you. Need to switch from one application to another? Swipe up or to the side with a multi finger gesture. Less distractions overall, very quick, easy to switch on command without having to look at visual or audible distractions.
+- High resolution on the screen keeps from distracting. Pixelation on 1920x1080 bugs me.  Self control to keep me off Reddit is the only thing I've really used  I'm a postdoc who never found software such as what you write about. I do keep a 'priorities' list as a Word document; it is just an auto-numbered list with the highest-priority 'to do' items up top and highlighted. If I get an intrusive idea while I'm busy doing something else, I can type the idea into this list to think about later and then get back to whatever I was doing. I also wear ear plugs and headphones in the lab; these cut down on the interesting convos I could otherwise hear (and get distracted by) while also signaling to others that I'm not available. Kurzweil helps me get through journal articles, properly.  Cold Turkey
+
+Leechblock
+
+Trello / i.c.w Pomodoro and Google Calender
+
+Docear + PDF xchange editor (awesome for summarizing ; sadly enough development has semi-stopped).
+
+
+
+For writing papers I try to make a general outline and ask myself questions then I put these in Docear(mindmap/thesis writing software) and start highlighting parts of papers/research in pdf x change so I can export them(automaticly) in Docear.
+
+After that I use the mindmap to write my full paper.
+
+
+For distracting thoughts stuff I suddenly want to look up I use an external journal/paper to just jot down random thoughts, I also practice mindfulness for that. I don't know how sever your ADHD is? 
+When I want to write manuscript for publication I use text editor without any rich text, plain text and listen to white or brown noise sounds. I close all the notification or application on the screen and keep only the reference manager open in the other screen (i have two screens). 
+When I want to read, I found that reading from real book better for us as ADHDer as no coloring or image or pop up links so less distraction. Or use chrome adds-on for reading without distraction.   
+
+Unfortunately, most of the app are designed for non-ADHD users! you could use a text editor that  is minimalistic so you have less to distract you, I've used vim(old school cli(command line) editor),  sublime or atom.io are also nice. they have a lot of features and are easy to look at. Check out Docear, it's closest to what he wants :)
+
+Something like focus@will can be beneficial, but for me it's hit or miss. 
+Music with Lyrics is a big no-no, and can distract easily. Docear looks very cool! Glad I clicked onto this thread, I'm going to download it. I'm not sure about pdf xchange but another PDF reader I love is Mendeley.  I believe there were some things you cannot do in other PDF readers outside PDF x-change viewer(discontinued) compared to others, personally for reading PDFs I use SumatraPDF as it's lightweight. 
+
+For note taking though, I have to use more heavy duty stuff.
+
+Docear is cool but takes some time to get used too, and the development kinda halted so some functions only work half luckily in most cases it works fine. 

@@ -1,0 +1,31 @@
+What are some helpful extensions? What are your favorite browser or desktop extensions for time management, task management, avoiding distractions, sticking to routines, etc? I know there are lots of great mobile apps, but I need something for my desktop. These are the must have extensions for Chrome
+
+* [Stay Focused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) - Help keeps me on track with alerts
+* [Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn) - Amazing speed dial bookmark manager
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Straight forward adblocker
+* [Task Timer](https://chrome.google.com/webstore/detail/task-timer/aomfjmibjhhfdenfkpaodhnlhkolngif) - Help when im studying or researching An extension that loads pages only when you activate their tab, for the inevitable hundreds of tabs you open. And another to set a maximum limit for the number of tabs that remain active (and deactivates the least-recently used tab when passing that maximum). Not an extension, but something I find to be equally useful for keeping focus is brain.fm.
+
+If I throw on a focus track with some good immersive headphones, I find its very hard for me to get distracted. Very good study music without vocals, and backed by science. Great for listening on your desktop when working.
+
+I was skeptical at first, but I was actually impressed after using it, but YMMV. JustNotSorry for gmail. Underlines phrases and words that make you seem subordinate and aren't needed most of the time. [Evernote's Clearly](https://evernote.com/clearly/) extension is really a godsend. It breaks an entire webpage down into just a simple block of text, while still maintaining formats like titles, headers, etc. It's also pretty customizable. As of a couple weeks ago, it seems as though the Evernote team no longer offers the extension anymore. I still have it installed though, and it works just fine for me, but I don't know any other extensions that are similar to it.
+
+Evernote itself though is an incredibly useful program for organization. Having extensions is a distraction all by itself. What I do is to make sure the bookmark bar is not visible, because if it's there, I am almost automatically inclined to click one of the standard destinations i have saved there.
+
+The next thing is to drag the area to the right of the address bar so that the extension buttons take up no space at all and instead just display a little double arrow to access the extension buttons if I need them.
+
+Finally, make the Windows taskbar (if you're on Windows) set to auto-hide, so that you don't have other sources of distraction sitting there taunting you.
+
+RescueTime (Premium) is really good too. It has a feature that lets you choose how long you want to focus for, and then it will block any websites that are distracting (e.g. Reddit, Facebook, etc.) while still letting you access sites that are generally used for productive purposes (reference, Q&A, etc.). It also helps you keep track of how productive you are. [getpocket.com](http://www.getpocket.com) is very helpful. Instead of having a million tabs open that I want to "read later" I just click the pocket thing in the browser then close the tab and it saves it.
+ F.lux, while not helping you with focus, will help you prepare to sleep at reasonable times.  Aaaaaand now I've been browsing Chrome Extensions for 20 minutes straight.  Blacklist.
+
+Going on sites like 9gag became so habitual that sometimes I would close 9gag, open a new tab and search 9gag before I realised what I'd done. Now I just block them all. https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
+
+I use this at work. It replaces your chrome default home page with some really clean task tracking.  Not an extension but I have found it helpful to employ the Pomodoro Method when attempting a task. I set my pomodoros to equal v45 min with a resultant 20 min break. This really helps me out with work take greatly. I use an Android app called Pomodoro Challenge for this, but I'm sure there are many web apps that can do the same.  https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg
+
+helps block out facebook's newsfeed and instead shows you an inpirational or motivational quote. The one thats one mine right now is: 
+“This is your life and it's ending one minute at a time.”
+
+~ Tyler Durden, Fight Club Selfcontrol for OS X  Hair extensions. House extensions. Penis extentions.  Sunrise calendar  Leechblock is good for blocking websites. The great suspender This! Not focus track specifically, but house, drum & bass, etc with little  or no lyrics is what got me through cramming for exams and writing essays in university! This is great! I'm trying out relaxation right now. Feeling better already.
+
+Also, Videogame Soundtracks are great too, try the [Gone Home](https://www.youtube.com/watch?v=MmiL18iweGo)one. This sounds phenomenal! Pocket makes pages look like clearly when you save them  Agreed. Any track without vocals usually worked for me. But their tracks are always a guarentee for when I really need to get shit done.
+ Yes!! I'm trying to see if my buddy will help me write one that works for all of chrome that can let you edit which words and phrases you want to be aware of. 

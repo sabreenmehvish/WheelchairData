@@ -1,0 +1,35 @@
+Separate Operating System to stop procrastinating? Hey guys,
+
+I have a heck of a lot of trouble procrastinating when I'm at my machine. Youtube, you name it. Installing StayFocusd isn't really the answer, since it inevitably gets in the way of something I actually need to do.
+
+I had the idea of running a second OS on my PC to aid procrastination problems: One could either install a second OS to choose on startup, or use a virtual machine.
+
+My thoughts were that you could intentionally cripple it - make sure it doesn't have the codecs, etc., to run Youtube videos or pretty much anything other than that strictly required. A word processor, perhaps an early browser like Netscape Navigator, etc.
+
+Has anyone tried this before? it can backfire.... ive spent more time configuring my 2nd os then on almost any other thing.
+
+then again i went for ArchLinux.
+
+i did learn loads about oses which was one of the intended goals.
+
+edit: with that said its probably not a bad idea just warning you of some possible pitfalls. What /u/ito725 said. Everytime I jump back over to Linux I spend an insane amount of time making it "mine" Oh hey, I'll learn Vim, I'n sure that won't be distracting. 
+
+*spends 121 hours configuring* IMO, another OS isn't a very good idea.  A better idea would be using the pomodoro method to get through your day.  
+
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+You could add another user to whatever you are running now to get some separation between "work" and "not work." You could try a HIIT interval timer app that's configurable. Configure 10 repeats of 25 minutes followed by 5 minute cool down to cover 5 hours work for example.
+
+Knowing that you are allowed to do whatever within at most 25 minutes time from now can help you stay on task. I think you could use add-ons for chrome to help with that if you don't want to use 2 OSs. I tried this too, and multiple times. It never worked out, and just became another (albeit informative) side project. What specifically are you trying to block? And have you tried other, external methods like timers? I haven't gone quite that far, but close. Setting up parental controls, etc. and then banging the keyboard so I can't possibly know the password,etc.
+
+It's never worked for long. Behavioral therapy so I can pause and control my behavior when it starts slipping is the only thing that has helped for more than a week. I did this, and like several others in this thread, it backfired. Though I do a lot of programming and general computer stuff for my research, so some of it came in handy. 
+
+How about creating another user account instead? An admin account where you goof off and a user account with limited user privileges and just the applications you need for when you have to get down to business. 
+
+This could be an issue if you installed your time-wasting applications so that they're accessible to all users, but it might be worth a shot anyway, since it would take less time to configure, I imagine. 
+
+Whatever happens, I hope you find something that works for you!  As someone who started off trying to do that and ended up with 11 dead/dying laptops they've been deconstructing and reconstrucitng and fixing and putting new OSes on.... this.
+
+Not a bad idea, but it didn't help THAT aspect of my producctivity. But holy shit have I learned a SHITTON. Ahaha I got ahold of an old pc and wanted to set it up as a place for random projects(file server, testing, etc) and spent a whole month configuring arch and playing around with it before I even got to anything I had planned Yes I expect this, which is why I'm thinking a hobbled XP, rather than Linux. same though. Customizing linux can take up days of your life. This is me, in the flesh. deleted  ^^^^^^^^^^^^^^^^0.454067833) This is a good idea. I don't know the word HIIT Please tell me more. > I'm thinking a hobbled XP,
+
+Ugh. No.  Try a BSD. Lmao High Intensity Interval Training - normally used for that with 90s + 60s timers, repeated 5 times, but if it's configurable you can make it 25 minutes + 5 minutes repeated X times. Sorry, man, I forgot to check my inbox. Would you still find an expansion on my comment useful, or did someone else cover what you were looking for?  

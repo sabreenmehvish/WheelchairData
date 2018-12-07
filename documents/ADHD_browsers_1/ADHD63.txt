@@ -1,0 +1,17 @@
+How did you break a distraction addiction? I am heavily into webgames (idlers and tdf) and it is seriously screwing over my hw and life.. /u/numbattt has issue (though he/she labled it differently) with PokemonGo and I  bet there are many of you guys who have issues with many other things.
+
+&nbsp;
+
+While I realise this may not be the right space to ask this but I want to ask it in a community I know first.
+
+Thank you numbatt for spurring me to finally ask this. I have meant to for ages. If these games are browser based and you use a Windows computer, you can block them in the host file. There are instructions on how to do this at this link, or you can Google it and find some more tutorials.
+
+http://helpdeskgeek.com/how-to/block-websites-using-hosts-file/
+
+I like this better than using browser extensions because this method blocks the site on all your browsers, and it's a real pain in the ass to get into the host file. I used to use the stayfocusd chrome extension, but if I really wanted to go on Reddit or Tumblr or whatever, I'd just delete the extension or take the more extreme route and actually use Internet explorer.
+
+I'm not sure if phones or Mac computers have the same feature, but it'd be worth looking into. Not sure how to go about blocking apps. Well for me i cbf downloading pokemon Go cause it requries too much effort to download/setup/play the game.  Thanks for this. I did the same thing with extensions. 
+
+&nbsp;
+
+An issue I have is as a computer person, I get distracted by trying to get around the walls I put around my distractions (does that make sense?). But you have to try something.  

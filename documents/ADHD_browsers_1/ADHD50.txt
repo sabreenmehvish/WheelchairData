@@ -1,0 +1,32 @@
+What are some Apps/Programs/Tools you use to be productive and minimize procrastination? I find that even when I get new tools/apps to help, I forget to use it. Currently, I am using trello, Slack, and google calendar to keep organized, but I forget to update those. Rescuetime to family how long I'm actually working as well as block Reddit/Twitter outside of long Pomodoro breaks.
+
+So, also a Pomodoro app.
+
+Edit: I should note that I also use Trello, Slack, and Google Calendar. Trello and GCal to add structure to my day (making blocks of time for specific projects makes me commit to those blocks), and Slack to message myself ideas to check out later when inspiration hits but it's unrelated to my current project and I don't want to go down a distracting rabbit hole. Set them in a way that they would open up automatically when you start the computer and/or when you open a new internet browser. And, set some alarms throughout the day to take a look at them and update them. 
+
+- Startup programs how-to: 
+
+http://www.howtogeek.com/208224/how-to-add-programs-files-and-folders-to-system-startup-in-windows-8.1/ 
+
+(I open up MyLifeOrganized when the computer boots up)
+
+- New browser automatic tabs how-to: 
+
+https://support.google.com/chrome/answer/95314?hl=en
+
+This one is for Chrome. Other browsers would have similar settings in similar places. I open my work email and Google Calendar automatically whenever I open a new internet browser. 
+
+- Alarms: 
+
+I have one in the morning and one in the night set.  Calendar + Wunderlist (weekly chores/tasks)
+Google Keep for work I use TimeTree for my calendar app since it syncs to my boyfriend's phone as well and we can both put our tasks and events on there. I find it less confusing than GCal because it doesn't come with a bunch of things already uploaded on certain days and just seems less cluttered to me. And I use Forest to keep myself off of my phone for certain lengths of time like at work or in lecture at school. I have the same problem. I work full time and am in a doctoral program, so I have a lot that I need to stay on top of. Every semester I spend tons of time researching organizational methods, trying out apps, and automating workflow for myself (thanks hyperfocus). However, I have yet to find something that is appropriately visible and I cannot just ignore when I am feeling overwhelmed. I even flip flop between paper and apps because engaging with paper does help my memory more, but then the effort that it takes to keep paper with me and open it when I am overwhelmed keeps me from using it all the time. 
+
+That said, here are a few I have used and find to be more helpful than not:
+
+* 2Do (task/project manager)
+* ANote (Short for awesome note. One of the few apps that integrates a task manager and a calendar in a productive way. It also syncs with Evernote).
+* IFTT (Acronym for "If this, then." It is a task automator that creates workflows for you. For example, if you use Siri to make reminders, those reminders can be automatically created in another to-do app.
+
+What I really wish I could find is a to-do list app that remains on the lock screen or the black screen of my iPhone until I check them off, which I could also do from that screen.  Someone wrote a piece called the dark playground my god it was so accurate! It's about procrastination. u/letsgodevils123 can you elaborate on what you use Slack and Trello for?  Check out bullet journal for a great paper planner option. Changed my life! There's this app called Forest in which you are supposed to plant a tree in the app each time you intend to get something done (school assignment, laundry, whatever) you can choose the length of time (size of tree) and it will show you the "forest" you are creating as you plant more and more. If you exit the app your tree will die. It was a great tool while I remembered to use it ;) slack - get notifications from team members
+
+Trello - Organize some tasks 

@@ -1,0 +1,6 @@
+Tip: Use a Text-To-Speech addon for your web browser to help you manage getting through long articles. I have a very hard time reading long texts like articles because of my short attentionspan.
+
+I just realised that if I use a text-to-speech tool, [like this one for Chrome](https://chrome.google.com/webstore/detail/pgeolalilifpodheeocdmbhehgnkkbak), I just set it to read the text at the same time I am reading it. Having the text being red to me at the same time as I am reading it the text-to-speech program is holding my hand through the entire article. 
+
+It's helped me alot, hope it works for you to :)
+ 

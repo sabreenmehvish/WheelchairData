@@ -1,0 +1,28 @@
+[iOS] Instead of list of to-do, this app creates visualization of task. The interface emulates a game. Do you also like this new format instead of the list format in most apps? I have been using list based apps since iPhone came out. But it's always been a challenge to priotize task when the list is long. Or to visualize if I have days with too many deadline on that same day. Basically I felt human don't think in lists. We think visually. Example: while crossing a street we don't see cars as list with time to impact but more like cars in 2 dimensional space.
+
+The app interface shows to-do items as meteors falling form the sky. This is a fresh take on the boring list view that most of the common apps today. 
+
+The best part is when I completed a task the task meteors exploded in a giant ball of fireworks. A serious "Bad ass" way to say task complete.
+
+ On the other hand if I missed a deadline the meteor came crashing on the city with smoke and red fumes everywhere.
+
+This app makes my mundane to do list in to a sci-fi comet busting game. Even though it has been designed for gamers at heart, I think anyone can pick this up and make their work more fun.
+
+Here is the link: www.crimsonbox.net   Looks cool, is there an Android version? Sweet. I'm running into this issue where I have four days of undefined time and end up putting everything off until the last day, if I do it at all. Gonna see if this helps me today. Than you for the warm reception of the idea. Please share your thought on how to make it better. I am sure there are lot of us who don't really like lists. It should work, in theory. From what I've seen so far, Duolingo made their app in a similar way, which lets me learn a bit of Portuguese everyday. Trying it! Looks cool. Alright, I'm giving this a shot. I'm a horrible procrastinator, so hopefully this helps. Yay games! Thanks of the support guys. The App got featured in Launching Next as Worlds most promising startups!
+http://www.launchingnext.com I just tweeted at them and they said that they are working on an Android version
+ sorry not yet! Don't forget this app also has a timer function. You will unlock some decent performance stats by logging time as well. Hello, How do you like the App so far? Cool! Let me know how it works out. Don't let those boxes catch fire. Hi, wanted to connect with you to see, how like the App so far?
+Any changes you would like to see ? I would be super interested if there were an Android version! Oh man, it's been great! I start the timer and then it reminds me after an hour that the timer's still running and I realize I've gotten way way off task and can get back on track.
+
+You've made my life better. Or at least today. Thanks!!! Well, err. It looked good! I think that it could use a little bit of theme updating. It's a bit simple for me, actually.  I hear you. I will get that going. Thank you! That simple reminder helped me a lot too. But remember to stop and restart the timer. It gives you a good idea how long you can focus. You can track you progress day to day or week to week. Hi! I wanted to take a moment to say thanks for testing my app. Wanted to see how you like it so far? Any modification you want to see ? I hear you. I have been working on adding more game elements into it. I will release an update soon. Thanks for the feedback. You're the best! I can help test it out if you need it. I just saw the little message about feedback on there. I gotta go rate it.
+
+I really like how visual it is. 
+
+Also being able to see how long things take when I remember to actually use the timer. 
+
+This is probably specific to me and I know I could set it up with my phone timer, but I wish I could also use the timer to let me know when I've been doing x task for y amount of time. I know it alerts me after an hour but sometimes I can only go for fifteen or twenty minutes. 
+
+I showed my therapist the app too.
+
+Oh, and I find the "in the last 24 hours" chart really difficult to read for some reason. It looks kind of like overwhelming gibberish and I think it might have something to do with everything being white on black? But again, that might be more a me specific issue than anything.
+
+In all though, really satisfied so far. Hey, let me know when u get it updated. I'm an app/software enthusiast.  Thank you for such detailed input. I will release an update soon where you can choose the length of time of the reminder. As for the 24 hour view let me see what I can do to improve it. It's original intent was create a visualization of how you spent your time thought out the day and brag about it if you feel like it.  Hey, thanks for making it. And the pop ups in the beginning explaining features was alsp super helpful 

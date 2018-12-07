@@ -1,0 +1,52 @@
+MEGA THREAD AND LIST of apps to help with distractoins     i want to make a list of apps to help with distractions 
+    Fill out in comments with this format ( [Platform] App name)
+    examples of platforms( chrome, iphone, android...) 
+    I will at it to the list bellow 
+________________________________________________________________________________________________
+>Chrome
+
+* stay focused 
+* beeline reader
+
+Spreed
+
+Strict workflow
+
+time warp
+_________________________________________________________________________________________________
+
+> Apple 
+*beeline reader
+
+Strict workflow
+
+_________________________
+> Android 
+
+Beeline reader 
+
+_________________________________________
+
+>firefox
+ 
+*beeline reader
+
+___________________
+> windows
+
+Spreed [CHROME] [FIREFOX] [iOS] 
+[ANDROID] Beeline Reader
+
+Also has an online PDF converter. 
+
+http://www.beelinereader.com/
+ All (Safari on Mac, FF Mac, Chrome Mac - Confident it works on Windows too):
+
+* [Spreed](http://www.spreeder.com) - 'Speed reading' program isolates one word at a time. A lot of my issues involve getting distracted because I'm 'bored' halfway through a passage. I can read large chunks of text for long periods with this because I'm forced to look at it or I miss a word. Also removes the 'voice' narrating text in your head which is said to help with memory and be less distracting. Speed is adjustable. My WPM without this is 185, but with it I can do 230. 
+ Chrome: Strict Workflow [Chrome] Time Warp Windows/Mac: * Anti-Social: Can block the load to every page you want for a certain time. It work perfectly, and even if you restart your computer or close the program from task manager, the block still working.* Freedom: From the same developers of Anti-Social, this block access to internet for a certain time. They cost $20 for the two programs. Or 15 for Anti-Social and 10 for Freedom.http://anti-social.cc/http://macfreedom.com/ Shit, is this how fast normal people read?! thanks i added it I couldn't get this to work on Android, and I don't know what I'm doing wrong. How do you set it up?  Hi, BeeLine Reader here. It is possible to use our bookmarklets with the Chrome browser (generic instructions for installing bookmarklets on Chrome [here](http://bit.ly/1gKvVQ2), our bookmarklets [here](http://www.beelinereader.com/install)—scroll down to the iOS/bookmarklet section). In order to activate the bookmarklet, you have to type the first letter or two of its "name" in the URL bar, then tap to autocomplete. For some reason, mobile Chrome won't let you activate by simply tapping the bookmark itself. Let me know if I can explain this process further. 
+
+BTW, we are considering building a plugin for the Dolphin browser for Android. Would this be of interest, or are you locked into the Chrome browser? I use chrome out of preference. An app for an Android browser would be great, but if it's possible to make an app to change the text on other applications, that'd be great! I often do most of my "heavy reading" on my phone on reddit.  We are looking for ways to get this tech available across multiple apps, but this it's pretty difficult in Android and impossible (outside of jailbreak tweaks, which we're investigating) on iOS. Basically we need Google/Apple to cooperate, but for now, they're not interested.
+
+Is there an app you use to read reddit on your phone? Some folks have [tried to get this on AlienBlue](http://redd.it/251nhz), but they didn't go for it. I use reddit is fun. I believe it's the most widely used reddit app on Android, but I could be wrong. 
+
+I just want to say that I think the Beeline Reader is really great. For someone who has trouble focusing on reading lines, it works wonders for me!  

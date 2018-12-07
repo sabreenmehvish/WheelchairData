@@ -1,0 +1,51 @@
+Today's xkcd, I'm sure users here will identify with it.  I have 20 tabs I've meant to read later........ I was at a friends place once (shared apartment area I guess, I live next door) and I was on my phone and she snap chatted me. I was confused since she was right next to me. 
+
+
+In the snap was me, with my laptop on my lap, phone in hand, iPad on the arm of the chair I was in. She captioned it "too much" lol 
+
+ [Relelvent](http://xkcd.com/1106/) I work in IT, so it's not uncommon to have a million things running at once. Sometimes it gets ridiculous and almost unusable because of the sheer amount of windows and tabs I have open. What ends up happening is I run an update or something that requires a restart and go to far before I remember that I have so much stuff open, and then I have to close everything anyways. 
+
+I guess I wasn't supposed to need everything open all the time... I've caught myself on my phone, switching to my iPad, looking at my tv, then looking at my laptop. All while I'm *suppose* to be studying.  I usually grab my computer with a goal in mind... Today I ended up looking at calligraphy pens for my mom and still can't remember what I was supposed to be looking up.  Today I checked Facebook on my phone when I was sitting in front of my lap top on Facebook.
+
+On the plus side, I only have 10 tabs open right now. Oh man this is the story of my god damn life... Heh, the alt-text, too! I've got a plastic bin filed with half-read novels, biographies, and non-fiction...   
+ I've been looking for this comic. So I read it, clicked random a few times, (literally under 5 times) and came back to this same one....
+
+And now I'm back on Reddit. This is spot on if you swap news with reddit. ...In both of the browser windows I have open. I started keeping bookmarks to keep track of all the interesting stuff I need to read.
+
+I have 4600 bookmarks... my life became so much less complicated when I stopped lying to myself about reading articles My husband says my tabs are like a sharp saw.  I have literally 24 tabs in 4 windows because I can have multiple desktops on my macbook pro I do that ALL the time. Ha. I'm kind of doing it right now.  [Image](http://imgs.xkcd.com/comics/add.png)
+
+**Title:** ADD
+
+**Title-text:** 20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
+
+[Comic Explanation](http://www.explainxkcd.com/wiki/index.php?title=1106#Explanation)
+
+**Stats:** This comic has been referenced 27 times, representing 0.0872% of referenced xkcds.
+
+---
+^[xkcd.com](http://www.xkcd.com) ^| ^[xkcd sub](http://www.reddit.com/r/xkcd/) ^| ^[Problems/Bugs?](http://www.reddit.com/r/xkcd_transcriber/) ^| ^[Statistics](http://xkcdref.info/statistics/) ^| ^[Stop Replying](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=ignore%20me&message=ignore%20me) ^| ^[Delete](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=delete&message=delete%20t1_cjxqklu) I suspect that Randall Munroe has ADHD, as he's referenced it a few times both directly (as in your example) and [indirectly](http://xkcd.com/602/). I feel the same, and its made even worse given that most of my work is done in a terminal. If I don't have at least 12 browser tabs open and at least 6 terminal windows open, I feel like something is off. 
+
+Its especially bad when I manage to find a long lost terminal window with an already active ssh connection to a server that I just opened a fresh connection to. HAHAHAHA,  I am in IT and I do the EXACT same thing. And to keep some sanity I have recently resorted to sending them to evernote if I haven't read them in a week.... I'm sure I'll get to them later :/ Heh. Cute. Right now I literally have 17 browser windows open, the "emptiest" one has 4 tabs open, the "busiest" one has 14 tabs open.
+
+^^help. I do this on my laptop AND my phone.
+
+Is there a way I can have synced browsers? You don't *read* porn, you *watch* it. [Image](http://imgs.xkcd.com/comics/overstimulated.png)
+
+**Title:** Overstimulated
+
+**Title-text:** My favorite thing to do at parties is to talk judgmentally about people who aren't there.
+
+[Comic Explanation](http://www.explainxkcd.com/wiki/index.php?title=602#Explanation)
+
+**Stats:** This comic has been referenced 2 times, representing 0.0064% of referenced xkcds.
+
+---
+^[xkcd.com](http://www.xkcd.com) ^| ^[xkcd sub](http://www.reddit.com/r/xkcd/) ^| ^[Problems/Bugs?](http://www.reddit.com/r/xkcd_transcriber/) ^| ^[Statistics](http://xkcdref.info/statistics/) ^| ^[Stop Replying](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=ignore%20me&message=ignore%20me) ^| ^[Delete](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=delete&message=delete%20t1_cjy5w3d) I end up trying to run a command on that long lost ssh session...
+
+"What do you mean, 'No such file or directory'?? Wait. Oh. That's not my hostname..."
+
+    exit *hifives*  My bookmark folder of stuff he left open (foldered by date) is getting large...
+ Chrome. Sigh, [don't remind me](http://imgur.com/idabqno). I once rebooted a heavily-used shell server in the middle of the day when I mistook a remote session for a local terminal.
+
+*Sorry!* o/  
+*highfives back* 

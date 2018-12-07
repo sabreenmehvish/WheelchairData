@@ -1,0 +1,69 @@
+Help me with tips on apps/techniques to organize everything from cat videos to important e-mails in one place. So now i have been diagnosed for little over a month and I'm on my forth day of 18mg methylphenidate xr and I'm on a mission to get my shit together.
+
+Like many of you i have huge problems with organizing and planning. I've spent some time thinking about it and i have realized that my biggest problem is that everything is spread out in different places. Google calendar for events and deadlines, one app for for reminder notes, having a huge amount of unsorted bookmarks in chrome with stuff for later, random files spread out in different folders etc.
+
+This just ends up in me inventing a new system or get a new app each time i need to organize or remember something new and instantly forget what it was, how it was done, and in what dusty corner of my computer or phone i saved it and when i stumble upon it again three months later It's no longer relevant.
+
+So what I'm looking for is one cloud based master organizer app or a small set that interacts good with eachother that i can commit fully to and use for everything (or as much as possible)
+
+**Examples of usage:**
+
+* Calendar
+* Saving important email's
+* Find a youtube video or other link - put it in a list of other links
+* I want to see that tv-show in two weeks, put it on a list with a notification
+* A cool movie new tv-show that premiers in 6 months, send me a reminder and put it on a list with other movies/shows
+* A good idea, i need to write this down before it disappears.
+* A nice informational cheat sheet picture, lets save that
+* A nice pice of example code that i need to look at often.
+* Frequently accesed programming references
+* **etc etc etc** Basically one place for everything i would ever want to remember in one place.
+
+**Requirements:**
+
+* Good reminder features.
+* Good features for structuring and organizing the content
+* Cloud synched
+* Good android app
+* Good web-ui OR linux desktop-client
+
+**Advantages:**
+
+* Easy to use
+* Good integration with gmail and other google services.
+* Plugin support
+* Video usage tutorials
+* A good community with people exchanging tips or creating plug-ins.
+
+It does NOT have to be free, subscription fees up to $5-$15 a month is acceptable as long as it is worth the money. I would rather pay for the best  than use something bad just because it is free.
+
+I have been looking into [Evernote](https://www.evernote.com/) but I'm not in love with the interface and would like to receive tips on other applications or if you have other tips on how to systematically collect your life in one place before i commit to something.
+
+
+
+**TL;DR**
+Bombard me with tips on cloud based android/web-based/linux-desktop organizer apps e.g Evernote or other ways/techniques to organize my whole life in one place. It does **NOT** have to be free of charge.
+
+*edit formatting Google Keep does a lot of the things you want. You can create notes with text, images, and drawings (even voice if you're on mobile). You can set reminders based on a specific time or location (if you have your location service turned on). Your notes can also be given labels and color coded for easy sorting.
+
+IIRC reminders will sync with google calendar. I haven't tried using keep with my gmail, but I'd be surprised if there wasn't some functionality there. I've tried quite a few note taking apps but mist of them fail at one certain point. I need to go back and read the stuff i wrote down, which i forget to do and it might not be time-sensitive so it'll just lay there.
+
+Google Inbox is great for email. There you mark you emails as Done which directs them to the archive. It can automatically sort and group your messages. It works great with reminders, you can for instance delay an email for another time so it'll reappear as a new one at the given time.
+If you need to remember specific things there you can Sticky emails or leave them un-done.
+
+With a clean inbox it's easy to see what you might've forgotten because you've removed all the shit.
+
+Google Calendar is great to and about shows airing I used to subscribe to my own TV Show calendar to know when a certain show airs so that I can watch it the next day. The site is called www.pogdesign.co.uk and you can from there get a link to your own calendar to add to e.g. Google Calendar.
+
+For remembering bookmarks for *later* I'm using a certain *Read later* folder in Chrome bookmarks and then I have the Chrome bookmark widget on my second homescreen page (via Nova launcher) so now I can see the links very easy but the main problem still remain - to actually read them.
+
+And about the Google Calendar, the widget is soo useful for remembering things. I have many calendars for different purposes and have tried to get my SO to share her calendar with me so I can keep track of her activities and (when they are).
+
+Add reminders for calendar events in different time-lengts like 1h before and 1-2 days before so you'll avoid scheduling something for the coming days when you're actually booked.
+
+
+Edit: I'm one of those now. Wow. Can't believe I wrote all this text :D
+
+One more thing, if you want to improve you time management and *time awareness* I recommend buying a wristwatch with a timer and stopwatch. For an activity set out 20 min intervals (a la pomodoro technique), rest or restart the timer if you need more time. When the activity has ended you start the stopwatch which you'll look at when it's time for your next activity. *How much time did you loose?* 
+
+I find it great keeping track of where my time goes and limiting my activities to 20min intervals. If you find yourself having lost a 1,5 hours at nothing you know where you need to improve or be mindful. I like using Evernote, but the web interface is crap, IMO. However I think there are some unofficial Linux clients for it out there, if the major barrier is UI.It did take me a while to figure out just how useful the Evernote web clipper is. As for calendar/reminder integration, I really recommend IFTTT, which helps automate things between different services (a whole bunch of them!) really nicely. Helps curb the sudden "oh no, I forgot to put X thing I wrote in Evernote on my google calendar and I was supposed to be at X yesterday!" realizations. I love pinterest for this kind of stuff.  Thanks for your tips, the not reading stuff is a problem for me to which i think collecting everything in one place might solve. I'll definitely check out the tv-calendar thanks!  Yea i checked out nix-note and i didn't love that either, I'm thinking ill try to see if the windows client works good with wine. I'm following a youtube tutorial series that just covered the web-clipper and I'm starting to realize that evernote might be the right tool. I'll definitely check out IFTTT thanks!  

@@ -1,0 +1,6 @@
+StayFocusd - a handy browser extension for keeping your mind on track This might have been linked before, but today I found this really great extension for Chrome which blocks specific websites for set periods of time. I had a load of work to do and would usually have spent most of the day playing Tetris or on Reddit, but once they were blocked I actually managed to get something done! Here's the link: 
+
+https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji
+
+This is specifically for Chrome but I think I read that there are equivalents for other browsers and different devices. Hope it helps some of you!
+ 
