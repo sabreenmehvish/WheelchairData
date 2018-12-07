@@ -4,11 +4,15 @@
     <title>Topics</title>
 </head>
 <body>
-	<h1>Topics</h1>
-    <ul id="topics_list">
-    {% for item in topics_list%}
-        <li>{{item}}</li>
+	<h3>Topics for {{values['job_name']}}</h3>
+    
+    {% for item in values['topics_list'] %}
+		<h1>Topic {{loop.index}}</h1>
+		<ul id="terms_list">
+			{% for term in item %}
+				<li>{{term}}</li>
+			{% endfor %}
+		</ul>
     {% endfor %}
-    </ul>
 </body>
 </html>

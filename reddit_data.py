@@ -88,7 +88,7 @@ def post_per_document(posts, job_name):
 #save value in .txt file, named with key
 #optionally, upload the file to S3 bucket
 def writeDocuments(document_index, should_upload):
-    print("----Writing----")
+    print("----Preparing documents for topic modelling----")
     for doc_name in document_index:
         doc_path = "documents/" + doc_name + ".txt"
         directory = os.path.dirname(doc_path)
@@ -101,6 +101,7 @@ def writeDocuments(document_index, should_upload):
         output.close()
         if should_upload:
             s3.Bucket('redditdocuments').upload_file(doc_path, Key=doc_path)
+        print(doc_name)
 
 
 #extracts reddit content from specified subreddits
@@ -136,4 +137,4 @@ def test():
     job_name = "ADHD_interface_2"
     process_text(selected_subs, lambda sub: sub.search("interface OR layout OR reading OR technology", limit = None), post_per_document, job_name)
 
-test()
+#test()
