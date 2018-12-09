@@ -22,7 +22,7 @@ def run_topic_model(job_name, num_topics):
     input_s3_url = "s3://redditdocuments/documents/" + job_name
     input_doc_format = "ONE_DOC_PER_FILE"
     output_s3_url = "s3://redditdocuments/analysis/" + job_name
-    data_access_role_arn = "insert_arn"
+    data_access_role_arn = "<insert arn here>"
     number_of_topics = num_topics
 
     input_data_config = {"S3Uri": input_s3_url, "InputFormat": input_doc_format}

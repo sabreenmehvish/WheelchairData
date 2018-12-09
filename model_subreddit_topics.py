@@ -18,7 +18,7 @@ def get_subreddit_topics(subreddits, query, job_name, num_topics):
     output_path = topic_modelling.run_topic_model(job_name, num_topics)
     if not os.path.isdir(output_path[:-13]):
         os.makedirs(output_path[:-13])
-    topics_rendering.visualize_topics(job_name, get_topics_file(output_path))
+    return topics_rendering.visualize_topics(job_name, get_topics_file(output_path), num_topics)
 
 def get_topics_file(filepath):
     BUCKET_NAME = 'redditdocuments'  # replace with your bucket name

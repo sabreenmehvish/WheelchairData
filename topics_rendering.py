@@ -11,12 +11,10 @@ def substitute_template(values):
 
     template = JINJA_ENVIRONMENT.get_template('topics_template.html')
     page = template.render(values = values)
-    f = open("topics_page.html", "w")
-    f.write(page)
-    print(page)
+    return page
 
-def csv_to_dict(csv_path):
-    topics_list = [{} for i in range(30)]
+def csv_to_dict(csv_path, num_topics):
+    topics_list = [{} for i in range(num_topics)]
     with open(csv_path) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -29,7 +27,7 @@ def csv_to_dict(csv_path):
             line_count += 1
     return topics_list
 
-def visualize_topics(job_name, output_path):
-    values = {"job_name": job_name, "topics_list": csv_to_dict(output_path)}
-    substitute_template(values)
+def visualize_topics(job_name, output_path, num_topics):
+    values = {"job_name": job_name, "topics_list": csv_to_dict(output_path, num_topics)}
+    return substitute_template(values)
 
