@@ -1,0 +1,95 @@
+Is the layout in this subreddit some sort of sick joke? I can't be the only one who thinks that all the weird colors and pop-ups that seem to only be in the ADHD subreddit make it way too distracting to be enjoyable. Bring on some suggestions, then!  We're always open to hearing ideas and improving the subreddit.
+
+While I feel comfortable with CSS, I have *zero* eye for creativity.  Any tips, pointers, suggestions, *mock ups*, etc. would be **greatly appreciated**! :)
+
+###### Update
+
+OK, I'm working on another stylesheet.  It was very clearly stolen from a different subreddit, and so I want to make it a bit more unique before I open it to subreddit scrutiny.  There are also a couple of other people working on stylesheets as well, so the plan is to gather them all up and see if we can't combine the best features of each into a nice, clean, readable, focusing layout.
+
+I'm sorry everyone apparently dislikes the current style so much.  Our intention was not to distract or confuse or fluster.  We truly do appreciate the feedback, and changes are in the pipeline.  Stay tuned :) In the meantime, install [Reddit Enhancement Suite](http://redditenhancementsuite.com) and then uncheck the "Use subreddit style" box in the sidebar right below the subreddit title. [(here)](http://snag.gy/3LKxP.jpg)
+
+Takes you from [this](http://snag.gy/2FgK4.jpg) to [this](http://snag.gy/rU8bj.jpg) while still allowing custom styles in other subreddits (non-RES reddit is all or none). I agree, having a visually distracting theme for /r/ADHD seems an odd choice. The bright colours in the sidebar are a slight, but constant distraction when I'm reading. while I appreciate the work the mods do, I wish it were more pastel or green so my eye wouldn't get caught every time. Seems like there is more colors now than when I first subscribed to this sub-reddit. But I agreee, it's slighty annoying and one of the reasons it's so hard to find rules for posting, the FAQ is easy to see, but not a lot of people (i believe) wants to read through that. the New /r/adhd posting rules should be on the top of the sidebar but have just one color, or actually it probably be better if all the the text had one color, except for the links. kind of like the /r/minimalism sub-reddit, probably the sub-reddit that is easiest on the eyes and a pleasure to browse. (I spend time ther just because of the soft, clean, stylish color scheme.  I am not sure what you guys mean because I have an App called AlienBlue which is for the iPhone and it has color scheme choices. I like being able to read reddit without eyebleed and sometimes it just happens that the red theme I liked yesterday makes me cringe today and a soft silver works better. Or night mode. If you have an iPhone look into it cause it's worth it to have things gentle to ones attention span and eyes. Oh yeah it's got Readability integration.  That doesn't require an app or even an iPhone. Makes reading the web a lot more pleasant.  I am so glad I am not the only one who thought this. I blame it on feature creep. I do kind of agree that we need to overhaul the css. 
+
+I think we need to get rid of flair, the clever auto labeler,  I am writing this right now so I remember to bring up with the other mods.  The "hover" parts of the sidebar are meant to minimize the 'overwhelm' -- we're working on making them better, so more of the sidebar would be compressed and it would be shorter overall.
+
+The colors change to bring your attention to new information in the sticky. Oh thanks for writing this.   Gave me a good guffaw.  Phew, that is funny.  
+
+Yeah, I've had the same thought many times but just decided not to mention it again.  (There was another topic on this a while ago.)  
+
+Anyways, thanks for the laugh.  (I pictured some trolling mods fucking with the poor add folk. ) 
+
+(BTW - Thanks mods.  Doing good work here so the look stuff doesn't matter so much to me.) The simplicity of /r/Chrome is appealing to me. Not everyone can be a graphic designer like I am. If someone needs help making the css for this subreddit (though I have no idea how reddit substyles work) I can do it. Just to toss out my two cents... While I agree that the current colour scheme is a bit busy, I **like** the intention.  I like the contrast between threads, which was clearly done to make it easier to focus on.  I just think it could be done in slightly slicker way. I would like if future incarnations kept this concept.
+
+I'm a former graphic designer, I'd be happy to help a bit.  However, unlike the many other talented people here, I don't have time to come up with a new style myself. [deleted] [my comment](http://www.reddit.com/r/ADHD/comments/ykrg9/is_the_layout_in_this_subreddit_some_sort_of_sick/c5wimdx) Ask /r/Design for suggestions. Well my first one is to test the page with Page Zoom 4.2 add on in Firefox. That top highlighted box scales up and overlaps the first thread title. Second that purple/red pop up thing write before you post a comment thing whatever it says get rid of it. We would rather people not do this, and instead let us know what is bugging them and we might fix it. Reddit offers very little options for formatting and we cannot highlight important stuff without it.
+
+All the changes have the goal of being more ADHD-friendly. Some are small tweaks to white-space and font, while others are more major. Ideally we will be able to get the best of both worlds having a simple uncluttered front page which will make our announcements stand out much more. I installed it but Its default setting does not seem to remove all that highlight text. At the risk of it becoming a self-depreciating ADHD joke, I just had to read the sidebar now instead of the rest of the comments because this was the top one :D We just made it the color off Reddit because the others we tried were too off-putting. I'll try a more pastel blue today. We have only really gotten a couple complaints, (2 or 3) and those people said after using it a bit, it was actually helpful to **visually differentiate** posts quicker. *EDIT: I realize you might be talking about the sidebar here. I was talking about the post colors. Adderall hasn't kicked in yet...*
+
+We could probably get rid of the upvote popup too. Initially when we put that in, there were threads which had a wide # of people commenting, but just 3 upvotes. The community seems to be upvoting more often now. And that CSS is kind of annoying. 
+
+I am fine with the sidebar colors remaining the same, but the thought behind that is, people just won't read the sidebar if we didn't do this. However, we were updating the sidebar a bit more frequently when we did this. So maybe that doesn't need to happen anymore.
+
+All the CSS changes were made to ideally be more ADHD-friendly and some might backfire. We put more whitespace, made the # of comment text bigger, slightly bigger titles...there are many tweaks under the hood.
+
+I made most the CSS changes and **knew 0 CSS when I became a mod.** I just find what I like in other subreddits and implement this here. **Anyone can find a part of another subreddit they like and bring it to my attention and I will see if we can add it to /r/ADHD.**
+
+There is a delicate balance between helpful and distracting and obviously sometimes it doesn't work. **But we would never know this unless people complained! Message the moderators and we will likely make a change. We get like 1 message every two weeks. Make your voice heard and praise/complain to us!**
+
+####But we are not getting rid of these headers :-)
+
+***
+
+EDIT: I removed the comment submit hover popup thingie. (looks like some of the CSS is cached but I assure you I removed all the code for this)
+
+EDIT2: Changed to a very light green for the coloring in sidebar and announcement About a thousand people view /r/ADHD every day...but it took months for someone to finally say something...don't just think...take action! We really need to come up with themes for the sticky then and just have a few colors. Some of the themes I can think of now are
+
+* New kick-start Sunday - green
+* New Win Wednesday - Yellow
+* Random quote - light blue
+* link to awesome ADHD article or resources online - light red
+
+Something like that. Right now it is too much. Also the announcement box looks worse IMO now, since we 'fixed' the clipping. It is a hack to put it there so not sure what kind of options we have. I will find another sub who implemented it better. I'm personally partial to [/r/minimalism](/r/minimalism). > I like the contrast between threads, which was clearly done to make it easier to focus on. I just think it could be done in slightly slicker way. I would like if future incarnations kept this concept.
+
+Agreed, and I'm going to try to come up with a better solution.  Probably a background that isn't so.. bright for alternating posts.   All we have control over is CSS.
+
+If it's easy to convert those skeleton files to reddit classes and ids, that'd be pretty cool.  I'm at work right now, so I have little time to do anything at the moment.
+
+Thanks for the offer :)   If you can design graphics you could always design us a new /r/ADHD header, subtle background, or convert some of our headings on the sidebar (community guidelines, /r/ADHD posting rules, etc) to neat images.
+
+We could make you a mod of a very small ADHD sub (well only a couple people), but I will make posts of various types so you can see changes right away. Just let me know! Shortly, we will be able to allow members of the community to edit CSS without being moderators. This will be awesome and I hope it gets enabled soon! 
+
+Come to our chatroom and give us CSS suggestions. I am sure you know how to view each subreddit CSS so look at ours and possibly give suggestions we can implement... Personally, I think [/r/graphic_design](http://www.reddit.com/r/graphic_design) would be better. We're aware of the issues, I was asking more for suggestions on fixes or alternatives :) You have to manually uncheck the "Use subreddit style" box in the subreddit's sidebar. Oh I didn't realize YOU had changed it or why.  I try to leave color changes to sticky changes, and the pastel green with orange clashed horribly.  Worse than that the CSS seems messed up.
+
+*edit: to clarify, when I saw the changes, I thought some glitch had happened and sat down immediately to restore it. Idk what is the announcement box. 
+
+I like the dark background on the sticky/sidebar borders. That way we can keep white for the text / sidebar background, and a contrast for the links. 
+
+More later ... Like that too. I think that would be a horrible idea -- 5,200 ADHD people editing a single page?   >Shortly, we will be able to allow members of the community to edit CSS without being moderators. This will be awesome and I hope it gets enabled soon!
+
+Wait, what, huh? Isn't there a default setup for building a sub reddit? I like the less is more approach. Damn solves every problem instantly thanks :) Yes, the green and orange did clash. But I kind of liked the green. I changed it because of these complaints. How do you think the CSS is messed up? At least we have backups. I suppose it is time to reorganize the stylesheet anyway.. Sticky up top = announcement  Maybe three blue-violet, dark cobalt, and dark teal; bluish shades will coordinate better with the alternating blue background of the posts. Then link colors could also be bluish: bright aqua, spring green, and lavender.  Changed my reddit to this style - maybe we could adopt it as the standard style?
+
+http://i.imgur.com/qf3lZ.jpg
+ No. Just a few selected people. I thought this was the case. I think it was announced along with their WIKI. They will have different levels of permissions to give to users. Might be a fuzzy memory though... Another reason I like a styled look, is people will visually know they are on /r/ADHD. I agree, this doesn't have to be cluttered, it could be simple. Hopefully they will like the look and not disable styles and view /r/ADHD directly and not just from their front page.
+
+But I don't know what you mean by the cluttered graphical layout? The announcement bar is important to share things with the community because people don't read the sidebar more than once. 
+
+We actually have more white space. Default reddit page has 15 stories on my screen and /r/ADHD has 12. We could go more white space, but then that would involve more scrolling.
+
+Color is important. This is something reddit is lacking. Most people with ADHD are visual. Now, I understand we have not used color in an ideal manner. The color tagging WAS supposed to have a uniformity and order to it, but we haven't quite figured out the best categories to use it with. 
+
+We could tone down the alternating blue slightly. I think this does help the eye differentiate threads quicker (at least in my case). The alternating colors is used in RES for comment threads (at least there is an option).
+
+ The default set up looks exactly like the front page.  Our goal is to make things easier to follow, make specific things stand out more, and provide just a cleaner interface so that the ADHD mind doesn't get quite as distracted.
+
+Based on the feedback today, clearly we're not quite doing as well as we thought =P
+
+I'm all for less is more, and I plan to rough out some "sketches" tonight and see what I can come up with. What **problems** do you have?  Reddit has blue; your alternating post backgrounds are blue, the sidebar should be blue too; unless we make those all that pale green.  We were changing the sidebar colors **in order to get posters to notice and read the sidebar first**, but we can of course make it constant.  I just think any changes should happen with normal announcement changes, as we have been doing all along.
+
+Should we start deleting posts that don't follow the guidelines of searching first, instead?
+
+I don't know what happened to the CSS; the headers aren't showing up as sticky background color as they used to, and copying the CSS from the backup has lots of other artifacts that lead to errors -- some urls to thumbnails.  I fixed it as much as I can stand, and gave up. If there was any advantage of  using cluttered graphical layouts to improve readability or focus it would also apply to people without ADHD and we would see it used everywhere. It does not work.   The pages here were not rendering right with page zoom 4.3 FireFox addon. Highlighted titles were overlapping text making it unreadable unless I turn the zoom down to fonts I could barely see.  Highlighted colored texts is harder to read. Black text on a white background is better. The guidelines are just that...guidelines. So no. We could possibly remove posts that violate the rules (which will cause another uproar), but that might be for the good. We have had the rules long enough now and people should be aware of them if they are not.
+
+We probably should have a heading over the medical advice/diagnosis, recreational drugs, and conspiracy theories because those are not guidelines. Look, the intention was not to clutter anything, okay?  This is the very first time since I've been a mod that we have received this kind of feedback on the layout.  
+
+I appreciate everyone's concern and desire to change the layout, all I am doing is stating the initial intentions.  *Clearly* things did not work out as desired.
+
+The goal now is to move forward and find something that _does_ work, and for that we need suggestions and advice, not continued harping on the current situation. Yeah we are not CSS guru's so we won't know about it breaking compatibility until someone tells us. I can see how that might happen. Hopefully someone who is a pro at CSS can help us with the design and compatibility aspect. I don't know what happened to the headings -- something to do with the CSS.   

@@ -1,0 +1,31 @@
+DAE find the color palate of /r/ADHD to be incredibly distracting? The font and color scheme are just really loud to me.  Interferes with reading the page in an orderly manner.  This is seriously the only subreddit where I have this problem. Could you point out specifics?  We had people complain about it last time and they offered some ideas that we've tried to act on, but we need specifics of what bothers you and what bothers other people before we can make any changes.
+
+Let us know what you would like to see, and I'll try to play with it tonight :)
+
+Also, as a point of rule:
+
+>Use a specific, meaningful title. Incomplete or vague post titles will be removed. (‘Has anyone felt this?’ ‘First day on Adderall’ ) **Do not title your post with DAE.** Odds are people have. Ask a specific question in the title and ask at least two specific questions in your post. There is ALWAYS space.
+
+For a topic like this, a title of
+
+> The fonts and colors of this subreddit are incredibly distracting to me.
+
+would work extremely well. I've found on the iPhone app, Alien Blue, that the high contrast or black&white color function seems to be the easiest to read without long term strain and distractions, not sure if this is available on the standard website however.... Seems like 1% might not like it? I think it helps break up the posts better. Maybe each alternate post could be Grey, instead of reddit blue. The only other colors are announcement and sidebar border, which are louder in order to stand out. 
+
+What is your problem with the fonts? We just made them slightly bigger so they are easier to read. 
+
+Each change is designed to be more adhd friendly without being too distracting. I don't want people to disable styles because we hope to do a lot of helpful stuff using them in the future...  To add to what sugar said, what exactly is the problem?  It seems like it is almost identical to the default Reddit theme.  Same font, same white background with light blue used for highlighting selected comments.  The only differences I can tell are the border around the sidebar and the blue+white alternating between posts on the main /ADHD page.
+
+Are you talking about the colorful flair?
+
+More specifics pls.
+
+Edit: And so to technically answer your question, no I don't notice the color palate and it certainly doesn't distract me. I find everything to be incredibly distracting.  to everyone here feeling this way: get RES and turn on night mode. it is a lot milder. I never not leave home without it. I find it rather jarring compared to the standard layout, but that's just me. Agreed. As if having ADHD wasn't enough of a distraction... It's not too distracting to me, but I think it would look better if every other post was a light gray rather than blue. Wow actually visiting the subreddit, eek my eyes. The alternating color thing, tone the blue way down. Or change it. Blue links on a blue background, bad idea! It's the Blue text on Deep Blue bar thats incredibly hard to read. Grey would be much better. If we're taking votes, then I would like to say that I like the colors and format. The bold titles help my busy brain scan the page for information I need. And, the alternating colors of the posts help me to immediately distinguish one from the other, where as "normally formatted" reddit pages are just an indistinct wall of text until I focus and dig into it a little. So what could we change to make it less so? So provide suggestions please. Just changed them to a light grey.  #eeeeee specifically. OK.  Changed to a light grey, #eeeeee. I set it a light grey just now. Could you post a screenshot? The reddit blue is pretty light. I'll still change to grey and see how that looks.  We appreciate the input :)  (Just as we appreciate everyone's.)
+
+No one's ever gonna be 100% happy, so it's gonna be a struggle to find a median where people complain the least (or everyone complains).   It's more like the majority of the other subreddits I frequent don't really have dividers between different threads/links. It's just a little jarring because it's so different than the others. Like, you get into a good flow reading stuff on Reddit, but then I hop directly into the ADHD subreddit and everything's *different*. 
+
+It's just the big blue/gray bars that highlight every other topic are so different from the rest of the site. I guess it's just a minor annoyance really. One of my habits/coping mechanisms/whatever is always having continuity/things clean and organized/consistent. 
+
+The only thing to help would be to tone it waaaay down or get rid of it, but it's really fine how it is, I guess. Especially if other people seem to like it enough. Colors that **aren't** blinding Looks great! MUCH better. Thanks. I switched them to a light grey just an hour or two ago, is that any better?
+
+We've heard that people like the alternating post backgrounds because it helps them separate which post is which and navigate more easily. OK, which ones are blinding?  Point out the problem areas!  There are colors all over the website, I need to know **which ones** are the problem. Bleh, looks like there's disagreement (internally) about the background of the alternating posts.  It's slightly darker now.  Hopefully not TOO dark :/ Definitely like the way it's looking right now a lot better. Sweet! 
