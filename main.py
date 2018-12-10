@@ -31,7 +31,7 @@ class ModellingRequestHandler(server.SimpleHTTPRequestHandler):
 
 
 def run(server_class=server.HTTPServer, handler_class=ModellingRequestHandler):
-    server_address = ('107.23.201.56', 8000)
+    server_address = ('172.31.43.154', 8000)
     httpd = server_class(server_address, handler_class)
     httpd.serve_forever()
 
