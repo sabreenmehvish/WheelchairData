@@ -40,5 +40,3 @@ def csv_to_dict(topic_files_dir, num_topics):
 def visualize_topics(job_name, output_dir, num_topics):
     values = {"job_name": job_name, "topics_list": csv_to_dict(output_dir, num_topics)}
     return substitute_template(values)
-
-print(visualize_topics("ADHD_browsers_1", "analysis/ADHD_browsers_1/449600645648-TOPICS-eb53308c9995006a2aa2927264971e8d\output", 30))
