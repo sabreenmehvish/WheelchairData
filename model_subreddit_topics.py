@@ -1,5 +1,4 @@
 import json
-from bson import json_util
 import reddit_data as reddittext
 import topic_modelling
 import topics_rendering
@@ -7,7 +6,6 @@ import os
 import boto3
 import botocore
 import tarfile
-import csv
 
 def get_subreddit_topics(subreddits, query, job_name, num_topics):
     print("----Getting Reddit Data----")
@@ -18,9 +16,9 @@ def get_subreddit_topics(subreddits, query, job_name, num_topics):
     output_path = topic_modelling.run_topic_model(job_name, num_topics)
     if not os.path.isdir(output_path[:-13]):
         os.makedirs(output_path[:-13])
-    return topics_rendering.visualize_topics(job_name, get_topics_file(output_path), num_topics)
+    return topics_rendering.visualize_topics(job_name, get_topics_files(output_path), num_topics)
 
-def get_topics_file(filepath):
+def get_topics_files(filepath):
     BUCKET_NAME = 'redditdocuments'  # replace with your bucket name
     s3 = boto3.resource('s3')
     try:
@@ -34,7 +32,7 @@ def get_topics_file(filepath):
     topics_dir = os.path.dirname(filepath)
     tar.extractall(path = topics_dir)
     tar.close()
-    return topics_dir + "/topic-terms.csv"
+    return topics_dir
 
 
 

@@ -6,10 +6,10 @@
 <body>
 	<h3>Topics for {{values['job_name']}}</h3>
     
-    {% for item in values['topics_list'] %}
+    {% for topic in values['topics_list'] %}
 		<h1>Topic {{loop.index}}</h1>
 		<ul id="terms_list">
-			{% for term in item %}
+			{% for term in topic['terms']%}
 				<li>{{term}}</li>
 			{% endfor %}
 		</ul>

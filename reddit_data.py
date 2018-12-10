@@ -1,10 +1,7 @@
 import praw
-import pandas as pd
-import datetime as dt
-import urllib.parse, urllib.request, urllib.error, json
+import json
 import boto3
 import os
-import datetime
 
 s3 = boto3.resource('s3')
 

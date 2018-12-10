@@ -7,11 +7,17 @@
 	<h3>Search Reddit to see a topic model</h3>
     <form action="generate_model" method="post">
        <!-- Here is only a basic form. Please add more HTML codes based on your design. !-->
-       <input type="text" id="subreddit" name="subreddit"/>
-	   <input type="text" id="query" name="query"/>
-	   <input type="text" id="job_name" name="job_name"/>
-	   <input type="number" id="num_topics" name="num_topics"/>
-       <input type="submit" value="Submit" name="gobtn"/> 
+	   <ol>
+		   <li><input type="text" id="subreddits" name="subreddits"/>subreddits to search, comma seperated (e.g. "Wheelchairs, Disability")</li>
+		   
+		   <li><input type="text" id="query" name="query"/>Reddit search term (e.g. "wheelchair AND (bus OR train)"</li>
+		   
+		   <li><input type="text" id="job_name" name="job_name"/>job name (e.g. "wheelchairs_UScities_2")</li>
+		   
+		   <li><input type="number" id="num_topics" name="num_topics"/>number of topics</li>
+		   
+		   <li><input type="submit" value="Submit" name="gobtn"/></li>
+	   </ol>
     </form>
 </body>
 </html>

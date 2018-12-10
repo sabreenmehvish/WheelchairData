@@ -2,7 +2,6 @@ import model_subreddit_topics
 import http.server as server
 import socketserver
 import cgi
-import topic_modelling
 
 
 class ModellingRequestHandler(server.SimpleHTTPRequestHandler):
@@ -18,7 +17,9 @@ class ModellingRequestHandler(server.SimpleHTTPRequestHandler):
             environ={'REQUEST_METHOD': 'POST',
                      'CONTENT_TYPE': self.headers['Content-Type'],
                      })
-        subreddits = [form["subreddit"].value]
+        sublist = form["subreddits"].value
+        subreddits = [sub.strip() for sub in sublist.split(",")]
+        print(subreddits)
         job_name = form["job_name"].value
         query = form["query"].value
         num_topics = int(form["num_topics"].value)
