@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Topics</title>
+</head>
+<body>
+	<h3>Topics for {{values.job_name}}</h3>
+    <form action="get_topic_details" method="post" enctype="multipart/form-data">{%csrf_token%}
+    {% for topic in values.topics_list %}
+		<h1><input type="radio" id="topic" name="topic" value={{forloop.counter}}/>Topic {{forloop.counter}}</h1>
+		<ul id="terms_list">
+			{% for term in topic.terms%}
+				<li>{{term}}</li>
+			{% endfor %}
+		</ul>
+    {% endfor %}
+		<input type="submit" value="Submit" name="selected_topic"/>
+	</form>
+</body>
+</html>
