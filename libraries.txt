@@ -1,2 +1,2 @@
 sudo apt install python3 
-pip3 install jinja2 boto3 pymongo praw polling
+pip3 install jinja2 boto3 pymongo praw polling django

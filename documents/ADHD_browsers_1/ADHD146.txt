@@ -1,9 +1,0 @@
-Simple extension to prevent the 1000-tab overflow Hey all, I'm trying to be more conscious of my internet habits, and I discovered an extension called ["max tabs"](https://addons.mozilla.org/nl/firefox/addon/max-tabs-web-ext/). This extension lets you configure a maximum amount of tabs that can be open in your browser at any given moment, and it will enforce that limit for you.
-
-It's absolutely insane how many links I open in a new tab while browsing Reddit, YouTube or other news sites.
-
-I set my limit to three tabs for now, and it's already forcing me to reconsider how I spend my time and focus while browsing.
-
-I'd be interested in hearing whether anyone else has any experience using an extension like this to manage and become more conscious of their browsing habits.
-
-([There are also options for Chrome users](https://chrome.google.com/webstore/detail/xtab/amddgdnlkmohapieeekfknakgdnpbleb/reviews)) 

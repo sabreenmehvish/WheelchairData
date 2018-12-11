@@ -1,9 +1,0 @@
-I recommend the "Strict Workflow" extension for chrome, it lets you block specified sites, on a timer. https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd
-
-Lets you whitelist or blacklist sites & adjust how long it's off and how long a break you get. If you click the tomato in the top right corner of your chrome browser it blocks sites for 25 minutes, and then gives you a 5 minute break, before it urges you to restart the timer. These times can be changed easily, 25/5 is based on the Pomodoro method.
-
-It has helped me so much
-
-edit: There are also versions for other browser and phones (i think), search for "Pomodoro Timer" and you'll find some variation of it. There’s another similar app called Freedom that works on both your phone and computer simultaneously... and it allows it to block certain desktop programs too. Also it’s hard to circumvent (as in you can’t easily just shut off the service in the background or choose a different browser). Freedom.to I like this. Although I could imagine myself counting down the clock every time I remember to.. Is there an app that does this for phones?  Holy fuck desktop programs too?? I've been looking for something like that for so long, thank you! Yup, the [Forest app](https://www.forestapp.cc/en/), it doesnt outright stop you from leaving the app, but if you leave the app while the timer is on, your tree dies, so it's an incentive. A good one imo.
-
-https://www.forestapp.cc/en/ 

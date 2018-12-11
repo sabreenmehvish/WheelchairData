@@ -1,9 +1,0 @@
-Useful Chrome extension for tab hoarders TL;DR: If you're bad at closing browser tabs you can use [an extension](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en) to allow you to search them.
-
----
-
-I confess.  I am bad at closing tabs and good at opening them.  I google something and ctrl+click the top four links.  I drag tabs into new windows for multitasking then end up with multiple windows with dozens of tabs in. The tabs get so small the titles are unreadable, reducing efficiency.
-
-It should have occurred to me sooner that there may be an extension to allow one to search through tab titles using a shortcut . Anyway, I found one called [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en) and it works quite well.  It also has the ability to allow keyboard-only searching of bookmarks and recent history by padding the search term with leading spaces which is kinda neat.
-
-Finally, it shows tab count of how many you have open which may be useful for self-control.  I'm on 48 right now which is probably average  :D  There are probably similar extensions for other browsers. I neeeed one of these for Chrome on mobile. 😬 That's where the real problem is. Sounds great for porn 

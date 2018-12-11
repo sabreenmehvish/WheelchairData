@@ -1,7 +1,0 @@
-I just realized why I prefer command line over graphical interfaces for computers People have told me I'm weird when I insist that I prefer command line tools (like those that run on a terminal like for Linux) over tools with graphics.
-
-It's because I lose track of what I'm doing so often that having a terminal which logs everything I've done ( and the results from doing it) lets me catch up. Also, I think the "man" command is great because no matter what I'm doing, it gives me instructions in the same familiar manner each time I run it.
-
-TL;DR: Command lines provide step-by-step logs you can check when working and lets me recover from distractions.
-
-Anyone else have examples of things that are viewed as "less optimal" in general, but may be better for people with ADHD? 

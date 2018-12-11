@@ -1,5 +1,0 @@
-Better living through modern technology Every time I leave the house I'm worried about locking the door.  If I forget to test the lock on the way out, I'll worry even more until I get home again.  Recently we installed an electronic door lock and a z-wave hub.  Now locking the door is a matter of pressing a button on the way out, which gives immediate auditory feedback.  If I forget later whether I pushed the button or not, I can get out my phone and check whether the door is locked - and fix it if it's not.  (It's pretty much always locked, but I would still worry.)  Easy to do even if I'm hundreds of miles away at the time.  Brilliant!
-
-Bonus: now the thermostat is smart too.  It's hot today.  Did I forget to turn on the air conditioning?  Check it and fix it.
-
-Now I just need to get some smart smoke detectors, and figure out if any devices exist to report whether the stove is on or the garage door is open... I've started basic and have smart plugins. I use them for my flat iron and charging my devices on a timer. Hearing the click and the light change colour does wonders to reassure me, plus I can check on my phone.  

@@ -1,3 +1,0 @@
-gc2 2 button Joystick module D51157 4pin  [flash error codes](https://imageupload.co.uk/image/EaXA)
-
-*  module d51157 manual [download](https://www.datafilehost.com/d/5f26cccc) *hope this will help someone* 

@@ -1,7 +1,0 @@
-Helpful browser plugin: BeeLine Reader http://www.beelinereader.com/
-
-I searched and saw this in this subreddit's history a few times. If you don't frequently read this sub it would've been easy to overlook it. 
-
-It's a browser extension that applies a color gradient over what you're reading. I've occasionally had trouble transitioning between lines and found myself wasting time finding my place again. Initially I thought it was kind of annoying but now that I've used it for a while, I think it's really really awesome and helpful! 
-
-Hope this helps some of you!  It doesn't work for me. I think I'm using it wrong.  I would recommend using Spreed, really helps me a lot It only works on some sites such as Wikipedia. As the other user pointed out, it's only enabled on certain sites by default. Try clicking the icon and see if that works. I think it'll take just the text and display it on a different page.  
