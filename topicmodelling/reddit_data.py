@@ -86,14 +86,10 @@ def post_per_document(posts, job_name):
 #optionally, upload the file to S3 bucket
 def writeDocuments(document_index, should_upload, job_name):
     print("----Preparing documents for topic modelling----")
+    current_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "documents", job_name)
+    os.makedirs(current_dir)
     for doc_name in document_index:
-        doc_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                "documents", job_name, doc_name + ".txt")
-        print(doc_path)
-        try:
-            os.stat(os.path.dirname(doc_path))
-        except:
-            os.mkdir(os.path.dirname(doc_path))
+        doc_path = os.path.join(current_dir, doc_name + ".txt")
         output = open(doc_path, "w+", encoding='utf-8')
         output.write(document_index[doc_name])
         output.close()
