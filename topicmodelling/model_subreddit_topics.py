@@ -16,7 +16,7 @@ def get_subreddit_topics_jinja(subreddits, query, job_name, num_topics):
 def get_subreddit_topics(subreddits, query, job_name, num_topics):
     print("----Getting Reddit Data----")
     reddittext.process_text(subreddits,
-                            lambda sub: sub.search(query, limit=20),
+                            lambda sub: sub.search(query, limit=None),
                             reddittext.post_per_document, job_name)
     print("----Creating topic modelling job----")
     output_path = topic_modelling.run_topic_model(job_name, num_topics)

@@ -1,0 +1,15 @@
+Numbers are good. I've made Firefox my "not work" browser, and I've been using the Firefox "Mind the Time" extension to get a daily count of distracted internet time. **tl;dr: Try designating one browser as your "play"/"distraction" browser. Use an extension to count time wasted. This allows you to monitor progress.**
+
+---
+
+Knowing is half the battle. That's certainly something I learned while losing weight: as unpleasant as it was, counting absolutely every calorie with MyFitnessPal did the trick.
+
+This suggestion I have here is simpler. On my work computer, I have one browser set aside as my work browser, and another as my distraction browser. My distraction browser has an extension on it (Mind the Time) that counts time spent in that browser. There's no limit or cutoff mechanism, at least not as I use it: it just counts. (And maybe silently judges me.) I enter the daily result into a spreadsheet.
+
+My philosophy is that knowing the problem is an important first step to solving it, and that resolving behavioral problems often requires gradual improvement and "harm reduction" rather than aggressive all-or-nothing strategies. In a perhaps strange way, I find it reassuring to see how much time I waste each day graphed out like that. It reduces uncertainty, and gives me a hard number, rather than leaving me stressing about my guesses.
+
+And I think measurement alone applies a gentle corrective pressure, by making you want to improve that number. "Well, I had 5 hours yesterday. I'm at 4 hours today. Pretty discouraging. But if I stop now, I can still do better than yesterday."
+
+Anyway. I thought I'd share this (surely not novel) idea. (link to the addon, no restart required: https://addons.mozilla.org/fr/firefox/addon/mind-the-time/?src=search) Thank you for sharing! This is a great way to approach change -- a gradual way that makes success possible. :) I don't think I'd thought of tracking my time like that. Does it continue to count even when it is in the background? > Does it continue to count even when it is in the background?
+
+There are different options. One of the settings only counts time when the window is in-focus. Cool! I am going to have to see if they have a Chrome version of the same thing. 

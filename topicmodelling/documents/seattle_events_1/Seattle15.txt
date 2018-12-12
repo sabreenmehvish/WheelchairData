@@ -1,0 +1,28 @@
+showground - Seattle based app designed to help local DIY/independent musicians Hey r/Seattle,
+
+&#x200B;
+
+I made this app called showground, it just went live two weeks ago. It's very much in its beta, but I think the concept is pretty cool. It's basically a non facebook music event platform that has extra benefits for artists. Obviously it's a way for artists to promote their shows, but it also helps them find gigs or venues to play in. I'm working on adding more features and improving the ones we already have but that's the gist of it.  Anyone can make an artist profile and use it as basically an EPK and showlist and with some more features I'm hoping to help streamline the booking process.  Everything is free cause we all know these musicians can't afford it, but we'll make money with ads later on.
+
+&#x200B;
+
+I also just set up a slack workspace today for bands and artists to help each other out in a bit more responsive community. If you have a question on the best places to buy merch, or where you can go on tour etc, that's the vibe we're going for. Also if you have any questions or feedback it would be great to hear from you on slack, reddit wherever. I have a link for the slack if anyone is interested in joining.
+
+[Join showground Community's Slack](https://join.slack.com/t/showground/shared_invite/enQtNDczMjk2OTcxMzAwLWJkOWVkYWZkNzU4NjlmZGM1YjI3YWJlMzk0M2E3Mzc2NjAzZWNiMjNmOGRjM2EyMjBjYjVjMDFmY2MxNGJmNzA)
+
+&#x200B;
+
+Here's a link to my website [https://showground-app.com](https://showground-app.com) It does a decent job explaining where we are now, but feel free to hit me up if you wanna talk. As a local artist I'll make sure to check this out. Thanks for posting! Love the idea!  I just got the app for next time I’m in the area looking for something to do!(haven’t tried it yet, but even if it’s not perfect yet, I hope you expand to other cities also!)
+ Just installed! 
+
+My friends and I are a three piece using Ableton and live instrumentation, and would love to play a show somewhere. This app seems like a fantastic way for us to find somewhere to play. 
+
+How can I go about looking for venues that’ll let us play there, or bands that may let us open?  Thanks! It would be great to get your feedback when you do! Most of the events are dummy data now, so people can see what it's supposed to look like. You can still post events though if you have anything coming up. Thanks! it would be great to get your feedback when you do! Hopefully there will be a decent amount of events on there when you try to use it! I think it will be helpful for bands going on tour too, so hopefully we can expand to other cities once we fine tune what it really should be doing. Awesome! I want  to improve the experience for artists to find gigs, but we just made it so venues and artists post the same way to start.  If you switch over your artist profile, you can post in the gigs section that you are looking to play at a show. People who have made venue accounts should be able to see you if they go to that section. I have a bunch of ideas how to fix this and make it more useful, but it's an okay place to start. The first thing I'm hoping to do is get more people on the app, building profiles, and hopefully promoting their existing shows. Definitely think there is a big opportunity for the gigs part, but not enough functionality was built into it yet.
+
+&#x200B;
+
+The app may not be mature enough to help yet, but if you pm me, I can talk to some people I know and try to find you a place to play. If you aren't too familiar with the Seattle live music venue scene, if you go to the create event page and click "add venue" you can look at the venues listed, it should show you the majority of the smaller venues where there's frequently live music in Seattle. As a bit of wishful thinking / market advice - do what you can to market to non- music fans also.  People who are in the scene know all the local bands and who is playing where, but I feel like there is a big gap in marketing to people like me who just want to go to some sort of live show on a particular day that they have free, but don’t know who the local bands are.  I much prefer going to a smaller venue with a less famous performer, and I almost always end up buying the music of anyone I see live, so it’s worthwhile to market to people like me!  But currently, since I don’t know the band names, I have to go to listings of shows, look the venues up on a map, then go to you tube to see if I like the music ... it’s a hassle so I usually don’t bother.  Your app seems VERY likely to get me out to shows more often just because it’s so much simpler. Awesome, thanks so much for the reply. I'll send you a PM for sure. I'll take a look at the gig section and see if I can rejigger one for our actual band. I'll also take a look at the venues!  That's great to hear! I have spent a lot of time thinking about the music fan user experience as well, and I hope you can see that with what we have built so far. I'm hoping the 20 seconds clips should be enough time to let you know if you want to hear more, and if you do you there are links on that artists portfolio. I'm hoping this will help people to explore and see new artists that they never heard of before. This is also great for the artist and venue because they are getting more exposure. I feel like you see the direction I'm heading and what I'm trying to accomplish. If you have any feedback or new ideas you think would be cool, it'd be great to hear them!
+
+&#x200B;
+
+Right now I'm trying to promote more to artists to help generate more content/events for fans to see, but I really appreciate your feedback! Keeps me believing that I'm onto something! 

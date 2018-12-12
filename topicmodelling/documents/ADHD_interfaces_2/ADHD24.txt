@@ -1,0 +1,36 @@
+Why on earth would the subreddit for ADHD have such a distracting layout? Just a small, valid question. This comes up on occasion and no one has really offered any _concrete_ advice.  What specifically should be changed and how? I think it's a perspective thing! Most of the subreddits I go to are a lot busier than r/adhd. That being said I fully support an updated page!
+______________________________________________________
+The sidebar is good, making it's color scheme and font's more consistent could work (You've got Black, red, italic red, italic black, red with black in the middle, etc etc). 
+
+Maybe linking to direct sections of the FAQ within the sidebar would work.. The FAQ is always the most valuable source of information on any reddit -- I feel if the reader is neglecting the FAQ it's their loss... Maybe someone new doesn't want to click the 'FAQ' link, but would click on a 'Medication' link (which links to the medication subsection of the FAQ).
+
+FAQ Link Examples
+
+* FAQ
+* Medication (links to FAQ medication)
+* Comorbidities (links to FAQ comorbidities)
+
+I've seen this at other subreddits and it's a cheap / effective ploy, because once someone's read something useful at the FAQ they'll usually stay to read more (moar!).
+
+
+Love,
+The guy who has an opinion about everything. There's a lot of useful/important stuff in the sidebar and we don't want people to miss it. I think that having a lot of the stuff appear on hovering (instead of being a constantly-visible wall of text) is a decent compromise. But if you don't like it, go to your [user settings](https://ssl.reddit.com/prefs/) and uncheck "allow subreddits to show me custom styles". You can also hide user flair if you want. As someone who isn't diagnosed, what exactly is the problem? I like it it looks kinda of like the inside of my brain.  check out http://www.reddit.com/r/Graphic_Design/
+
+I always have liked their style. it... it looks just like every other sub reddit --------------------------->  over there, "Use subreddit style".. uncheck. Use DEFAULT Try something like /r/learnpython/ Hmm. Maybe if the colour scheme was more in a similar tone. Right now you have blue, green, red and purple (it might be enough to ditch the red?).
+
+Maybe make do with the default reddit font, still making use of the italics and bolds as you are doing. With the different font, it seems like there's a lot of different things going on, I guess.
+
+The hover feature is cool.
+
+I'm sorry, though, I didn't mean to criticize. I just meant to point something out I found comical. I'm sure setting it up is tough work. On the "New to /r/ADHD?" section to the right.  I think reversing the red and black text would make more sense.  Keeps continuity with the rest of the text color scheme. Maybe space things and make the posts easier to differentiate from one another like on /r/google . More white space makes things easier to read. Your font is an issue, it's inconsistent and to large for a side bar. 
+
+The font would be helped if you got rid of italics entirely, made it smaller and not used red, I would recommend dark grey instead of red. While I understand why the font is so large, they are extremely distracting when viewing a topic because of its proximity to the comments.  Why are random words bigger than others? For example, the fact that "# comments" is so much bigger than surrounding options, but still smaller than the title is really jarring.
+
+Also, the blue reply is a different size and color. That is completely unnecessary. Care to come up with the mock-up of [text](link) formatting?  =) I can be too distracting because there's too much going on.  But none of the mods are designers (that I am aware of), so we really kinda don't know what we're doing in this aspect :( Wait, it does?
+
+I find there are so many colours and fonts and font sizes. I was recently looking at /r/nintendo's sidebar as well.  Very similar, both quite clean. In the same vein, I browse /r/summoners a lot and the sidebar is similar. The overall layout is well-spaced and easy on me as well. Ah, so clean! Don't apologize, this comes up on occasion and it's always hard to get people to be more specific.  I really appreciate the more direct suggestions you've given here.  We'll see what we can do :) I think having a minimalist layout would be better I agree it is a bit everywhere but keep in mind it was created by people with ADHD so that's kind of expected haha.
+ The fonts and colors have been toned down and are more in line with default reddit right now. The bold! The italics! The colour! I get a bit twitchy looking over there. Not to be overly negative or anything but it sort of reminds me of early powerpoint presentations. Thank gawd there's no comic sans. Or papyrus. Hm, yeah.  I see what you mean.  No clue why it was designed like that. The red text is blue now, fits more in line with the general reddit theme, and the font is standard again. This, yes. Space is needed. Fonts on the sidebar have been made more standard, and the red is blue now.  No more italics it looks like as well. I forget who implemented that, but I think the reasoning was to draw attention to those elements in order to help facilitate discussion? Or rather it was done piece-meal over time by a parade of mods (some of which are no longer here).  All of whom are *volunteers*, and though I *do* have a design background, as a grad student with ADHD I certainly don't have the time to overhaul it. Preferences -> uncheck 'allow subreddits to show me custom styles' > I think having a minimalist layout would be better
+
+Nice. You're completely right.
+
+I sincerely hope you have a great day. I quite agree, it's just the process of making one.. :( Needs more Word Art. Wow.  That looks really great!  Thank you! Isn't that the entire purpose of Reddit? Maybe less so on subreddits such as /r/funny, but /r/adhd is pretty much discussion based. oh, derp.  i must have turned that on and never realised it.  i didn't even know there were custome styles! o.o I like you. I like you a lot Thanks YOU for bringing it up :) Like I said, I only _think_ that was the reasoning.  I'm not sure who exactly made that change, why, or when.   

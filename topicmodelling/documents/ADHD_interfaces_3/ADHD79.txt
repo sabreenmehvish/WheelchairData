@@ -1,0 +1,25 @@
+Most posts on /r/ADHD challenge readers with ADHD God the long long posts. If they're divided into short paragraphs it helps a little, but I just usually refer to the TL;DR or just click the go back button or something else entirely. 
+
+TL;DR TL;DR is a life saver I agree, I haven't managed to read anything over 4 lines in here yet.
+I swear I care!, but I really can't! For some reason I am so damn long winded whenever I go to post a reply.   I think it's because I am so much more comfortable expressing myself in text than in speech.   When I'm reading and writing I don't lose track of what I'm saying,  and I don't get stressed that I will forget what the other person is saying.   So I can go on (and on, and on).  
+
+But Reddit formatting does suck for long walls of text.  Their line breaks are not very big and so even if you do split it into paragraphs it STILL looks like a big wall of text. 
+
+I have no issues reading long walls of text though,  I love reading.   I just read a whole book yesterday and stayed up until 10am because I wanted to finish it :)
+ Can we put the TL;DR at the beginning so can assume we know what it's about and go on to the next post please? Haha, that's hilarious. I've definitely noticed this in a lot of posts. Use paragraphs, it helps so much. I'm p interested in ADHD rn, so I actually enjoy reading longer and well-detailed posts.  I often have no problem reading them because I'm usually avoiding doing actual work. I also love reading/learning about ADHD so it triggers that hyperfocus in me.  Worst offender right here, sorry guys. Although most posts/comments on here are either advice or stories so keeping it brief is hard. Not too many memes or movie quote circle-jerks round these parts. i don't know what you were expecting, i mean... adhd  Symptoms of ADHD make dealing with others with ADHD pretty hard. My mom has ADHD too, our conversations are a mess of interruptions, tuning out and getting annoyed at each other for talking too much! Might I recommend using assistive technology to listen to posts while doing something else i.e. playing with stress ball, Tetris, snake, rubix cube (not solving, just turning, unless you're good at that).  I'm the same way. I can just write stream of consciousness, revise it etc.
+
+Definitely a big part of why I prefer the text over verbal communication. I think at the end, with tldr in bold is best. Otherwise nobody reads the main post. Like this:
+
+**TL;DR** End is better In the case of providing advise, it's easiest (at least through my experience) if it's broken down/summarised into numbered steps.
+
+Like how to make a cheese toastie!
+
+Step 1: Grab some bread
+Step 2: Grab that cheese.
+
+etc etc Not a bad idea! On mobile:
+I personally use @Voice Aloud Reader, and it can read from the clipboard or the share menu, and has reading lists, so I can load up on longer posts, it strips out the formatting/page layout to get the article text, and then I press play and do whatever. I used it every since it first was released, so I have no idea if there is anything else better. Probably want to use a third party Reddit client that that's you copy the text to clipboard like Reddit is fun. 
+
+On desktop: I have a customized Linux bash script and keyboard shortcut to trigger it that is extremely not portable, so I can't really advise here, other than look for extensions or TTS programs, either standalone or add-ons/extensions. Pretty sure the major web browsers have extensions so you don't have to use a full blown screen reader. 
+
+Edit: speaking of which...I really need to hit stop and work on this assignment due tomorrow morning.  

@@ -1,0 +1,28 @@
+Does anybody know a browser plug-in 
+that delays link opening? Hi all,
+
+my searches through reddit did not come up with anything (maybe I'm just bad at searching), so I ask this question directly.
+
+Can anybody recommend a browser plug-in for Opera that delays opening a link by a couple of seconds?
+
+I have read a lot about programs that simply block internet access for a set amount of time, but I'm not looking for one of those. I rather would like to sever the "instant gratification by link clicking" connection in my brain. So I'm looking for an Opera plug-in which lets me put a (for example) 30 seconds delay between me clicking the link and the new tab actually opening. 
+
+Thanks for any hints! I know you said you searched reddit, but have you looked at the Opera Extension library or the web at large? 
+
+Alternatively, would you be able to make one?  I could write one for chrome, I don't know anything about Opera extension development, I'll look into it if I find some time today. An extension like this would be great. Where instead of it delaying every link, delay a link at random to make you sort of think about what you're doing. I get stuck in a sort of instant gratification loop, where i just keep click links(for example, imgur links on reddit).
+
+Having it be random might help make you think a little bit before clicking on the links/snap you out of the gratification loop. This isn't going to help.  It will only make you frustrated and waste more time (you staring at a timer counting down from 30).
+
+Set some internet time.  Add 30 minutes.  Then work in what you need to do in the remaining time. Hi there,
+
+searched reddit, and spent the occasional half-hour searching via google. Using "delay" as keyword in the Opera Extension library did not reveal any results either. Unfortunately I can't do it myself. Hey, thanks that would be great if you just wrote one for Opera. But no hurries, there has to be something like that out there.... I would also be very interested in this.  Hm, interesting idea. Do you suspect this to happen, of have you actually tried it? Why can't you do it? I haven't looked into the api for extensions yet, but I can't imagine it would require too much programming knowledge. The speed dial extensions are just HTML and javascript, for example. 
+
+Though aarobc may have just volunteered =P Try searching 'block' or other terms?  LeechBlock for Firefox has a "delay" option. I use Opera as my main browser and have looked into some of the extension stuff. I'm pretty busy at the moment, but if nothing else works out I should have time in a week or so. Please message me if you don't find another solution, otherwise I'll forget. I'm so sorry, I totally spaced this, I'm looking into it right now I swear.  Absolutely.  I do it every day.  I kept reading books that said don't check your email before breckie.  Screw that.  It doesn't work for me.  I found it far more effective to waste an hour online (and yes it is pretty much wasted) than it was to deal with the stress of thinking about some new and cool pic on reddit (or in an email, facebook, ...)
+
+Setting a time limit gives you a goal.  Think about when you have to write a report.  If you have a week, do you finish it the first day?  Nope.  You wait until crunch time.  The day before.  Set an online **finish time**.  You will  be surprised at how much you can do in the same amount of time if you have a deadline approaching. Great, LeechBlock works exactly how I intended it. Thanks! 
+
+Having exactly this for Opera would be genius! Seems like I'm not the only one who thinks so.
+
+[Similar question on r/software](http://www.reddit.com/r/software/comments/uo9b7/is_there_anything_similar_to_leechblock_for_opera/)
+
+[Request on Opera forums](http://my.opera.com/community/forums/topic.dml?id=832262) 

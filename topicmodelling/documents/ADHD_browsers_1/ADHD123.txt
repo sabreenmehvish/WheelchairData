@@ -1,0 +1,65 @@
+Get performance anxiety or struggle to perform while being observed? Here's one possibility, and a TIFU story, and a visual analogy. (I promise, it's a good read.) (Quick skimmers, TLDR is down below. Story lovers, begin here!) 
+
+About 6 month ago. On conference call with boss (Ugh, I hate VOIP talking). We get to a topic that requires me to share my computer screen with him, which I rarely need to do. He wanted me to teach him how to do something that I do pretty much every day. I'm going through the process of doing it while at the same time listening to his questions and stumbling on my answers. This goes on for 10 minutes while I make changes. I'm already feeling stimulation building very fast, I get shaky, stuttery, on-edge. My RPMs are soaring while trying to function normally!
+
+The task comes to a point where I have to open up a new browser window to open a new tab. I usually do this by pressing cmd+L to focus address bar, type in the address, press cmd+enter to open a new tab (Easier than clicking open new tab which also shows "Most Recent Websites"... heh.)
+
+So right as I focus on the address bar and type in the 2nd window to open, he screams, "WHAT ARE YOU DOING!?" My hands freeze up. I let go of CMD. I press enter.
+
+I navigated to the 2nd window, thus deleting the 10 minutes of work I had just shown him. "WHAT!? WHY!?"
+
+I wanted to say, "Well, CMD+Enter opens up a new window, and you startled me so I only pressed enter and not CMD and that resulted in me deleting the work. Don't worry I can spend 2 minutes quickly re-doing the changes after this call. BTW, memorize CMD+L, CMD+Enter, it's very efficient."
+
+What I literally said was ... 
+
+"Um... CMD+L. Good to learn."
+
+**I looked and sounded like a fucking idiot.** 
+
+I could not explain myself in that moment. He goes off on how tragic it was to lose all information (even though it will only take 2 minutes to fix), that I should have known better, that I should "think before taking action." 
+
+Instead of explaining myself – which I had the strong desire to do – I backpedalled and started agreeing with him that it was very bad to close the window that I was stupid, that I should think before taking action. In the process I also became led to believe that CMD+Enter Open in New Tab never existed ever.
+
+**The situation made perfect sense to me, but because of the overstimulation of performing, my performance capacity was reduced by 80%+.**
+
+For 6 months, I've spent hours observing myself in situations where my performance had been crippled, and yesterday, while at the driving range, **I realized why exactly, scientifically, I crumple under pressure**.
+
+Now to the analogy. Golf. (Well, I dislike golf but I love hitting balls at the driving range.)
+
+In golf swings, there is what is known as a "Swing Thought." It's somewhat simple: A swing is comprised of a "backswing" (club going behind you), and then "downswing" (rotation of torso to position the club to hit the ball). **A Swing Thought is any critical thought that happens in any part of this process.** Thus causing you to royally fudge up your swing. 
+
+Golfers will talk about swing thoughts but they won't talk about the science. It seems to most that the "swing thought" is a magical entity to be avoided, not a function of brain.
+
+**Finally, the science that I have observed. We're now getting to the good stuff.**
+
+A beautiful golf swing is a product of tens of thousands of muscle memory variables. In order to create muscle memory you need to enforce it by thinking about the movement. Once the movement is perfected, you don't have to think about it – **the actual muscle memory is stored behind the stage in your mind.**
+
+*You get so so so good at performing without thinking about performing.*
+
+(Raise your hand if you see [or already noticed] where I'm going with this.)
+
+When you have a "swing thought" you are intercepting the natural movement of your body. The information is processing in the background, and your mind overrides the natural thought-function and forces it to the front of your mind, the prefrontal cortex.
+
+But because you didn't train to have the movement in the prefrontal cortex, your swing devolves to a previous save-point in time when you were first learning. 
+
+##TLDR:
+
+When you have to perform for others (or even by yourself with some sort of countdown clock or external pressure) you are forcing your thoughts to the front of your mind, thus undermining all of the power of the back of your mind – the subconscious. 
+
+####TLDRTLDR: 
+
+When you consciously do something that the subconscious should do, shit gets fucked, yo.
+
+What do you do with this knowledge? Unfortunately there's not much to do except... well, practice "thoughtless" performance under pressure.
+
+Thanks for reading :) (more thoughts) There is more observation to be done. I feel there's a much bigger realization just around the corner on this topic. Because a good observation will bring more questions. 
+
+* Why are some people so much better than others at handling information in their PFC?   
+* Why do some brain centers lock up when you're over-thinking? (It's as if the PFC take the brain hostage!)   
+* If we know what brain center is in control of keeping things subconscious, can it be trained?
+
+And finally: I posted this not necessary to give anyone an "Ah-Hah!" moment but under the premise of Knowledge is Power.
+
+One thing is for sure, since I started realizing the nature of "real life swing thoughts" it seems (anecdotally, `n=1`) that I have experienced fewer symptoms of performance anxiety even during very similar scenarios as the horror story mentioned above. The knowledge of WHY this happens has had a positive effect on HOW it happens.  Very interesting read.
+
+I don't know why the boss jumped all over you for a simple mistake, that's poor leadership on his part. Since you were on a conference call, presumably with others, it sounds like the alpha was performing a ceremonial mounting in front of the rest of the pack. This is good! Great analogy :) Oh man, this exact scenario has happened to me so many times (especially at work), that I had a visceral reaction to your description as I was reading. Anytime I’ve been put on the spot to do something where I know it could be a make or break moment, I end up choking just like this. Weirdly, a small amount of alcohol has helped in some very specific instances (obviously haven’t done that at work), and my meds help a bit, but this still happens fairly often and is why I pretty much gave up trying to work in my chosen career field which was filled with instances of having to perform complicated multi-step processes while talking to people within a time limit. 

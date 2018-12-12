@@ -1,0 +1,218 @@
+The great paradox of ADHD Your going through your day and finally able to focus on doing task 1.
+
+Midway through, you see there's a task 2 that needs to be done to.
+
+You're faced with the following:
+
+You either continue of task 1 and finish it, forgetting about task 2.
+Or you start task 2, leaving task 1 unfinished and forgotten.
+
+And that's why I never finished task 1 or 2, because I had this idea of a reddit post.
+Thanks, brain Or you kick it into overdrive and pick up 10 tasks all at once.  You hyperfocus and perform inhumanely well and multitask like a legend, but you just forget one little thing.  Every.  Single.  Time.  And it's that one thing you missed that everyone cares about, not the 9 things you did in record speed.
+
+At work I pick up a ton of tasks at once.  Sometimes I'll be storing 5+ numbers in my head (price totals, so 5 digit) while helping customers at the same time.  Nobody notices that I am 2x as productive as others, but they do notice when I mess up 1/20 totals by $1. This problem is precisely why I'm developing a working memory personal assistant.
+
+It'll basically be on a timer that increases the more you stay on task. It'll work like this:
+
+* Start the assistant
+* It asks what you're working on first
+* It sleeps for 10 minutes, then comes back and asks if you're still working on X
+* If you say yes, it'll sleep for 20 minutes this time etc
+* If you say no, it'll record what you're working on now and reset the timer to 10 minutes
+* It'll check if you've finished Y and remind you that you still have X to complete
+* It'll go however deep your daily distractions are and help you unwind them all, or record them for day 2
+* It'll have an easy tap interface too, for silent mode
+* It might also record WHO distracted you and it might also automatically message that person to tell them they took you away from doing X to do Y
+
+I've done some design work on this and prototyping and it's definitely feasible using snipsai which is cool because it'll work offline with snips. This is actually why I have my bullet journal within arms reach at all times, and if I’m home, it sits on my kitchen table, open. I can quickly jot down the thing I thought of but I can continue task one.
+
+Even this isn’t perfect. I’m often doing about five chores at a time. This is exactly how I clean house.  I can't just do any one room or task, because halfway through something I stumble across something else that needs done *right now* or I'll forget.
+
+So on a good day, everything is perpetually half done.  On a bad day... 1. I think of something I can’t do right now.
+
+2. I go across the room to put it in my phone.
+
+3. On the way, I see something that needs doing. I can do it now, so I do.
+
+4. What was I going to put in my phone?
+
+My coping mechanisms are interfering with my coping mechanisms. *This is a stupid fucking problem to have!* Yeah, I tend to get into that one task be it right or wrong and I'll be damned if it's not done by the end of the day. The other things on the list didn't get done though so that's kind of a problem but those 4 days of car repairs I had scheduled out are all done now at least. Either that or I got OCD and cleaning my desk turned into 3 hours of meticulously cleaning my mouse and keyboard with a needle and q-tips. Or that lab report I was working on took 2 extra hours while I made the most beautiful and unnecessary tables and graphs for it. Or I wound up writing 3 revisions of a 3 page forum post about something I don't even really care about.  Or you get this strong urge to “justquickly do task 2 then I’ll go back to task 1 I promise” 
+
+Like, it’s not a small suggestion but a PULL towards task 2 lol This was the exact experience that wreaked havoc over my live before diagnosis.  
+
+I take it back, it’s still part of my experience at times.
+
+I have lived most of my life with a perpetual feeling like “the other shoe is about to drop” because so many forgotten tasks, responsibilities, and appointments have popped up out of nowhere to remind me that, no, you didn’t get everything done today.  You forgot the most important thing, so it was all for naught.
+
+Reaching the right combo of Adderall and Wellbutrin allowed me to experience, for the first time, being able to put off task number 2 by writing it down or, in shorter timeframes, just remember it.  
+
+I used to be afraid to stop any task 1 even to just write something down about task 2 because even doing that was enough for me to forget all about task 1.
+
+Being able to trust my brain would be there for me for the first time at 34 years old was amazing.
+
+I have spent a long time teaching myself to slow down while on meds, because I didn’t need to rush from task to task anymore if my brain was going to remember anyway.
+
+I can’t believe how long it took for me to understand that other people’s brains work like this too, and it’s not just me being useless! I actually had an answer for this. As so many others have said, it boils down to "write it down and move on."
+
+But I do realize if you stop there, you just eventually end up with a never-ending list that only gets longer, because for many of us, ADHD means we lack the ability to effectively prioritize. Everything on the list is equally important, so deciding what to do next is difficult, and easily pre-empted by whatever we're distracted by at the moment.
+
+So I started to explain all the other steps that go *with* "write it down" that keep me from swimming in a sea of post-it notes and realized I'd be writing a novel length answer that explains my entire daily system, tailored to my needs specifically, that I've built up slowly in tiny steps, over the course of a year or so. With help from a therapist to overcome the psychological hurdles that kept me from sabotaging myself at every step. 
+
+Once I started trying to *do something* about my ADHD besides taking Adderall and assuming that would be enough, every little tip like "write it down," lead me to another one, ("check your keep notes once a day") to another one, ("figure out how to remember daily routines") to the next, ("try Habitica to keep track of your routines") to the next, ("get a bullet journal to keep non-routine things in") and so on, ("add 'update your journal' to your check keep notes/schedule routine,") etc etc forever in a never-ending journey to trick my brain into doing what I need it to.
+
+ADHD is hard y'all.
+
+Edit: So I wrote the novel length answer anyway. The point was, "write it down" is not enough on its own, but the long answer only works for me, and only because I built it up really slowly over time. There is no easy answer. Just keep swimming, one trick at a time I guess. Seven years later, you find the unfinished remains of task 1, waiting to be completed.  Oh god, this is so relatable.  
+
+Am I being good and productive if I do this thing I'm thinking of now without putting it off? 
+
+Or am I being focused and productive if I finish this thing that I'm working on now? 
+
+😫 If I’m at work, I write task 2 (and 3 and 4 and 5 through 8) on a sticky note next to my keyboard and finish task 1. I often forget about the sticky but I’ll remember it at some point during the day. I haven’t found a solution for home/school/not work yet though. The note only works because I’m figuratively chained to the desk where the note is. This is like the trolley problem for ADHD folks LOL!  This is always a challenge with my work.  A higher priority task will come along in the middle of your last high priority task, leaving a trail of unfinished high priority tasks in my wake At my previous job they had us carry around at least two note books and several colored pens(the president of the small privately owned company was on par with my level of adhd). 
+In short: each color(write this down on the front of the note book or the first page) will represent the urgency of the assignment.
+You write out your weekly task in black then place a corresponding number in its appropriate color( leave room for urgency updates)
+Then at the end of the week you sit down with your manager and discuss your progress. Ask questions if you were unsure about something. Write every thing down that comes to mind( this meeting is essentially a brainstorming session) 
+I sat down with the company owner every Thursday to discuss the jobs and task that were assigned to me; as well as discussing possible solutions for similar situations in the future. He would critique my notes and assist me with what I was doing.
+
+This was probably one of the few times that I felt like I was control of my life.  I dont have a prescription. :( the struggle is real. 
+My health care kicks in soon. Im honestly a little nervous about asking for a prescription.
+I have heard a lot of rumors about people losing their spark for activities or hobbies that they had prior to starting their daily regiment. 
+
+That being said I have a kid on the way( im the father) an I want to be the best me that I can possibly be for this new person who will be taking up a good portion of my days and nights. i can't even tell you how many times i've been late to a break at work because i had to wrap up the 10 things i had started well before my break, but didn't finish because each interrupted the other I have seen this mentioned by two other commenters but it bears repeating! One person uses a bullet journal and one person uses sticky notes to write down task 2 while still continuing task 1. It's all about what works for you! I have a notebook sitting on my desk- nothing fancy- and by the end of the day it's filled with all the "task 2s" that I have thought of. It really helps to write them down as they pop into my brain, because otherwise I either get really distracted and start doing task 2 (abandoning task 1) or I spend lots of mental energy trying to remember task 2 until task 1 is completed.  This is why GTD was such a lifesaver for me...all of that stuff that turns into vapor in my head & just "evaporates" instead gets recorded & clarified in an off-brain system, that way I'm not stuck carrying the mental load with leaks in my bucket... A manager of mine told me once that people will only see what you didn’t do (this was in regards to cleaning, but I feel that it translates to other tasks as well). You could get 90 percent if something done, and people will only notice that ten percent.  Great time for start Task 3. Me, except I then procrastinate on the important tasks by doing stuff like cleaning.. But hey, at least my apartment is immaculate. Or you go to complete task 1, discover task 2 in the process and forget what it was that led you to task 2, which initiates task 3: tracing your steps back to task 1. 
+
+Rinse and repeat.  I talked to my therapist about something like this last Saturday, he gave me a really great analogy.
+"When a song gets stuck in your head, what's the best way to get it out?" I tried to guess that it was by trying to think of another song, but then he said that then I have 2 songs stuck, and it doesn't really help, you end up with more trouble than before, he said "the best way to get rid of a song stuck in your head is to think how it ends".
+My problem is that I get overwhelmed with thoughts, and get really anxious, but I think it can correlate to your problem.  Hahaha I feel this post so hard. Thanks for the laugh OP Best thing to do is stop working by task but in time slots and organize it on your calendar accordingly. Meaning, schedule 1 hour for task 1 and another hour for task 2, etc. 
+
+Has been a game changer for me! I'm going to share this with my boss, because he vicariously lives this, through me... Or you could fail to not click that Reddit notifica- oh you already covered that This is why GTD was such a lifesaver for me...all of that stuff that turns into vapor in my head & just "evaporates" instead gets recorded & clarified in an off-brain system, that way I'm not stuck carrying the mental load with leaks in my bucket... For me, I forget. In my head, task 1 either A) is already finished or B) never happened. It's usually when my wife says "you going to finish X" when I go "oh yeah".
+
+Though meds + notebook has helped squash that issue. For me, I forget. In my head, task 1 either A) is already finished or B) never happened. It's usually when my wife says "you going to finish X" when I go "oh yeah".
+
+Though meds + notebook has helped squash that issue. breaking up the stuff you do in to smaller (maybe hourlong) goals allows you to actually be finished with all these random things before moving on to the next issue My man. Buy and use a notebook.
+
+Get an idea halfway thru task one? Write it down. Complete the task at hand and them move on. The key to conquering ADD is to divide and conquer tasks. Break them into smaller pieces and don’t move on until you finish the task at hand. Checklists are your friends. <3 Thats a great way of putting it! In my head ive always considered the paradox to be the fact that i need my medication to fix problems with motivation and consistency, but i need motivation and consistency already to take it! So it becomes a catch-22 problem that always ends up failing in practice Stoooooop this how I feel really got nw with my essays I have to write I want to cry When I'm medicated, sometimes I can begin task 2 and keep task 1 in my head, but only sometimes This is 100% me....  My coworkers love to point out how you can follow a trail of half completed tasks through the store to see where I’ve been lol. It’s just so difficult to remember what I was doing once I’ve been interrupted.  Silver lining: you at least finished task 3 Todoist is great for this. 5 seconds to type "work on task 2 at 2pm". Adjustable default reminders and snooze time. Hahaha!!! Sooo very true!!! I tell people they wouldn’t survive in my brain, I have ADD & ADHD.  I have way too many tabs open. Lol  You just described me to a T!  Talked to my doc today about maybe switching to a new med This hit home lol holy shit I feel this way all the time. IDK how non-adhd people do it. Almost every day I'm like..
+
+ "idk if I should respond to this person who *just* wrote to me, because theyre expecting a reply sooner rather than later. Or, do I try to finish my current task and risk forgetting to reply."
+
+HOW TO PRIORITIZE?? Getting karma is much funner than either task I do I.T  for a large company, a good day is one where I have less then 4 laptops on my desk... Focus on the process, not the result. Set a time for  task and stick to it. A goal like "clean all the dishes" is abstract (to the ADHD mind) and overwhelming. But "clean dishes for 20 minutes" is much more do-able. The time limit gives you an exit which means a task cannot devolve into procrastination. And by focusing on the process rather than results, there is far less dissapointment to be had.   When I had my latest internship I had a task I needed to do then I remembered that I had a thing I should check so I went and checked that and then, I just sit there and look at my monitor doing nothing. Then I remember that I needed to do this thing so I went ahead and did it and then to move on to the next thing but I just need to do this first.
+
+Sometimes I wish this would stop. The constant "doing" and switching tasks. How hard can it be to just focus for once? Why do things have to be so difficult at times? God, I feel it. I tried to remedy it with sticky notes for so long, but then I just had dozens of them everywhere. It would turn into that side quest in games where one person needs one thing, but the person who has it needs another, so on to... infinity. > You hyperfocus and perform inhumanely well and multitask like a legend, but you just forget one little thing. Every. Single. Time. And it's that one thing you missed that everyone cares about, not the 9 things you did in record speed.
+
+Hey you just described every test I've ever taken in school. I would always feel great when I turn it in before everyone else. Then when I would get it back I usually get a good grade but there's always one or two extremely careless mistakes that I would have caught if I just slowed down a little bit. I'm always proud of myself when I get a good grade but I can never help but think every time "why didn't I just triple-check my work if I had so much time left over?" *suddenly 32 tabs open* I dislike that THIS hasn't become the stereotype of ADHD. This is me to a tee - and on a lower dose of meds, gets amplified 10x (like now I can REMEMBER tasks, think of all the things I can do!). Now on 25mg of Adderall, I have a sense of "priority". E.g. why did I start fixing my bike now that it's fall? So I put that away with plans to start it when it warms up.
+
+Too many thoughts of the lazy bum who plays games all day or the kid that runs around? Where's the person that does a bajillion things half-assed but takes twice as long to do them (me). Oh my gosh, yes.  That one simple thing is always the thing that pops up when I have a moment of thinking I actually finished all my tasks for the day and start to relax a little.  Boom, here’s the thing you failed.  Game over, you lose again, better luck tomorrow.  
+
+So frustrating! Or I put away all the dishes, re-loaded the dishwasher, ran it, and hand-washed the rest all in record time... but I left all the cabinet/pantry doors hanging wide open and my wife came in and hit her head. This is so true. No one notices the massive load of work you go done but no one accepts an excel file with a 1% error rate. I’m not saying it’s fine, but it sure wears me down. Part of my daily job is taking over "small big projects", 
+
+Sometimes I manage to keep track of all activities and cover all bases, but there's this one little dot on top of the "i" that passes by and oh God, it's a nightmare this hits WAY too close to home...
+
+the worst is when I'M the person obsessing over the one thing i forgot My company actually goes through an exercise that’s been super helpful. Each quarter, we create a highlight reel of everything interesting that we’ve done. Even when I inevitably forget to include a thing or two in my list, my manager is always floored by how many different things I’ve been doing. I'm sure it's already been suggested, but I do this regularly, and I find if I bring a little notepad around with me while I'm superhuman-accomplishing all of those tasks, or even a pen to write on my hand, and I jot down every. single. solitary. thing that comes to my head like "do this, don't forget that, oh, yeah! do this too!" then I can avoid the one thing that everyone will care about.  This is the most accurate thank you! Fucking exactly. Superhuman. And they still got something to say. Good thing we don't live for the  approval of others who couldn't even do half of what we can. Truth  That’s why I kicked ass working as a cook.  I’ve had this with math in high school, finishing all the problems and even getting the correct answer but lost points on writing minus’s accidentally instead of plus’s.  Pain in the ass.  Wow this hits home. I make so many small mistakes that bite me in the ass. It seems no matter how hard I try to pay attention and review my work I am always going to f something up. This. So fucking much this  I hate that forgetting ONE thing that happens. It kills me on studying for midterms or putting a bibliography or anything >;( Stop I can only take so much :( Just the concept *alone* is prompting my avoidance anxiety. 
+
+I’ll be pretending I didn’t see the notifications as a way to hide from my guilt of not doing anything at allll
+
+(But no, really. This sounds exactly like what I’ve been looking for. Best of luck with development!) I would lie to that machine so fast! 😆  She's not the boss of me!!  Not cool, but apps dont do it for me.  I'd def give it a shot. How long until this is out? I'd love something like this for school  You seriously need to post an update about this app when it's close to/finished developing. I'd be all over this  This would be a Godsend at work because I get interrupted so many times that by 430pm after I've done all this stuff i go back to doing what I started at 930am. Most of the stuff get lost somewhere through the day though. OMG I need this !RemindMe 1 Month There's a similar app, which isn't as in-depth, called Stay On Task! Take my money I'm very interested in this app! 
+
+Edit: typo and I'm on Android by the way Please update us on this, it sounds perfect! Yo hmu directly if you develop this or I'll forget about it, thanks b  Could Google assistant or siri be programmed to do this? Okay, one issue I see with this is that I have to start the app. Lol Would it be possible for it to just start asking me at a certain time? 
+
+Either way, so cool that you're able to make an app around your needs and wants. Makes me want to learn how to do that too. Ew. I tried bulletin journals/agendas
+
+I either forget to write things down or to check it later on.
+
+Surely am trying to get that habit going, I see so many people saying it helps them Yes! I always had the hardest time explaining this to my ex. Cleaning is 50 times more exhausting than it should be, because I start to bring laundry to the washer, then I notice a class on the way that needs to go to the sink, and suddenly an hour later I'm scrubbing baseboards and the laundry and dishes still aren't done somehow.  I am terribly ashamed of how long it takes me to clean. Still, I do a pretty thorough job, and in my defense, the dog did barf in her sleeping bag again. My phone is a goddamn labyrinth of distraction. Simply putting a note or alarm into it can be derailed in less than a second if I see a certain notification. Using it for any reason carries this risk. The amount of times I've wanted to check the weather and end up responding to DMs then browsing Instagram for 20 minutes or something is insane. 
+
+Even once I get back on track and remember what I originally needed to do, just going to the home screen with all the icons is enough to completely strip away any conscious intention I may have had. I've taken to repeating objectives out-loud like a mantra so I don't forget. It's SO EASY to get off track using phones or computers. I have like a 2 second memory due to all the possible distractions. It's pretty amazing and scary how little control I seem to have if I'm not practically rocking back and forth repeating SET ALARM! SET ALARM! Hard same. This, except strong urge suggests you are aware of it happening and can potentially stop it ;)) "If it takes under 2 minutes then do it now" is the worst piece of advice I've received.  Freaking same. I always thought I was just a really over-achieving loser. >Being able to trust my brain would be there for me for the first time at 34 years old was amazing.
+
+Oh man, that really resonates with me. I bet most of my problems stem from not trusting my brain. 
+
+
+ Oh I hope this is what I can do in the future.  Right underneath task 2 which is also unfinished because you got interrupted by task 3. Speaking of which, where is task 3? Did I finish it or...? And then you get interrupted with task # 1734. I've started using "Hey Siri" to capture notes for me.  Fleeting thought, "Hey Siri, remind me about such and such."  Works for me because my phone is always with me and it is quick enough that I don't lose track of what I am working on.  If I decide that the second thing is more important to complete then I just ask he to remind me to come back to the first thing in X minutes.  Plus you get that gooey warm feeling for marking things completed on lists. GTD? You're welcome my friend (: Because re-checking is boring, and your brain wants something more engaging. Yup, ya know how many times I would "get" some mathematical equation or theorem, just to add 5+4 as 20 or something similar. It's like come on! I get it! Just a small speed bump I missed.  OH FUCK YES THAT'S ME me in exam, every TA and professor would tell me to slowed down but I can't. I just lost 10 marks because I forgot to mark the (correct) answers to the scantron. Got 17.8/20 instead of the 19.4/20 on my midterm. I don't make improvements when I triple check. Well, I do. But it's so laborious when it's an addendum to doing the thing.
+
+If it's checking something after a day or two? Hooray, that's novel. Checking just after I've done the thing? Agonising.
+
+And I don't find I'm any more attentive if I try to go slower in the first place - I end up devoting more attention to going slower, and make more mistakes, and stress myself out, and am less aware/perceptive to boot.
+
+"Just slow down" might as well be "just live your life in comedy fake slow-motion". It's not really going slower, it's pretending to go slow. For me at least!  This is me right now, because I never know when I need to go back to a tab.  I use tab outliner on chrome, and it shows the total number of tabs I have open (as well as opening a pop up to outline all tabs on tree format, as well as saved prior sessions). 
+
+Currently at 42. At the end of last week I was at 58. I'm bad about looking up stuff and "oh that's useful for an upcoming project I'll read that later" I have 25 tabs open right now. When I'm on Pinterest... basically don't let me on Pintrest. I think I've crashed my computer that way before cause I overloaded the RAM.  Ok. THIS is me. 
+
+Still hardcore struggling with that priority thing though.  I always list points for not showing any work. I just had random numbers written down the side of the page with no meaning to them. They made sense in my head though. Same. Sub-60s/70s in mock exams due to stupid mistakes, 100s on actual math exams. I was the epitome of a wildcard.  +/- is my arch nemesis.  I used to check my math tests over 3+ times because it was the only way to catch my mistakes.  I also had a bit of OCD about doing well in school, to say the least. Would it help if the assistant messaged someone you love to get their help if it thinks you're avoiding?  TIL: Avoidance anxiety is a thing and boy oh boy do I get it.  Same here.
+
+(While the true answet is no): "sure I am, shut up, stop pestering me" Would you use it if it was a program on your pc?
+
+Or would you use it if it was an Alexa skill?  I won't be coding it until December. Hopefully it's ready for January Yeah no worries mate. I'm still busy with my bread-and-butter plugins - when the next update is out, and then a bit of marketing, I should have all the income I need to hire a coder to handle bug fixes and a marketer to market my shit and then full-time focus on ADHD-related assistants.
+
+This is not the only idea I have. I have at least 5 app designs to help ADHD. Obviously, none of these will actually cure us, but they target specific areas where I believe an assistant will help us be more productive and less stressed.
+
+FYI - none of my apps will ever include adverts, and none of them will ever have recurring fees. Recurring fees/subscriptions are a fuck-you tax for people with ADHD. So - they'll all have free versions, no adverts, some will be entirely free, some will have feature-based premium versions. 
+
+I realised a couple of years ago that if some unscrupulous person wanted to make a shit-ton of money, they'd make a bundle of apps that promise to help those with ADHD, with a free trial for 2 weeks followed by £x per month. Even if your apps were crap, you'd make tons of dosh.
+
+I want to get these apps out to market before those unscrupulous fucks realise this. Thanks! It's always useful to see what other app devs are making. But yeah, it looks pretty basic. No personal assistant, just random timers. Only once - I'll never release a product with recurring fees. I hate that shit. And you'll probably be happy using the free version.
+
+Probably the paid version(s) will be for different integrations to different todo lists e.g. to give it a starting point, or for it to stick stuff into your todo list as you progress throughout the day, or for it to update your todo list as you actually get shit done.
+
+I don't know about you, but I find anything mundane incredibly difficult to do, and frankly - communication comes under that banner for me. If I've done some work on something, I'm unlikely to tell the stakeholder because it's not yet finished. I want it to help with that ideally, but it's not part of the key functionality. Yes. It'll start either at a specific location, or when specific Bluetooth device connects (eg headphones) or on a timer Yeah, you have to make it a habit. Keep it open right next to you whenever you're working on something, just always try to have it within reach. That's what helps me Keeping a notebook a pen/pencil with me constantly helped me get into the habit. By my bed, out to restaurants, hiking, etc.etc. Practically even in my hands most of the time. Even if just to fidget with. 
+
+You might have a system that works for you but thought I'd post this just in case someone finds it helpful. Saying it over and over is definitely a coping mechanism I use on a regular basis!  I can almost never stop my strong urges because I have the impulse control of a gnat haha. help.  That's smart! I have siri too, maybe I can try this! I never set reminders on my phone usually though, so this would be new for me. But I like that it's so quick! David Allen's book/productivity system "Getting Things Done", the idea is to get everything out of your head into a trusted system so you can peacefully flow through your work. And that if we are relying on our brains to keep track of everything we need to do, we are constantly distracted worrying about forgetting things, and engaging with thoughts of tasks we have to get done that pop up at inappropriate times. I quite like it. https://www.goodreads.com/book/show/1633.Getting_Things_Done Eh I wouldn't say that, quite the opposite in my case I think. Most of the time it's just because I forget because I'm overstimulated - my brain goes from "take the test" to "got to the end of the test" to "done, let's turn it in!" too quickly. It's not that I think re-checking is boring, it's that I don't think of it at all! By the time I realize that I probably should have rechecked, I'm usually like two minutes down the hallway and my brain is calming down a bit after being so active while taking the test. It probably doesn't help that I'm still really good at taking tests despite the issue, so I've rarely run into negative consequences as a direct result of not checking my work. Explains how in high school when we had to turn in a brainstorm, then rough draft, then 2nd rough draft AND THEN the final paper it felt like torture  I'll have 3 desktops with 4 windows each and they'll all have like 12 tabs open I'm getting that extension.  ...get more ram? It really didn't hit me until we increased to 25mg of Adderall a day and even then some days are bad some are good.
+
+What helps is an accountability partner, like a spouse or a roommate. AND don't take the kids out unless your good and medicated 👍 What often throws me off starting tasks or causes me to take longer isn't a lack of focus on a particular task, it's the extra time it takes me to try and sort out what to do first based on priority. It can be paralyzing for me, especially when there really is a specific order in which they should be completed in order to get everything done within their proper deadlines. 
+
+If I had something or someone feeding me the correct order in which to start tasks or projects, I'd be WAY faster at finishing them. I get so caught up in deliberating what to do first knowing that there will be dire consequences for starting unrelated tasks with different deadlines and levels of importance and difficulty in the wrong order. Priorities with a time deadline are the arch nemesis. Somehow have a bunch of stuff due for tomorrow and no recollection of it at all. I had failed my algebra test my sophmore year for not showing my work. I actually aced it but was accused of cheating. I did not cheat. I had my algebra tutor & my mom show up after school one day to talk to my teacher. They gave me random algebra problems & I could tell them the answer but I couldnt show the work the way the teacher wanted. I failed algebra. Lol! She didnt give s fuck!  I still do all calculations at least twice. It’s the only way I can be sure my brain didn’t play tricks on me.  It would work briefly, but then I’d start avoiding that person or quit using the app. 
+
+I think the problem is that it’s too easy to say that you’re still making progress. The threshold to tell (what feels like) a white lie is very low. 
+
+Perhaps you could improve this by having the assistant prompt the user what goal they have when starting on some kind of task and then after each interval ask how they’re progressing. 
+After the second interval, ask if they’ve made much headway since the last prompt. If the answer is negative, suggest ways to seek help and suggest rescheduling this session until after having sought help. 
+
+The point is to encourage being productive and finding ways to overcome obstacles to being productive, rather than worrying a user’s loved one and risking them to abandon the assistant due to anxiety.  Or if it was able to store who in your contacts *matters* to you, know they texted you and then after X amount of time, reminds you to say, hey why don't you get back to them. Or it sends a message on your behalf indicating you have been busy on X,Y & Z and has reminded you to respond.  This might vary between people but I personally would get my ass to working if that were the case!  A program or an app sounds like one More  thing on my to do list. So... I dont know. That's why I'm here really. If you need beta testers i'm in! Yeah, even that has been really helpful for me personally, so I think you're on the right track! All of those sound great! :D This, for me, is the problem for almost anything with even the tiniest bit of complexity. Yeah I got my wallet and keys habit down so technically I have and thus can form habits.  But I can’t get the rest of a get out the door on time routine down, among other things. 
+
+Habit is supposed to form from repetition, and beyond that there’s no explanation it seems like. I actually need tricks for forming the habit, not info on the habits to form lol. Note I’m not directing that as a demand to anyone haha just saying it out loud such as it were, in case someone has a useful bit about this, or at least to know I’m not the only one who can’t get past this stage.  Then I keep on looking at the book, flicking over multiple times which is distracting That is also a fair point.  I often don't realize when overstimulation is occurring until much later. That's probably because you haven't gotten to that point yet.  At some point I was able to teach myself to remember to recheck, which is when I ran into the issue of it being too boring.  Trust me, after checking ~5 problems and finding them correct, you'll convince yourself it's not worth it and move on... I actually turned my test in, got halfway back to my seat, realized I forgot a crucial step, went to my professor, said "it's too late now isn't it?"
+
+He surprisingly allowed me to complete that step and turn my test back in.  I had 16 GBS of ram on that laptop. I dunno if it was actually the RAM but either way, it was cause I had probably  50+ tabs open at the time, if not more. Like I said, don't let me on Pintrest lol.  This has been a struggle for me too.. I figured out as soon as I begin the task of prioritization my mind goes into overdrive and then into paralysis from indecision.
+
+I'm thinking of maybe using the "time block" system of time management, schedule a block of time to simply prioritize the next week.. give myself the list of things to do, that way I don't argue it.. AND using the time block system means I get to categorize tasks, and sidestep my reluctance to do specific things..
+
+Ugh.. the finagling..!! Yet I would take forever to get things done without the deadline due to procrastination ... Necessary evil  This makes me so angry. I was the same. All the tests in high school seemed to test you on your ability to use a specific method of solving a problem and being able to show your work. They didn't even care about the answer, just that you could use the particular way that was deemed 'right'. 
+
+When I would argue that I got the right answer with a different method, or through pattern recognition, intuition, or mental math, they would say that the 'answer' to the problem wasn't what they wanted. It was you ability to follow a certain procedure exactly. I'd follow up with asking why this wasn't more specified (besides a note saying to "show your work"), or what the reasoning behind using whatever stupid method was when I had one that worked better for me. The correct answer was always selected in multiple choice or written in on the line that asked for the result. But no, apparently they didn't care if you could solve the problem, only that you could solve the problem 'their way'. Fucking bullshit. There are so many ways to solve a problem. If it works, it works!  Unfortunately that is what is valuable. The answer is worth nothing unless you can prove it. In actual non high school math you often have the answer already and they want you to show how to get to it from a certain point. Yes - I agree with all of this. There are technically two aims of this plugin:
+
+1. Eliminate hassle of having no working memory
+2. Eliminate anxiety from having hundreds of threads to unravel
+
+For the 2nd one above, I'll probably need to code the assistant to read your phone book or email contacts or something so it can identify who distracted you.
+
+It could then, if you tell it to, send messages to all affected parties who aren't going to get what you told them they'd get.
+
+I'm fairly sure the data the assistant gathers (locally on your own device) over time would be useful - e.g. it will be able to start identifying WHO distracts you the most and WHEN you get distracted the most. This information would probably be useful but I'm not sure about this yet to be honest. The most beautiful thing about this assistant is you can start fresh without any planning. What are you going to start with?
+
+It then starts logging your chaos from there and tries its best to help. The main issue, I believe, is going to be overcoming the 'anti-intertia' thing most of us with ADHD have.
+
+If we *start* we know we're probably going to go nuts and work on something forever and lose our entire day.
+
+Hopefully this will help iron that shit out, but of course it'll be possible to tell the assistant to shut the fuck up and leave you alone.
+
+If I pair the app up with your PC, it could learn and know when you're trying to do work (presuming your work is PC-based). I could do similar stuff with geo-location and time-of-day. Same!  Habits are so much harder for the ADHD brain!! Check out “Atomic Habits” by James Clear. His blog is really helpful too. He talks about how to purposefully design a habit-forming loop. They key is making it very attractive & rewarding. Yeah the james clear help is very useful!!! I'm suffering from making habits too but right now I'm in a leave of abscence from university so I actually have time to search and try solutions for my adhd dilemmas :) here 
+https://jamesclear.com/habits  below the book propaganda are listed MANY articles about habits strategies, I'm gonna read those and see what helps if you want I can share what I've come up with, can work as a motivation to actually do it haha Yeah I can relate to that. I guess I just allow myself to waste that time bc it's better than forgetting stuff Thats what I've been doing all day now. None of this shit was actually assigned to me but now I have to do it. Exfreakingactly!  I graduated college in the very early 90s. I havent used any algebra yet! Lol!  Just imagining giving an app access to all my phone and e-mail contacts spikes my anxiety. 
+
+And really, I think you’re approaching the problem from the wrong angle. I think many of us already *know* who distracts us, and when. Having an assistant spam your contacts with messages only serves to alienate people from you. 
+
+The idea, of course, is that the risk of this app sending these messages when you don’t do your tasks, motivates you to do them. It’s a form of negative feedback. But honestly, it’s much easier to avoid that risk not using your assistant anymore. So that’s what people would gravitate towards, I imagine.
+
+The improvement I suggested doesn’t rely on bothering your contacts. It’s not negative feedback either; it’s constructive feedback since it tries to help you improve. I don’t need more punishment for the things I do wrong, or don’t do at all. I don’t really want statistics on that either. I just want something that helps me remember what to do, and is flexible enough to stay helpful even if the going gets rough or if I dropped the ball. 
+
+It’s a lot to ask, of course. That’s probably why there isn’t something like that out there, yet.  Ah! Yes. Starting with a blank canvas and if it logs my shit and tells me reminders i can see it's use. Me too Not OP but I'd love if you shared anything you find helpful! Thanks for the link too So? It was about teaching you stepwise logic based critical thinking. I think the main part of the program covers most of what you're looking for. It will never every automatically email or message people. That's dangerous. If I add this option, it would summarise what it's about to do on screen and let you untick all or whatever or cancel all. > Just imagining giving an app access to all my phone and e-mail contacts spikes my anxiety.
+
+Same here - this is why this app MUST use snipsai and process all info OFFLINE. i.e. no data will ever be sent to any servers, no data will ever be sold as none will be available etc.
+
+The exceptions to this will be those who opt-in to submitting data to help the thing evolve. Like it'll definitely be useful to see the most common phrases it doesn't understand, for example. Samesies! I'm not an idiot. I know why.  Research is needed when you look into making a product for people so you do not end up making a service to only suit your needs and not the rest of the population. I learnt this recently and it's very true, we can get caught up in our own idea that our own biases come into play.
+
+I would recommend looking into Adhd research papers to get a better understanding problems people with adhd actually face with actual evidence and solutions then work around that 
+
+i can find some research papers for you if you would like
+
+we all learn, we all struggle.. I wish you well and hope to see your app on top of the app store :)
+ 
+
+ Yeah that's why they call it "Research & Development" or "R&D".
+
+Most people forget the research part. 

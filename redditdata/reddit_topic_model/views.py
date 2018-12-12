@@ -27,3 +27,4 @@ def generate_model(request):
 	values = model_subreddit_topics.get_subreddit_topics(subreddits, query, job_name, num_topics)
 	print(values)
 	return render(request, "topics_template.html", {"values":values})
+

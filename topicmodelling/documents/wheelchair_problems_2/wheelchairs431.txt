@@ -1,0 +1,18 @@
+Voice Control Questions Hello, I'm currently working on a project that involves GPS navigation for physically impaired users (the navigation accounts for staircases, obstacles etc.).
+
+We are currently implementing voice control for the application as we realise the benefits of programs like ours working hands-free.
+
+This is where I need your help. Knowing how users will interact with voice control will help us with the implementation. If you could take the time to answer the following questions it would be very helpful for our implementation.
+
+
+1. If you were using our navigation app on your phone, and you wanted to get to X location, how would you phrase it?
+2. What (if any) features of speech control do you dislike?
+3. What is your experience with other voice control systems? (any feedback related to voice control)
+
+
+Any feedback is greatly appreciated, thank you for your time.
+
+ 1. How do I get to \_\_\_\_\_\_\_\_\_
+2. I don't like it when they only have one way of saying something. There should be multiple trigger phrases for the same event.
+
+&#x200B; Thank you for your feedback, much appreciated. 

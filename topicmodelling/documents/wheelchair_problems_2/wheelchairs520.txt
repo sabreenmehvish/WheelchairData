@@ -1,0 +1,18 @@
+[Survey] Wheelchair Basketball Launcher Engineering Project Hello /r/wheelchairs, my team and I are junior mechanical engineering students who have been tasked with designing a modular basketball attachment for a joystick operated wheelchair. As part of the engineering design process we must survey potential consumers for what they desire in our product. Please read the following questions and feel free to either comment or email us at minutemadesolutions@engineer.com
+ 
+1)	Do you have an electric wheelchair with a joy stick (Y/N)
+
+2)	(if yes to 1) is your joy stick capable of controlling multiple devices? 
+
+3)	How much charge does the battery of your chair hold?
+
+4)	Do you have limited arm usage?
+
+5)	(IF yes to 4) Have you had a desire to play sports that require a great amount of arm usage?
+
+6)	If a device that performed arm movements such as throwing a basketball/football existed, would you be 
+interested in it?
+
+7)	If such a device existed as mentioned in question 5, how would you prefer it be mounted on your chair?
+
+ 

@@ -1,0 +1,7 @@
+Making a little todo list application. [This album](http://imgur.com/a/C0tOE) provides a little demo of what it can do so far. 
+
+The user can look at the completed and queued items as well, but since I haven't sorted out separate CSS for the different kinds of items yet, I figured it would be confusing at the moment.
+
+Any thoughts? Features you'd like to add, stuff you don't like about the interface, etc. 
+
+Thanks in advance. I find draging items to left or right side to finish or delete a cool ux feature.  not sure if it has its place here but it could be cool to try. Not sure how well that gels for desktop users, but if I ever manage to get around to developing a mobile version I'll keep that in mind. Thanks! 

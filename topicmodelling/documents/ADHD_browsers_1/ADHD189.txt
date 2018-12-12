@@ -1,0 +1,13 @@
+tools to improve your productivity with adhd - POLL Hi all, 
+I'm looking to build tools to solve issues surrounding organisation and focus for people dealing with ADD/ADHD symptoms - I have some code that I've been working on but it would help me finish and publish one if I had an idea of which would help other people more. (Obviously I'm finding it a challenge to finish these without extrinsic force)
+
+The ideas tend to revolve around **restriction** as a way of increasing focus and reducing distractions.
+
+Please let me know if any of these would fit problems that you face: 
+
+1. browser plugin - sets your number of maximum browser tabs to 4 ( ( or whichever value ) to prevent choice paralysis.
+2. desktop application - disables access to certain applications ( also the internet ) based on a schedule that you define. 
+3. daily to do - a resetting to do list to help you stay organised with the small things that need to be done everyday, includes alarms
+
+thanks for your input, here's hoping something helpful can be made #2 thx bud, 
+I'm starting off with a simple internet blocker - will let you know when its available 

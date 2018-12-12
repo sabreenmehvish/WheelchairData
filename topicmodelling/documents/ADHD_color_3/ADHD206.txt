@@ -1,0 +1,30 @@
+No offense to the mods, but the subreddit's page has too much "flair." This alternating blue/white combination among other things is very distracting :( We've heard that the alternating blue/white has helped people pick out posts easier.  Before we got complaints of everything blending together since it was all just white.
+
+What would you suggest in it's place? What gets in the way for me is the Kick-Start banner at the top of the page. (Today it's blue.) 
+
+It frequently covers up/hovers over the first post on the page, even when I make fonts smaller or zoom in. Maybe it's just my settings.  Aahhhh you're not offending us, we love feedback! Thank you! uncheck "use subreddit style" I have only heard one negative feedback about the blue/white alternating posts, and that person took it back after using it for a couple days. All our changes are attempting to make /r/ADHD more ADHD-friendly. There is a balance between distraction and providing visual cues/filters.
+
+We have link flair to help differentiate certain posts (rants, insightful, school). I would like someone to easily be able to find a post that is offering a stretegy vs a post asking questions. We are still figuring out the best way to implement this.
+
+#### We are always soliciting suggestions! Message the mods if you see any CSS from other subs we can add or have ideas of your own!
+
+We can do so much awesome stuff with the CSS (like create that big red text above) and I hope that no one feels the need to disable it. Thanks for the feedback! It can be a little distracting. The lack of continuity in the style seems pretty typical of our community lol.  Actually let me take that back. It took a little getting used to, but I'm able to discern a little better. If anything, it would maybe help ME (not to speak on behalf of anyone else) if it were a different color, e.g. light gray/white rather than the blue. The neutral colors wouldn't "confuse" or stick out as much to me, personally.
+
+Thank you for the response :) Try making it a bit smaller. It's so huge just trying to look at the page is daunting and jarring. I agree. There needs to be some more padding in the announcement. This is especially noticeable when the text wraps for a second line. I will tweak this right now and attempt to create more white space. 
+
+EDIT: Tried to figure it out. Added a border. I think I will need to change the styling for the first post on the page to provide more space. I knew 0 CSS before becoming a mod, so I am learning! I've trimmed the fat a bit on that sticky and hopefully it shouldn't cover things up as much anymore (hopefully not at all).
+
+Unfortunately, the only way to get that sticky to appear is pretty hacky.  The content is actually in the sidebar and we're forcing it to display up top like that. Nooooooooooooooooooooo! As per [this post](http://www.reddit.com/r/ADHD/comments/x53lx/no_offense_to_the_mods_but_the_subreddits_page/c5j9ci2) perhaps the light blue might function better as a light grey?  It's something to contemplate. That's definitely something to play with.  Perhaps a softer gray like you suggested to show that it's a different item, but to not stand out as much.
+
+Thank _you_ for the feedback.  We rarely get feedback on many things we do around here, so it's always good to hear anything :)
+
+Edit: s/here/hear 
+
+/me hangs head in shame Smaller in which sense?  The font size?  The vertical height? and to sugardeath...
+
+It looks great. First post is easy to read now. As for CSS, don't even know what it is, much less how to do it. 
+
+Appreciate the time and energy you both contribute to the site. Hope you get paid. 
+ Perhaps. Only reason the blue was used is it is the reddit color and didn't clash. I'll try a gray today.  I agree. I like that the posts are separated and easy to navigate, but the bright colors are distracting and overwhelming.  Each 'panel' that each post is on is quite large and spaced out. It looks to me that it is because of the font size. Yess.  More feedback.  Feed me more!
+
+Do you just mean the alternating light blue background thing going on, or are there other colors to which you refer? That was done on purpose to create more whitespace.  We could experiment making that normal again.  :-)  I like that the colors alternate.  I just think the brightness is too much.  What about something just a little lighter?  Then you could coordinate the colors of the side bar with whatever light color you chose for the posts. 

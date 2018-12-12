@@ -1,0 +1,215 @@
+Productivity Tips for ADHD Programmers - take 2 Hey y'all, 
+
+I know there are a lot of programmers out there with ADHD (I'm one of them!). I've gathered some effective techniques for being a better programmer despite ADHD over the years, here they are.
+
+**Use visual tools.**
+
+If I look at a big dump of text output – for example, from an application server’s log – the words literally blend together and it takes all my brain power to read what’s on them. And it’s insanely slow to read.
+
+Whenever possible, I use GUI-based tools instead of the command line. Graphical interfaces are way more visually streamlined with much more visual differentiation – for some people like me, this is much much easier to read.
+
+In addition, they’re often easier to learn as well. GUI applications often have tooltips and in-app help that is readily available.
+
+Some of the tools I use:
+
+* for source control (Git, Mercurial, etc) – I use SourceTree.
+* for diffing or merging files – I use DiffMerge.
+* for coding – I use Sublime Text.
+* But you could just as easily use others like Tower, Kaleidoscope, and so on. Make sure your editor has good syntax highlighting, and bump up the font size if it helps too.
+
+**Embrace mistakes, deal with them using Git**
+
+If you’ve got ADHD or LD, you’re gonna mess up. A lot. Train yourself to accept it as par for the course, and you’ll get less frustrated and recover quicker. (Read Learned Optimism – big help.)
+
+In order to deal with frequent mistakes, learn to use Git (or whatever source control system you use) more effectively. There are things literally built into Git for preventing and correcting mistakes – take full advantage of them.
+
+Here are Git techniques I find specifically helpful for ADHD coders:
+
+* git reset – for when you write messy code you don’t want to keep
+* git stash – for when you write messy code you want to keep, but you don’t want people to see
+* git checkout -b – always start work in a new branch. If it sucks, destroy it and create a new one. Never push unless you’re ok with people seeing it.
+* git rebase -i – Commit often, to save your work. When the work is good, but your commits are ugly, do an interactive rebase to clean up the mess.
+
+(Note: All of these can be done in SourceTree, and any other good GUI client.)
+
+This is stuff that can help any developer. And all developers should know it. For ADHD developers it’s a necessity – it’ll help you avoid a lot of those “oh shit!” moments when you push code that will freak out other developers. Or the other ones where you accidentally lose important work.
+
+**Document things digitally**
+
+ADHD people forget stuff. Programmers are no exception.
+
+Luckily, our jobs revolve around the digital world. Embrace Evernote, Dropbox and Google Drive. Write down anything important in those 3 apps, and it’ll get saved automagically. No more losing stuff.
+
+I’m pretty candid with coworkers about the fact that “if I don’t have a digital copy, I won’t remember.” This is a good expectation to set with people, and not an unreasonable one whether you’ve got ADHD or not. After an important conversation, ask someone to shoot you a quick one-sentence email. As soon as it gets to your inbox, put it in Evernote.
+
+**Keep yourself on track**
+
+ADHD people often go off-task; we start doing something, and keep forgetting what the hell we were doing.
+
+For years I used an Evernote note (or an OS X sticky note) with the words “WHAT AM I WORKING ON RIGHT NOW?” and the current task.
+
+Let’s say my current task was “Email proposal to Dave.” Every time I caught myself looking at Facebook or forgot what I was supposed to be doing, I tabbed back to that sticky note and remembered I had to finish that email to Dave. You’d better believe that proposal got done, and Dave got it.
+
+You can use a full on task list as well; for some people this is too much information at once – if you list 20 tasks on there, overwhelm can set in and you can feel like you’re getting nothing at all done.
+
+I recommend a technique used by a lot of top-performing successful people like Tim Ferriss: every day write down your 3 most important tasks. Chances are you’ll get a lot more than 3 tasks done; but focusing on only 3 makes sure the top stuff gets done, AND doesn’t overwhelm you as much.
+
+This way even on your worst days, you can feel proud of the work you’ve done since the leftover stuff isn’t as critical.
+
+**Set Timers & Reminders**
+
+People with ADHD don’t always have a perfect sense of how much time has passed, or how close to a deadline we are. Accept this and use technology to make up for it.
+
+In the past I experimented with setting a 15 minute timer on my iPhone over and over every time I started a task. That way every 15 minutes, I’d be forced to remember what I was working on (or check my sticky note) and re-focus on it.
+
+This also helped my sense of time taken on tasks get a lot better. Eventually I’d see that tasks I had thought would take one alarm (15 mins) might actually take three (45 mins). Next time I’d estimate 4 (1 hour), and get it done early.
+
+The next few tips are about preventing 4 different types of distraction: visual, audio, social and self.
+
+**Prevent visual distraction**
+
+With anyone, but even more so with people with attentional problems, visual clutter affects your ability to pay attention. A messy desk will mess up your attention. Clean it up, and keep it clean.
+
+It doesn’t mean it needs to be perfect. If it’s a royal mess, just move everything into drawers so that it “looks” clean at least. Organize the drawers later.
+
+Clean up your computer’s digital desktop too. You don’t need 1,000 icons on the desktop! Throw all that crap into Dropbox folders (or even regular folders).
+
+Motion is also very distracting. I’ve worked in half-height cubicles where people were walking by all the time and it drove me nuts. If this is your situation, ask to move your desk to face a wall, window, or lower-traffic area and you’ll see an improvement.
+
+**Prevent audio distraction**
+
+Sound distracts me like crazy. I bet it happens to you too.
+
+Get noise cancelling headphones. Immediately. And use some binaural sound, or similar non-vocal sound. I’ve had huge results with it, and to this day it helps me get into a meditative state while I work. I just banged out this entire article while listening to tibetan meditation and an old binaural track for 2 hours. Nosili is awesome too, and free.
+
+**Prevent social distraction**
+
+Depending on your job role and the culture at the company you work for, it may be acceptable companywide that people distract you whenever they need you. This can be a big problem if you’re natively distractible.
+
+It’s best to seek work at places that believe in the importance of attention when coding, or in general. 37Signals (aka Basecamp) have talked about this in their books. Attention is a valuable resource…this applies to ADHD people more than anyone.
+
+But it’s not always so easy to just pick where you work. Here are other things you can try:
+
+* **Adopt a "headphones rule."** Ask that people send you an email if you’ve got your headphones on (but make sure there are times when you’re not).
+* **Negotiate “remote work” days with your employer.** Let them know that you can churn out the most and best code when you’re away from the office. (For extra points, see if you can get them to read the book Remote.) If you can do work completely remotely, even better.
+* **Schedule “distraction-free” time.** If parts of your job require you to be available for people, so be it. But you’ve gotta get coding done regardless, or you wouldn’t be reading this.Work with your employer to set specific times when you should be a people person, and when you shouldn’t. Once again, remind them that distractions are the bane of good technology, and it’s in their best interest to do this – most likely for the whole team as well.
+Prevent digital distraction.
+
+Even if we manage to control all these other distractions effectively – visual, noise, and people – we’re perfectly capable of getting pulled away by the sea of distraction known as the Internet.
+
+A talented developer I know told me he was looking up something work-related the other day, and somehow ended up reading up on helicopter escapes from jail. He doesn’t even have ADHD. This is our world.
+
+For an ADHD person this can be a multi-hour distraction. I’m pretty good at this nowadays. If you’re not, I highly recommend getting apps that will block the Facebook news feed, or block a list of websites for a period of time.
+
+There are literally dozens of apps to help you focus. Just pick one and try it. (Easier said than done for ADHD people, I know. Humor me.)
+
+**When in doubt, move around.**
+
+The last tip I have for now is simple: get your body moving.
+
+Not just in general (though you should be doing that too – daily cardio exercise is good for the ADHD brain.
+
+But I mean specifically, when your mind is wandering a lot, or you’re stuck on a problem for too long – go do jumping jacks in the bathroom, or take a quick walk. However you do it, try to get your heart rate up for a brief minute. I find that a short burst of activity can be enough to get my brain in gear when it’s slowing down – or get me over the hill of whatever technical problem I’m stuck on.
+
+-------
+
+What challenges do you run into as an ADHD programmer? What strategies have helped you? As someone with no working memory: Use a paper and pen when solving problems, people! Draw pictures and diagrams, write out steps, or whatever you're comfortable with. If I come to the conclusion that because of A, B needs to happen, I'll immediately forget what A even was and the whole train of thought gets derailed. Documenting my thought process and clearly defining the problem keeps that train on track. One thing that always got me in trouble was remembering auditory instructions.
+
+If I went to my boss or a lead developer with a question they'd answer it, but by the time I got back to my desk I'd almost completely forget everything. This was especially problematic when I first started working at my job. 
+
+I started carrying a Moleskine notebook with me. So when I would go to their desk I'd make notes of what they said so I'd have it. At first I was worried it'd make me look bad like I can't remember things, but I think people appreciate it because they can see you're making the effort to remember what they're saying. thank you so much for this. Been coding since the 80s but never managed to become a coder. Those few lines regarding Git might have been the most valuable information i've come across in  along time. Git is like black magic for an old z80 relic like me.
+
+Regard attention: Well put. This is a problem for designers, writers, audiofolks etc. Many work environments are populated with people who get paid to have meetings and imo a lot adhd is very sensitive to being rude so creating space for attention can be tricky. I have used the FLOW (Mihaly Csikszentmihalyi ) thing to explain to people why they need to be careful to interrupt.  It is science so they cannot be mad. 
+ Awesome write up, definitely agree on the headphones, the distraction-free zone and the alarms. I just wanted to add a few things that have helped me, as a programming student:
+
+1) Keep a physical scratchpad on hand, or better yet a whiteboard. Not only are they useful in working through math or algorithm analysis, but they're also very handy in planning out large-scale applications and the relationships between various files. For me it's much easier to stay on task if I have some kind of outline to follow rather than keeping everything in my head.
+
+2) Keeping work and "other" accounts separate. I'm not sure how workstations go in the professional field, but as a student who mainly uses one computer for everything it's far too tempting to pull up reddit the moment I get stuck on a piece of code. I like to use a separate user account that's limited to the software I need, plus one browser that I've configured to block certain websites. You could also set up a virtual machine or a dual boot instead of a separate account, if you're limited to one computer. 
+
+3) I like that you mentioned moving around, and I would go so far as advising anyone with more stationary job like programming to get themselves on a **regular** exercise plan. Whether it's a daily workout time, a morning run, a weekly sports league, anything that's consistent and gets your body moving. It's so easy to forget about your body even though exercise and eating right will do wonders for your brain, especially if you're getting close to crunch time on a project/assignment. Not to mention the stress of sitting hunched at a desk all day (checkout office yoga, seriously). 
+
+Thanks alot for the tips! >Prevent visual distraction
+
+Here's the number 1 tip: Disconnect your work computer from the internet or at least don't use it for any kind of procrastination. Have a second computer nearby when you need that. Computers are cheap nowadays. Buy two. This is a great write up. I moved into the programming world a couple of years ago after years of working in warehouses. It's truly been a love/hate relationship. Programming works so well for me and my ADHD and I love it, but the pitfalls of distractibility that are inherent in our positions can always be so frustrating. Yes!!  I've been waiting for a post like this-- so helpful! Do you use Evernote just for quick notes? The last couple of years I've been using templates in Evernote and then modifying them on the fly for each project/item that I work on. But, lately if feels like it's getting sort of cumbersome and my notes are beginning to slip.
+
+How do you use Evernote? Going to take a look at SourceTree.  Git is my current nemesis.   I my first attempt at a branch turned into a nightmare when I tried to merge it back in.   I am at a loss on why it wanted to merge each step separately.
+
+Going to have to save up for some nc headphones,  I have someone who is in an office next to me, that is really loud on the phone.  I find myself listening to his conversations.
+
+On my task bar I have a two important links, one to sunsine ( a calendar program) and one to a goggle doc called task list.   I have an additional issue of being left handed.  All my notes end up looking like doctors prescriptions,  If I don't  digitize it soon it becomes unreadable to me. Thank you so much for this! I'm working on building my portfolio to pursue a job in web development sometime in the near future, but I'm having a lot of trouble focusing and remembering what I need to do and how to do it since there's no real deadline involved (or a boss watching over me). 
+
+It's nice to see helpful tips specifically for programmers/developers. If you're ever willing to post more, I'll take any other tips you have! only read  headers (#HonestyPolicey) 
+
+&nbsp;
+
+but you reminded me of something. Would you be interested/able/willing to  help make an excel tool to visualise functions?
+
+&nbsp;
+
+I found someone who can  break it down but they can't/won't Do interface. 
+
+&nbsp;
+
+
+
+&nbsp;
+
+I can give you more info if you are interested. Hell yes, very true. 
+
+The 37Signals guys have written about how this is better for everyone. Even more so with ADHD people. 
+
+For some, mindmapping helps a lot too. I used to get a lot of good use out of mindmeister.com. Being a programmer, I used to only do everything digital because that's how I felt it should be. But, once I started going back to jotting quick notes and working things out on paper, a lot of problems became easier for em to solve. > If I come to the conclusion that because of A, B needs to happen, I'll immediately forget what A even was and the whole train of thought gets derailed.
+
+Yep.
+
+
+
+ I'm not a programmer, but my work is highly tech-based and I respond best to pen/paper. My magic solution has been a pack of clear 'sheet protectors' and a set of dry erase markers. I write out a basic checklist of codes to check/update and scripts to run, with space for notes, and I put this master checklist in the plastic sheet protector. When I review a file, I write on my new dry-erase task board as needed, and check things off as they are completed. If I drift, I can look back and see what boxes are unchecked, and which file I'm supposed to be working. When all the steps are complete, I wipe it off and start over for the next file. It's easy to build a basic checklist for each type of task and swap out sheets as needed. Heh. It is not a coincidence that all my magic boxes have pens...  Note2, Note 4. Surface pro 3, Wacom. 
+
+Also - i have NO computers that came with a sword so i guess thats further proof that the pen is mightyer than the old blade. TRUTH, that's a challenge for me too. 
+
+I use Evernote for this too. It's on my computer, and my phone (which is ALWAYS with me). So if I need to I can jot in on my phone really quickly and don't lose it. 
+
+This also can help: I mention this in the article briefly, but if you ask people "would you mind emailing that to me? I keep records of everything so I don't forget," sometimes it works well. You have to judge the situation carefully - if it's your boss, you don't want to do it all the time if you think they're going to get annoyed by it. 
+
+But if you're in an environment where you can gradually set the expectation that keeping records makes your work as reliable as possible, some will embrace this. It helps if they already respect your work. 
+
+ Wow, thanks for the solid praise. Definitely absorb git if you can, it's a necessary tool nowadays. Even for personal projects it can save your butt.
+
+Glad you liked the FLOW book - I found it hard to read since it was written in such an academic voice. I've watched his TED talk though, it's inspiring stuff.  Glad you liked the write-up! 
+
+Good points here too. Especially the one about having a physical scratchpad. The fact that it's visceral and tangible works really well with a lot of people - especially when you're not focusing while staring at the screen, shifting to "manual" mode is a good way to break out of a rut.  Cheap? For whom? Thanks!
+
+Yeah, but don't let the distractibility dissuade you. It's a problem we'll face in any area of our lives. 
+
+However, if you find an activity you DONT get distracted while doing...make note of that, could be a second calling ;)  Thanks!! I plan to write more on this topic.  I use Evernote for basically my whole life. Including but not limited to: 
+
+* Organizing medical information (so it's easily searchable when I'm at the doctor)
+* Tech notes for every project
+* Writing articles / blog posts
+* Storing documentation (the web clipper is great)
+* Storing code snippets and personal notes on any technology
+* Journaling
+
+I have a parent-level folder called "projects" with a subfolder for each individual project. That keeps things tidy. 
+
+What about it feels cumbersome to you?
+
+
+
+
+
+ Merging branches can be very daunting at first. Git will ask you to manually merge anything it can't figure out automatically; if your new branch has a lot of files that have changed DRAMATICALLY, this will definitely happen a lot. 
+
+Try this exercise to ease your way into this: create a branch for everything you work on, and merge it back into the main branch after a few small changes. This will get you more comfortable with the merging process, and then the bigger merges won't be so bad. 
+
+For NC headphones, Sony's MDR series has some affordable options: 
+
+https://www.google.com/search?q=sony+mdr+noise+cancelling&espvd=2&source=univ&tbm=shop&tbo=u&sa=X&ved=0CB4QsxhqFQoTCInn3bmF8sgCFUxZPgodbfICRw&biw=1279&bih=679 Yup. For me that's especially true with UI & anything visual, as well as data modeling. A few little doodles - not even good ones - and things make more sense a lot faster. 
+
+
+Which reminds me, this app is pretty cool to try too. It lets you doodle on the iphone, but autocorrects the doodles (!)
+
+https://itunes.apple.com/us/app/paper-notes-photo-annotation/id506003812?mt=8 Yes, that's also a tip I use: asking people to email you. I've found that generally people don't mind as long as it really is just a quick one line email. I think developers are usually pretty open to helping each other out. I've had issues with that in the past but mostly when asking other departments (i.e. Sales teams) to do so (because **their** lives are so much busier). Heh - Who said anything about reading a book?  I "absorbed" through other sources and read about the core concept which made perfect sense to me.   Maybe cumbersome isn't the right word. Tedious. Or I'm just getting lazy.
+
+I'd like to be able to eliminate the template copying portion the most, I guess. It'd be nice if a note could work like a form where I would just one click a new one up and enter fields in as I go. I've tried other sites like Podio and Trello with mixed results. Yeah I don't know ways to make it much easier. Sounds like you're just copy and pasting part of one note into another which should be fairly easy unless it's a really complex note.  I just copy the note itself (as opposed to just the text within). Maybe I'm just getting bored with the whole layout... 

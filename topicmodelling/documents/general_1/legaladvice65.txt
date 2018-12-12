@@ -1,0 +1,105 @@
+It's possible to get a DUI on a bicycle, but are there any repercussions to refusing a breathalyzer on one? This is not related to anything I'm personally going through or planning to go through, simply a purely hypothetical question I have had a surprisingly difficult time getting a straight answer to - maybe somebody here can shed some light...
+
+So when you get your drivers license, you agree to submit to field sobriety tests should an officer pull you over, and refusal to submit results in an automatic suspension of your license. The rationale behind this seems pretty clear: a car is not a toy, and driving is a potentially deadly privilege, so in exchange for the license you cede to the police the authority to ensure that you are exercising that privilege legally and responsibly, or they can take that privilege away for noncooperation.
+
+BUT, you can get a DUI on a bicycle, which you don't need a license (and thus don't need to make the same agreement of implied consent) to operate, so can you lose your license for refusing a test while on a bike? If you don't have a license, the issue is rendered somewhat moot, as there would be nothing to revoke in the event of a refusal, but say you have a license to operate a car, and are simply choosing to bike instead - could you lose your license for refusing to submit to a field test, even though you're not 'using' the license at that point in time? If so, it seems like anybody who has a license has basically agreed to be stopped and breathalyzed at any time & place, for any reason, even walking down the sidewalk.
+
+Any insights anybody might be able to offer would be greatly appreciated, as I've been rolling this question over and over in my head ever since it occurred to me.
+
+EDIT: I'm in Colorado, but am curious about this question in a more general sense as well. according to the first three Google results, yep, they can charge you, but refusal to blow won't be relevant to your license. however, since dui can include losing the license, that could still be an end result, just as sentencing as opposed to automatic.  It's very state-specific because every state's DUI and implied consent laws is written slightly differently, and every state has different caselaw regarding implied consent.
+
+In states where the DUI statute and implied consent statute apply to "vehicles" instead of "motor vehicles", bicycle riders are often subject to both the criminal charges of DUI and the administrative penalties of implied consent.
+
+A good example case from Pennsylvania is [Bilka v. Commonwealth](http://www.pennsylvaniaduilawyersblog.com/2014/07/01/bicyclists-must-submit-breath-blood-testing-pennsylvanias-implied-consent-law-commonwealth-court-holds/).   My google-fu doesn't find a comparable case in Colorado, but suggests that the same principles hold because [Colorado bicyclists can be convicted of DUI](http://www.westword.com/news/drunk-cycling-is-denvers-new-bike-dui-policy-harsher-than-rules-in-other-states-5862111).
+
+I don't agree with your "any time and any place" argument, since walking down the sidewalk doesn't involve operating a vehicle.
+
+I've seen police intervene with drunken bicyclists, it was a rider who had fallen over three times before he was able to get a block from the bar.   They locked up his bike and gave him a ride home. That's going to depend on how the law defines vehicle. There are non vehicle DWI charges like boating while intoxicated. 
+
+http://dui.findlaw.com/dui-charges/drunk-biking.html DWI on a bike is theoretically possible in my native Texas, but I've never been able to find a single Texas case. They seem to usually ring it up as Public Intoxication. [deleted] It looks like Indiana would require you to submit to the test.
+
+>Indiana Code - Section 9-30-6-1: Chemical test for intoxication; implied consent:  
+>A person who operates a vehicle impliedly consents to submit to the chemical test provisions of this chapter as a condition of operating a vehicle in Indiana.
+
+Vehicle is defined in:
+>Section 9-13-2-196: Vehicle  
+>(e) For purposes of IC 9-30-5, **IC 9-30-6**, IC 9-30-8, and
+IC 9-30-9, the term means a device for transportation by land or air. The term does not include an electric personal assistive mobility device.
+
+That looks like you'd be OK in an electric wheelchair, but not a non-electric one. Usually, automatic consent to testing isn't given when you get a license, but when you operate a vehicle on a public road. You can still get a DUI if you're driving without a valid license, after all. The only refusal statute I'm aware of in CA is CVC 13353, and it appears to apply only to motor vehicles. I got pulled over on a bike drunk with an open beer. I got a few tickets but a dui was not one of them. Express consent in CO only applies for motor vehicles. Refusing a chemical test if you're on a bike won't trigger a DMV revocation. But it won't necessarily save you from being charged with a DUI/DWAI either. Yes, in some states anyway. There was a guy who got a [DUI on a horse](http://www.cbsnews.com/news/kentucky-man-on-horse-arrested-for-dui/) in Kentucky. 
+
+>Kentucky law prohibits the operation of a non-motorized vehicle - including horses - while under the influence of intoxicants or substances which may impair a person's driving ability, the station says.
+
+That's some serious bullshit. If the horse could talk, I'm sure he'd argue he was the one doing the "driving".  Related:
+
+Washington has some [interesting laws](http://apps.leg.wa.gov/rcw/default.aspx?cite=46.61.790) when it comes to riding a bike while drunk. More or less, if you're being unsafe, they can offer to give you a ride home, impound your bike, and must return it once you're sober at no cost to you.  This happened fairly often where I used to live in California. I don't remember what the actual penalties were or might be.  In the Netherlands you can get a DUI on a bicycle. Breathalyzer may be refused but in that case you have to cooperate with blood testing. It has no implications for your driver's license. However, a DUI on any vehicle that requires a driver's license to operate (even a moped for example) affects all driving license categories you have (moped, motorcycle, car, truck, bus). *I am a bot whose sole purpose is to improve the timeliness and accuracy of responses in this subreddit.*
+
+---
+**It appears you forgot to include your location in the title or body of your post.**
+
+**Please update the original post to include this information.**
+
+***Do NOT delete this post and create a new post with the requested information*.**
+
+---
+[Report Inaccuracies Here](http://www.reddit.com/r/LocationBot/) | [Author](http://reddit.com/u/ianp)
+
+
+---
+Original Post:
+
+**It's possible to get a DUI on a bicycle, but are there any repercussions to refusing a breathalyzer on one?**
+
+> This is not related to anything I'm personally going through or planning to go through, simply a purely hypothetical question I have had a surprisingly difficult time getting a straight answer to - maybe somebody here can shed some light...
+> 
+> So when you get your drivers license, you agree to submit to field sobriety tests should an officer pull you over, and refusal to submit results in an automatic suspension of your license. The rationale behind this seems pretty clear: a car is not a toy, and driving is a potentially deadly privilege, so in exchange for the license you cede to the police the authority to ensure that you are exercising that privilege legally and responsibly, or they can take that privilege away for noncooperation.
+> 
+> BUT, you can get a DUI on a bicycle, which you don't need a license (and thus don't need to make the same agreement of implied consent) to operate, so can you lose your license for refusing a test while on a bike? If you don't have a license, the issue is rendered somewhat moot, as there would be nothing to revoke in the event of a refusal, but say you have a license to operate a car, and are simply choosing to bike instead - could you lose your license for refusing to submit to a field test, even though you're not 'using' the license at that point in time? If so, it seems like anybody who has a license has basically agreed to be stopped and breathalyzed at any time &amp; place, for any reason, even walking down the sidewalk.
+> 
+> Any insights anybody might be able to offer would be greatly appreciated, as I've been rolling this question over and over in my head ever since it occurred to me. Fair enough - I guess my question was less geared towards actually biking drunk and more towards just being ornery & obstinate about cooperating with LEO demands unless I'm legitimately compelled to do so, so in my own mental exercise I'm dead sober and wondering whether a refusal on principle would bear any automatic consequences, and it sounds like probably not. Thank you, very informative. I agree that the walking down the sidewalk case is a bit of a reductio ad absurdum, but say you're walking your bike down the sidewalk, or walking down the sidewalk carrying a skateboard - you're not riding it, but you arguably could at a moment's notice, so it seems like you could very well be charged under the same logic that people get charged for sleeping it off in their parked car with their keys in their pocket. Likewise it seems that would apply to anybody in a wheelchair. Off topic but in one of my legal research classes we had to find the weirdest vehicle someone had gotten a DUI on.  It was a tossup between a zamboni and a motorized lawnmower with  barstool on top.
+
+
+
+http://sports.yahoo.com/blogs/nhl-puck-daddy/ice-resurfacer-driver-arrested-on-suspicion-of-dui-during-hockey-game-151109725.html
+
+
+http://www.cnn.com/2009/CRIME/03/31/barstool.dui/index.html?eref=rss_us My neighbors/family friends were on an episode of What Would You Do? that featured an obviously super drunk dad who was trying to get back on his boat (docked at a seaside restaurant) with his wife and two kids, apparently my neighbors were the only ones who tried to stop him from driving [his boat] while super trashed.
+
+I'm a bit surprised that more people don't get that even wandering around while drunk can cause problems (public intoxication), never mind any other mode of transportation. Like a boat. Episode 28: *[Days of Beer and Weeds](http://www.imdb.com/title/tt0722893/)* A breathalyzer is not a chemical test. I wonder if a horse counts, then.  They had this issue in SD as well. After the guy lost in the State Supreme Court, the legislature changed the law. No more duis for horses or bicycles.  [Boat, bike, horse *and* wheelchair](http://blogs.findlaw.com/blotter/2014/04/yes-you-can-get-a-dui-in-a-wheelchair.html)*
+
+**not simultaneously* 
+
+ According to one California Highway Patrol DUI trained neighbor, the horses testimony might get the case dropped.  If you have control of the horse (reins, other commands) it is DUI.  If your buddies throw you over the saddle and the horse goes home on her own it is not DUI.   Be quite, Wilbur! I've got this! only while opperating a motor vehicle is the rule applied resulting in automatic, unless it's due to probation or some commercial regulation.  The same legal guidelines would apply to that hypothetical.
+
+If your state uses the "actual physical control" rule for DUI and also considers bicycles to be vehicles, then you could theoretically be charged with DUI or administratively penalized due to implied consent for walking your bicycle while intoxicated.
+
+You'd have to argue about if walking a bicycle on the sidewalk qualifies as operating it on a public roadway.   Some definitions of "roadway", like CRS 42-1-102 (85), specifically exclude the berm or sidewalk, but you're probably in a roadway when you cross the street.
+
+The wheelchair derivative of the hypothetical is an interesting one.   
+
+In Colorado, [CRS 42-1-102 (112)](http://www.lpdirect.net/casb/crs/42-1-102.html) says that a bicycle is a vehicle but a wheelchair is not.
+
+Also in Colorado, there is a specific law, [CRS 42-4-805](http://lpdirect.net/casb/crs/42-4-805.html), that prohibits operating a wheelchair in the road or walking upon the road while intoxicated.   It is a lesser charge than DUI.
+
+So, let's refine our hypothetical to a Colorado resident doing laps around the block in her wheelchair after playing a Republican Presidential Debate drinking game under the notorious Trump Rule.
+
+Can she have her driver's license suspended under implied consent ?   I propose that she cannot. Zamboni DUIs are surprisingly common, and don't always stick depending on the wording of the local statute. But my vote has to go to DUIs on motorized beer coolers, because what better vehicle to drive drunk than one whose primary purpose is to store alcohol? And there's at least 3 instances that made it to the news! In college, one of our neighbors got a DUI for rollerskating drunk.   Where I live (Long Island, NY), Boating While Intoxicated is a thing. There are bay constables that patrol our local waterways and can pull over boats. I believe the penalties for BWI are similar to those for DWI.
+
+Unfortunately, it seems like every summer some idiot gets drunk and crashes their boat, often with fatal results. That'll get you an OVI in my state.  > Indiana Code - Section 9-13-2-22: Chemical test  
+>"Chemical test" means an analysis of a person's blood, **breath**, urine, or other bodily substance for the determination of the presence of alcohol, a controlled substance or its metabolite, or a drug or its metabolite.
+
+It is in Indiana.  What if the horse itself is drunk but you are sober? Is operating an intoxicated vehicle an issue? >not simultaneously
+
+Not with that attitude!  Hats off to you, good sir !
+
+CRS 42-4-1301 describes DUI, and applies to "motor vehicle or vehicle".
+
+CRS 42-4-1301.1 describes express consent to breath or blood testing, and specifically calls out only "motor vehicle".
+
+I stand, unsteadily and with watery eyes, corrected. > So, let's refine our hypothetical to a Colorado resident doing laps around the block in her wheelchair after playing a Republican Presidential Debate drinking game under the notorious Trump Rule.
+
+Hey, Ferb, I know what we're gonna do today! You are my hero. I have but one upvote to give you, but rest assured, it's an enthusiastic one.  Oh wow, I guess they're less common in CA, I wouldve never thought about it. I guess when it's cold af and you're closin up a rink I'd get drunk too.  
+ 
+And hahaha yeah, that's a good vehicle to get DUI'd on.  [Maybe if there was a Heineken version of a Red Bull](http://www.skyhdwallpaper.com/wp-content/uploads/2014/09/red-bull-cars.jpg). That's the car I'd wanna get a DUI in That's where this episode took place, it was at one of the restaurants on the Nautical Mile in Freeport. :)  It's a thing in all 50 states. Of course, where I'm at you can tool down the river, beer in hand, but you best not be drunk.  The calibrated machine back at the station? Sure. The non calibrated faulty roadside ones? Nope. There's a drafting oversight if I ever saw one! The American grand champion of non-automobile DUI is, in my opinion, [a fellow from southern Louisiana named Steve Jessup](https://www.youtube.com/user/marcryan).
+
+By my count he's been arrested driving drunk on a scissor lift, a riding mower, a power chair, and a lawn tractor.   That doesn't count his personal vehicles and the cop car he once stole to get to the convenience store. I can't find it now, but I think it's another one of those stats that Alaska 'Wins' on a Per capita basis. Given your sheer quantity of boat traffic, I'm not surprised.  

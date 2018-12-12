@@ -1,0 +1,11 @@
+Scheduled bedtime app/site blocker? (have for Android/Windows, need for iOS) I want blocking apps for all my devices (Android phone, Windows laptop, iPad) that lock me out of specified apps automatically at certain times. Main goal is for bedtime, and for when I should get up instead of laying in bed dicking around on my phone. Also for driving that's at predictable times.
+
+It seems like with most blocking extensions and apps you have to turn them on when you want to be locked out of stuff, which is useless. If my self control was that good I wouldn't need the damn thing in the first place.
+
+I installed Block Apps (costs $3) on my phone because my sister has been texting me for weeks complaining about not being able to get around the demon blocker app, so I trust it to do its job. The interface is super intuitive and user-friendly and it's exactly what I want.
+
+Cold Turkey accomplishes a similar thing for laptop, with a slightly more annoying interface, so that's ok.
+
+There doesn't seem to be anything like that for iOS, though. Parental control things seem promising, but they all require monthly subscriptions to get the scheduled blocking feature or scramble the order of all your apps when they're blocked, and they all have extra features I don't need. 
+
+I know the iOS ecosystem makes it harder to do a good blocker (ran into a similar issue with the lastpass app filler), but has anyone found a good option for this? Never thought of this. I really could do with a blocker. Especially bed time. I did it for a week and slept so much better. Then went back to hours or sleep time buggering about on phone looking at stupid stuff online. This ends up with porn and it is probably ruining my brain.  How about just turning your internet off? Plenty of routers do that. And you can do it on your phone service also I think.  No, I still need the internet if I'm just blocking distractions (spotify, email, etc.), there's plenty of distracting apps that don't need the internet, and it's all a moot point when you're not the only one using the wifi anyway. Ah, true. Sorry didn’t think it through. Saw a nail, am hammer.  

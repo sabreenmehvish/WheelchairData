@@ -1,0 +1,117 @@
+Creating a ADHD Management Apps Hey guys,
+
+I'm a developer with some free time, and I would really like to create something to help make my girlfriend's life easier.
+
+I understand applications are likely not to have an impact on focus, but perhaps taking this fact into account, I want to create apps that can help people with ADHD catch-up on things they couldn't focus on.
+
+For instance, a note-taking application, but for conversations. Blanking out mid-convo is common for her, and making something like this would certainly help her (and hopefully a lot of you too). I'm ready to jump into building this, but it's computationally difficult (borderline impossible) to do accurate feature extraction/text summarization.
+
+So, do you guys have any suggestions? As someone who's been looking at apps lately:
+
+I like apps which delete your todos after you complete them, or hide your notes if you're not using them. Otherwise, I just have a bunch of note-taking clutter accumulate and it's too much to process.
+
+Also, try to create (or find) an app that solves just one problem, but does it well. There's no magic app that solves ADHD; as with relationships, it can be a process of recognizing issues and addressing them one by one incrementally. If I could find an app that helped me with motivation--and not just reminded me of the small, day-to-day things but also the bigger, long-term things, that would be amazing. Or anything that could create and implement structure of some sort would be great, although I'd assume that's too large of a task for an app
+
+TBH I would not find much use in a note-taking app (in part because I would always forget to use it lol). But the major things that effect my life are lack of motivation, emotional dysregulation, and time management/blindness.
+
+Idk if this helps or just makes things more difficult, but thanks for reaching out! I use habitica to motivate myself. The reward system works really well for me, so maybe you could look into ways to create a rewarding feeling while using your app.
+
+I have no ideas how a conversation saving solution would look like, sadly.
+
+What I am missing though is an app that allows me to tick off habits, dailies and to-dos while also taking note of the time. I really want to know when I am more likely to do what, so I can plan my days more efficiently.
+
+It's really cool that you want to create something for you gf!  Suggestions is a key word. Reminders that pop up at the lock screen. Siri integration for reminders. It has to be as easy as possible. 
+Also kind of Networking were you can remind each other with list or something like that. 
+Do some research and let your girlfriend test some organizing apps. Ask her what she didn’t like. 
+Things for example is a really good app - for neurotypical people. Adhd people tend to forgot to use the app. 
+It should deliver some kind of consequent. 
+I don’t know if it’s possible but imagine you can’t unlock your phone till you’ve used the app. 
+
+
+Make a pop up before next day that let you generate new lists and reminders. 
+
+For me it is helpful making things visible on screen. Lifting up the phone very often but when you can’t see the reminders immediately you tend to forget. You also forget to open the app.  Apps are a difficult topic for me, I've tried a lot of apps and I always stop using them as soon as some tiny little feature is a bit inconvenient. If you build something, it has to be very very easy to use without staying in the way of what it is trying to solve. In the end, the only thing that seems to be working for me is my bullet journal, I do almost everything in there, tracking time, tracking todos, tracking conversations, tracking events. I take it out, write things down and put it back in my backpack. No hassle with form validations, online/offline synchronizations, not being able to fill in things that don't have a proper "place" or field. Apps might also overwhelm me with the sheer possibility of configuration, input fields, navigation points, etc.
+Sometimes, one slow transition from one view to another might completely ruin the experience for me and I throw the app away.. I think it's very hard to develop something for people who have difficulties to stay focused, are impatient and lose interest in things fast. If it sticks with someone who has ADHD though, I think you will have created an awesome app you might even throw at neurotypical people with great success :D This is good to see. There's a serious lack of good ADHD related apps.  
+If you ever need a hand, I'm an Agile Business Analyst/Product Manager - I'd love to get involved. I'm going to sleep but I have so many ideas that I want to come back and give you tomorrow. I want an app that fills up my screen with a sticky note with my reminders. 
+
+
+
+For example: tie reminders to locations/time of the day. 
+
+
+
+At 4:30 am when I leave, my phone would buzz. I would look at it and a giant yellow sticky note appears on the screen. It lists:
+
+1. [] Take adderall 
+2. [] Waterbottle
+3. [] Lunch 
+4. [] Work Badge.
+
+
+You can check off the items and they grey out but stay on the screen. After they are all crossed off or rescheduled, the sticky note disappears off your screen. 
+
+
+
+
+Then, when my location shows as being at work a new sticky note pops up
+
+1. []clock in
+
+
+
+Alright folks, does this already exist? I have tried apps before but they all seem too damned polite. (A notification isn't enough!) TL;DR at the start for you ADHD peeps
+
+TL;DR
+- Auto fill based on other user inputs
+- notification to remind, what needs to be done tomorrow, at the end of the day
+- motivational messages
+- visual representation of tasks
+- your doing a good thing Op
+
+Maybe something that can have a more predictable text for filling out a to-do list? So you use an algorithm to collect the data input by the beta/alpha users then weight the inputs to accommodate for people tending to do the same tasks e.g make the bed, do the dishes etc.
+
+I personally find that to enter all of the things I need to do in a day on a to list at the start of the day is too demanding as I forget what I want to do half way through writing it down. 
+
+Other little things to consider would be to make a push notification towards the end of the day to remind them what they haven't done that day. I know people will be like 'that is so negative and doesn't help' but it kinda lets you know that you still have stuff to do. 
+
+Also to have maybe some sort of motivational messages to apply some form of positive reinforcement for completing tasks (as mentioned for habitat) 
+
+I also prefer to have a visual image of how much I have left, (my idea would be an empty glass of water, and each task you do fills the glass up a little) weight the algorithm so that the glass fills up faster at the start and less so at the end so psychologically it feels more rewarding to get something started.
+
+Finally I want to say, your girlfriend is very lucky that on your day off your trying to think of a way to make her life easier. I'm a bloke and if my kinda/girlfriend considered my daily struggles and wanted to spend her free time to help with them idk what I'd do.
+
+ I'm still looking for a good reward chart app for adults. All the apps I found are cluttered, overwhelming, very slow, not applicable for adults or just ugly.
+
+I just want something which I can tell how many points the next reward will take and then it shows me a simple clean chart where I can add points very easily and when I'm done it will save it as complete and I start a new one.
+You could add nice features, but most apps don't have the basics. End-of-day reminders would be fantastic! I’d love something like a simplified Trello where I don’t have to group my lists into boards. (Maybe Trello already allows this, but I haven’t been able to do it for whatever reason.) Using iOS, I find he default notes really clunky. I’ve only just realised I can pin more important ones. But I just end up pinning everything.
+
+When everything is pinned, nothing is pinned.
+
+Colour coding, ticking things off, sorting by subject folders would be really handy. I try to organise my notes on Windows desktop but a dedicated phone app would be good for me.
+
+Any recommendations?  Whatever it is it needs to be like a calendar view. So easy to lose sight of things but I find if there is a visual representation of days I feel less overwhelmed somehow  for me the ideal app would be something that allows me to keep track of everything - eg. syncs to my iCal, has a to-do list feature that allows to break an individual task into small managable ones, a habit tracker (Loop is great but having to switch apps is annoying), a time focuser like pomodoro, reward system like Habitica or something that analyses your progress but much simpler.  Maybe a modification of a notes/to-do list application that breaks down a big task into multiple smaller ones. I know if I have an essay or a long deadline for a project, for example, it's hard to start working and be proactive.  I think it might work best with a calendar layout as others have suggested, and maybe you can incorporate a feature where users put in fun things that they want to do as a reward for themselves and when breaking down the task into a schedule, incorporates some of these rewards as well.
+
+From a tech standpoint (Im a data science student myself), maybe it would be cool to also learn over time how well a user actually sticks to the schedule the app provides (i.e. do they miss deadlines for the smaller tasks and still procrastinate?). Once the app learns a users habits, it will increasingly be able to build better schedules. 
+
+Regardless, whatever you end up doing will be great and if you ever want any input feel free to reach out!  I’m still working on my app for organizing notes and thoughts. If you’re interested in helping, that may be possible.  Douglas Puryear wrote an [excellent book](http://addadultstrategies.com/) on strategies for managing adult ADHD. The strategies could easily be translated into software. Hey there! I just so happen to be a user experience designer who has ADHD. I’m also thinking about the topic of creating an application or series of applications for people with ADHD. And I’ve learned (as you also are!) that the biggest challenge is understanding what is the correct problem(s) we need the app to solve.
+
+Right now, I’m in the midst of researching the condition to understand what it is that ADHD’ers need that could help them the most. We all tend to use lots of different apps to help us, but they all have to be programmed in specific ways, and we have to be aware enough of our unique ADHD symptoms to know which apps we need and what we need them to do for us! When they say that ADHD is a complex neuropsychological disorder, they are so right! Because symptoms vary from person to person, there are over 100K different variations of how you can have ADHD! 
+
+That said, there’s hope: among all the variations, certain symptoms tend to be most common and certain symptoms seem to affect us more than others. 
+
+Two great resources to learn about exactly what goes on in the brain are: 1) How to ADHD YouTube channel by Jessica McCabe, and 2) Eric Tivers’ podcast, ADHD reWired. Both illustrate and explain the challenges of ADHD and  will point you to other resources and help you understand what challenges you’ll want to focus on solving, and how to design the app in a way that will suit ADHD brains! 
+
+I hope this helps. One thing that I would love is a timeline viewing app on my phone. I will sometimes end up researching a billion things and not even remember where I started (much less so now that I'm on Vyvanse) so the ability to click an app and have it show me a screenshot of where I was every minute ago or so, probably have it delete them on a schedule to avoid storage overload and allow me to star ones to keep. It would be even better if it acted like a resume feature but that is MUCH more technically in depth and could cause all kinds of problems with other apps. Would end up running your phone more like a VM than an actual OS.
+
+Also, you rock! If you had an app that could listen to conversations around it and automatically create a to do list from them that would be awesome.  Honestly, anything digital doesn’t work for me to keep on task, because it’s just too easy for me to then click on FB or IG or Reddit. And, most things I do digitally don’t stick the same way physically writing things down does. So I use a Bullet Journal and it works really well for me. I use the Wunderlist app. and it has really helped me a lot. I like that it has ticky boxes that once completed, disappear from view. You can make a "main" task and create sub\-tasks to go with it \(helps me with the smaller details\), can also add notes and reminders. Easy to move tasks from one list to another \(I have one for every day of the week and move things as needed to a specific day and then order them by priority\). It helps keep me on track and feels so satisfying being able to check that little box. I only do this with my every day tasks and misc. things I want/need to get done. For actual scheduling and appointments I use a paper planner that I write EVERYTHING into because my memory fucking sucks and I do not trust technology to always remind me. I actually am a developer myself and came up with an idea a year or two ago but haven't found time to implement it.
+
+It's pretty straightforward, basically a note-taking app for as you're falling asleep. The idea is minimal dark UI that will let you type, scribble, or record your idea. Then, it will automatically backup these ideas to some sort of cloud storage (even if you didn't finish writing) and remind you the next morning or whenever you set.
+
+I came up with this idea after one frustrating night when I had a whole bunch of ideas keeping me awake and then as soon as I wrote them down somewhere, I was able to fall asleep. It would be helpful to make another timer app just like the pomodero which was discontinued. I absolutely need it to be super simple all the current ones are way to complex and uneasy on the eyes. I just need a tomato icon that tells me 25 minutes has passed. Used to be so helpful with any task and studying I would add up all my tomatoes at the end of the day and write them down. Even paid for the last app that was discontinued because I can't handle looking at ads. Just a simple red tomato.  Here’s something I’d love from a note-taking app: something that records as you type *and syncs it up to audio recorded at the same time*. This would be super useful for work where I often have to take notes at meetings but space out all the time. At the moment, I have no suggestions for you. 
+But god bless your soul
+ I’d like something that was a place for notes where I could see tabs at the top or side that had titles for different lists going at the same time. Right now I have to go in and out of lists from a main page. 
+
+Also my calendar can only set two reminder alarms, 4 would be great. To much room for error with only two
+
+ Small followup, I'm currently using Google Keep for todos on my phone, for when I'm not able to write things physically down. In apps like this, I create a huge mess in no time, lots of cards with lots of bullet points in them, I almost never delete things and after a week or month I'm unable to find anything I wrote down if I don't transfer it to a proper categorized tool (in my case the already mentioned bullet journal). Being able to create content fast and to find/retrieve content equally fast are essential to me.  Question: Who will do the breaking down of a task? The user, or the program? The former is impossible... I think it's a great idea, and am pretty keen on implementing it. I was just curious because "break a task down into smaller tasks" seems to be a recurring trend in these comments. The program woukd do it for the user. Maybe it has an internal database with some examples. Like if the user says they have an essay due, the program knows that it can ve broken down to research, outline, first draft, etc. Would it be too inconvenient to have the user do it themselves? 
+An internal database with some examples is fine, but to have the program suggest breakdowns based on dynamic keywords is impossible. Maybe something sort of like Quizlet, where users can search the database of "tasks" put together by other users. 

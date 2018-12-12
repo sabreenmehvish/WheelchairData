@@ -1,0 +1,76 @@
+[Interest Check] I've designed a new task list that is made for ADHD people, like me. It lays out all of your tasks and doesn't let you forget them. I would love to know what you all think, so I can see if it's worth moving forward with. Hey guys, like many others, I've tried tons of different to do list applications like trello, habitica, and asana, but none of them have worked well enough to stick with.  For that reason, I felt the need to design something better.  Enter ADDo It.  This is my concept for the most effective way to keep me on top of my stuff. With this app, all of your lists will always be on the same page:  no more letting boards hide and be forgotten.  With this app, the intent is to put smaller tasks on the top of each card, and put their subtasks below.  Examples of card titles could be: get groceries, fix bike, or prepare for exam.  They have infinite subtitle lists, which are scrollable within the little cards.  Also, the circles to the left of the lists would correspond to an importance rating that is given to each subtask.  Algorithms will keep the most important subtasks at the top of their cards.  The most exciting feature that I've come up with is card movement.  The cards will shuffle themselves around while you're using the app and also when you're away.  This way, you always get a fresh look at your tasks and none of them are let sink to the bottom.  With all of these elements, I think that this app would be extremely effective in helping me to get my work done, and I hope it would help others, too.  This is still a very early stage and I have a wireframe done, but I really think this is a great idea that would help tons of people to accomplish their tasks and stop forgetting about them.  I would love to hear what everybody has to say and what they think of the idea.    I want to hear your beautiful voices!
+
+http://i.imgur.com/Lm96IAh.png
+
+http://i.imgur.com/kebeyfb.png
+
+Thanks! Looks cool I like it.
+
+One thing I would change is that I don't like having to see all the tasks laid out together like that. Can you do multiple views? Like 'all tasks' 'top 5 important tasks' 'need to do asap tasks' 'quick tasks'. 
+
+Do the tasks/lists come with a calendar or reminders?
+
+You what else would be a good feature...if I could share the tasks by sending them to people in my support network. Some kind of WhatsApp add-in or even via text. So if my parents were able to help me they could see my tasks or I could send the list to them. 'I need help with...' feature. Same with my sisters and girlfriend. 
+
+Maybe a tracking feature too that logs how long I've been sitting on these tasks
+  I do a fair bit of UX-adjacent work (copy/content), so, uh, apologies in advance. Shoot me a PM if you ever want a senselessly long rant about microcopy. 
+
+***
+
+The biggest thing that would help me would be the ability to move seamlessly from the grid view to a calendar view. 
+
+Where things fall through the cracks for me is the gap between figuring out what I need to do and when I need to do it. A date field and a calendar view would smooth that out wonderfully.
+
+***
+
+On the UI end, there's one big limitation with balanced grids: No immediate direction. You can prioritize through colors (which won't help colorblind people like me), but it's still a non-linear layout. 
+
+You might want to consider a x2 scale top row for "due today" or "high priority" items. This would allow for quicker scanning and provide some level of UI direction. You could also tie it into /u/narcissistic_walrus's recommendation for providing multiple view options for users with different priorities. 
+
+When it comes to scrolling through subtasks, are you planning on keeping the cards in place and letting users scroll on mouse hover or will they need to click on the card first? Will you pull the card forward and expand it in a lightbox or keep it small?
+
+***
+
+On the UX end, I'm crazily biased towards keyboard navigation for my todo apps. I'm a big fan of apps like Workflowy and Dynalist, because they let me just sit down and type instead of fiddling with bad tab loops and unnecessary confirmation dialogs.
+
+Basic things, like creating a new list item when you hit enter/new line and being able to perform mass attribute changes (bullets to numbers, indentation, etc) can make a todo app a lot more approachable, and focusing on input patterns that people are already familiar with will minimize barriers. Most "creative" todo apps screw this up.
+
+The most immediate UX parallel, going solely off from the pictures you've provided, is a horizontal Kanban board. Most digital kanban boards rely on mouse navigation, which could put you in a bit of a pinch depending on how you handle the boarder between interacting with the individual lists and the overall tile view. 
+
+Make sure your handles for mouse navigation are clear (because no one likes accidentally clicking on a text field) and provide some kind responsive behavior for when users shuffle things around. Tying Google Keep's reminder structure (today/tonight/tomorrow/meh) to direction swiping *could* be pretty cool, but I'd really want to play around with it before giving any kind of hard recommendation.
+
+ While the shuffle is a neat idea, would it also be possible to have a lock toggle? Is there an option to check/uncheck all? Helpful for grocery lists I think this is an awesome idea. I've tried to many different to-do list apps, but never stick with them for long. 
+
+Being able to see all my different to-do lists on one screen, instead of having to actively switch screens, might be a game changer. 
+
+Most of my suggestions have already been mentioned, but I do have one for you. It would be helpful to be able to make the title sections different colors to easily see what category a list falls into (work, personal, etc.).  OMG I just thought about something similar in the shower. Wow. A bit scary actually.
+
+I'm going to sleep now but this is looking great. I'd be interested in something to remind me of what I'm doing now, perhaps with what category the current to-do is a part of or maybe something from an keyword algorithm based in the contents.
+
+This could then be shown in a smartwatch notification or something to just say *food, chinese*.
+
+A name suggestion is ADD-Do, i think it sounds a bit shorter but yet catchy. Anyone not familiar with ADD or ADHD will still get that it's a task manager, i think.
+
+What's your platform and language focus? Is this a project you think of doing via school or is something else thought-out? I love opensource and this really feels like something more people can contribute to. I fear that I'll just forget this next week so any kind of hub to re-connect is awesome. Needs a time component for each task.  Ex. 30 minutes. Then those task should show up in your calendar with PERSISTENT reminders.
+
+They are going to sue you if you ever dare mention their name anywhere near your product, but you should get the book *7 habits of highly effective people.*  It describes a pretty compact organizational scheme.  If only my brain worked well enough to use it. User should be able to create and set multiple tags on each task.  For instance, I should be able to tag a task as "5 minute job", "things to do after work", "vacation prep", and "bills", all at the same time.  Then I should be able to set an alarm to alert every day when I come home with all of the "after work" tagged tasks.  A week before my vacation, the "vacation prep" alarm that I set should pop up a list of all tasks with that tag, including those bills tasks that I have also tagged as "vacation prep".  If I select (somewhere) the 5 minute tasks list, all of the items that I have also tagged with "5 minute job" should all come up, including those with other tags.  This may be what you were talking about with tagging, but I wanted to expand a little.
+
+Also, transparency and color choice options for phone app widgets is surprisingly often ignored in apps.  I don't want my widget list blocking the graphics on my home pages.  And a widget is essential so I can have my top two or three lists always present on my home pages.  Out of sight, out of mind, even if the app is right on my phone.
+ Did you look at Google keep? I use it because of being able to look at everything at once. Similar idea.   Woah, thanks for such a thorough response!  All of these are super good suggestions.  Yeah I could definitely have little organization buttons on the top of the screen that would re-sort the cards into whatever fashion you wanted.  That's a great idea.  I am thinking maybe also I could add a "tagging" functionality that would enable this to be much easier.  The tasks would each have due dates with reminders being implemented as well.  
+
+Woah that support network idea is really solid.  Maybe do something with IFTT to make that happen.  
+
+I really like the tracking idea, logging how long things have been waiting around.  That's part of the single-screen idea, finishing one thing before going to the next.  Maybe I could add an account setting that allowed you to adjust your task accomplishing period.  At the end of that length of time, it would ask you whether you wanted to delete that task or do it, then reduce the timer before it asks you again, etc, until you really decide to delete or do it.  
+
+
+
+All super awesome suggestions!  I really appreciate it and will keep you updated! Holy crap this is amazing! I am currently in school studying UI/UX Design/Engineering, so your opinion is of super high value to me.  I see what you're saying with the grids, I was planning on using a color based system to help visually organize the stuff that people put in their lists. I was going to make the bottom bar of the cards change color according to how soon the due date is.  This way it would be easy to do a quick scan for red and find out what your priorities are.  With this and the tagging that I explained above, I would make buttons on the top of the screen: tag and priority.  These buttons would organize by tag or priority, and you could choose in settings if you prefer to have them enabled by default when you login, or if you would rather have the cards in a random order, moving around on their own, as I have designed.  I do like the x2 scale top row, but I'm afraid it would take up too much of the screen.  For this reason, I will try it out with x1.5 and see how it goes.  Visual heirarchy is important, but part of this app is it engages the ADHD mind by letting you explore. I could also try doing a different card color for the top row, or doing a separate background for it.  As far as subtasks, I am planning on keeping the cards in place and letting users scroll as they hover.  This way, you never leave that main view of everything, which is one of the main principles of the application.  
+
+I totally agree on keyboard navigation.  It is paramount to me too and I intend to implement it into this app.  The kanban board is where I started to get this idea.  It really is sort of a cross between a kanban board/trello and google keep.  I hate the way that trello has done sideways scrolling, and that is one of the main reasons I came up with the app.  
+
+
+Thank you so much for such a thorough response, I love all the input I can get, and especially from somebody in the UI/UX world.  I'm using everybody's input to put together something that I think will really work. <3 Yes I was planning on making a pin function Yes, color coding is super important.  yep.  I currently use google keep and trello, and this came as a sort of hybrid between the two Sharing by task as well as by list would be rad. Callendar and reminders would be an absolute necessity for me. UI/UX is such a fascinating rabbit hole, isn't it? I fell into it through a really old school route — Mario Garcia's work with newspaper layouts.    
+
+It sounds like you're on the right track with where you want to take this. The only thing I'd suggest you look at how you handle color. Material design doesn't account for colorblind users, which bugs me more than it should.
+
+I'm a fan of throwing a border/frame onto priority elements, taking advantage of the Z axis and motion to treat that priority frame as its own object. This emphasizes priority objects during transitions (dark moving objects in the foreground tend to do that), which can also improve general navigability and UI readability in bad lighting conditions. Yeah I was thinking of having a calendar module that would compile all of your tasks into a single calendar.  Definitely a great idea, thanks for the suggestion.   

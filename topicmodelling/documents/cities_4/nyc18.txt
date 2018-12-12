@@ -1,0 +1,18 @@
+Lawsuit: MTA's $21M Renovation Failed to Make Station Wheelchair Accessible  Maybe /u/DjHammersTrains  knows- - how does NYC's subway history in disability access compare to other cities? Did we decline into shittyness or did other cities make leaps and bound where the MTA didn't? 
+
+(re: "Only 19 percent of subway stations in New York City are fully accessible to people with disabilities, while 100 percent of stations in Washington D.C. and the San Francisco Bay area, 74 percent of stations in Boston, 68 percent of stations in Philadelphia and 67 percent of stations in Chicago are wheelchair-accessible, according to Disability Rights Advocates")
+ Except for Boston, NYCs subway is much older than any of the others mentioned, and about 10x bigger. It opened in 1904, when disabled people were still being put in cages at Coney Island to be laughed at. Like /u/themonkeyaintnodope said, the subway was built without any thought to disability access. The Americans with Disabilities Act (ADA), passed in 1990, had a grandfather clause that allowed the subway to continue being non-accessible, unless the MTA made 'significant improvements' (like renovations) to a station. 
+
+The ADA does have a clause about technical feasibility, which the MTA is invoking here, but being an above ground station it seems pretty weak. 
+
+It seems to me that an elevator could be constructed from sidewalk to mezzanine on the east side of the station. Then two elevators from the mezzanine to the platforms. I'm sure that would have doubled the cost of renovation, but would have saved a lawsuit.  AFAIK our level of accessibility is similar to the London Underground and Paris Metro, both old systems in big cities.
+
+https://assets.dnainfo.com/photo/2015/06/subway-wheelchair-map-1433769981.jpg
+
+http://www.citymetric.com/transport/what-paris-metro-map-looks-if-youre-wheelchair-1153
+
+http://assets.londonist.com/uploads/2011/11/i578/stepfreetube.jpg To piggyback on others comments. Speaking specifically for the Chicago Metro, most stations are above ground. Installing an elevator to an above ground station is much easier than installing one in a below ground station, because no excavation needs to occur. For some additional perspective, the figure of roughly 19% of accessible stations in NYC makes for roughly 90 accessible MTA stations. San Francisco has roughly 50 stations in its entire system (counting both MUNI Subway and BART). The DC Metro has 91 stations.
+
+The MTA maintains roughly as many accessible stations as Washington DC, and nearly double the number of accessible stations in San Francisco, despite having only 19% of the total subway network accessible.  Regarding DC, the Washington Metro was started in 1976. While that was before the ADA (passed in 1990) mandated handicap accessibility for public transportation, it would have been a bit ridiculous to not include accessibility by that time. The same goes for BART, which began running in 1972. All NYC subway stations built since 1988, as no new stations were added between 1956 and 1988, have been accessible. I'll look into Boston and Philadelphia later, but I suspect they may be including streetcar lines. While it would be prohibitively/insanely expensive to add an elevator underground, the station the lawsuit was filed over is above ground.  However, I have no idea if there is space on the sidewalk for an elevator footprint.  People forget that our subway system has the most stations of any metro system in the world.
+
+And I personally see progress being made (both Kew Gardens and Forest Hills got elevators relatively recently), but of course one can understand the plight of those who really need the elevators. 

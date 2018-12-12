@@ -1,0 +1,11 @@
+ADA building requirements? Hi, 
+
+I'm writing a paper on how accessible my apartment is and another building I frequent and cannot find the requirements. I've tried looking at www.ada.gov but their website is confusing. What I need are things like the size of the doorway, if there needs to be a kick plate, etc.
+
+Any help is appreciated. Thank you! Have you checked out this PDF (http://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm) on the 2010 ADA Standards for Accessible Design? That may cover some of your questions.  /u/squiiints pointed out the 2010 ADAAG, which covers public accommodations and government buildings.
+
+A different set of laws would cover your apartment building (in particular, Section 504 of the Rehabilitation act and the Fair Housing Act).
+
+Your state would likely have some additional accessibility rules for your apartment building.
+
+This link has some information on federal law: http://www.accessiblehousing.org/rights/disabilities.asp 

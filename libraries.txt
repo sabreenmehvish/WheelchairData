@@ -1,2 +1,12 @@
 sudo apt install python3 
-pip3 install jinja2 boto3 pymongo praw polling django
+pip3 install jinja2 boto3 pymongo praw polling django mod_wsgi
+'/usr/lib/apache2/modules/mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so'
+/home/ubuntu/redditenv/lib/python3.6/site-packages/mod_wsgi/server/mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so
+
+<Directory /path/to/mysite.com/mysite>
+<Files wsgi.py>
+Require all granted
+</Files>
+</Directory>
+
+sudo systemctl restart apache2.service

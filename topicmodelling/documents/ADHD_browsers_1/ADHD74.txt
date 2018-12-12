@@ -1,0 +1,14 @@
+Do you, like me, always have a zillion browser tabs open? This Chrome extension might help. I always have far too many tabs open to the extent that it eats up both my computer's CPU and my "mental CPU", whatever that is. This Chrome extension has been a lifesaver. It's called OneTab and it basically compiles all your open tabs into links on one page. So when all your tabs are getting too overwhelming, you can click the button and they will all get tidily put away. Of course, it means I now have a grand total of 1987 tabs saved in my OneTab, er, tab, but I know they're still there and I can access them if and when I need them. And in the meantime: out of sight, out of mind.
+
+OneTab: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en
+
+
+I also use the Pocket browser extension in conjunction with the Pocket iOS app to save articles for later/offline reading. I of course have a massive number of articles saved in there too, but just knowing I have them saved and have not lost that incredibly important interview with some obscure artist, or whatever, puts my mind somewhat at ease. Same goes for Twitter favourites and now, saving Reddit posts & comments. 
+
+I know I have more pages, articles, blog posts etc saved than I will ever, ever be able to read, and the number is constantly growing, but these things help to quell the "gotta read them all!"-type anxiety. Especially at times when I find something really interesting, but just don't have the focus to read it at that time.
+
+Anyway, I just thought I'd share and I'd appreciate other people's thoughts or methods for protecting oneself from information overload.
+
+tl;dr Recommended browser extension for relieving computer/brain CPU overload I wonder if there's an addon that just closes duplicate pages when you press a button. 80% of my tabs when I work or browse are just me opening the same site again because I forgot I already go it open in a tab or can't be assed to check all my tabs for the page again. toomanytabs for firefox allows you to put tabs you are nto currently using on a row below - you can see what the tab header is, but it is not a loaded page, so not using CPU
+
+Its like bookmarking, but if you're like me, bookmarking a tab means you'll never see it again till you clean out your bookmarks. 

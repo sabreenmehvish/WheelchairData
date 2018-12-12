@@ -1,0 +1,90 @@
+Family member killed in crash, wondering about fault. My grandfather and grandmother were in the same taxi. He uses a wheelchair, she doesn't.
+
+The taxi driver secured my grandmother in her seat, got my grandfather in his wheelchair and secured it, but didn't put him in a seat belt. He only secured the wheelchair.
+
+Is there a law somewhere specifying that taxi drivers operating with disabled people need to make sure both the occupant and wheelchair are secured?
+
+Edit: Location is Chicago, IL I'm very sorry to hear of your loss.
+
+In general, [Illinois law](http://www.ilga.gov/legislation/ilcs/documents/062500050K12-603.1.htm) requires all drivers and passengers in automobiles (anything but a coach, RV, or school bus) to wear a seatbelt.
+
+In addition, the law says this about the responsibility of drivers:
+
+>Each driver of a motor vehicle transporting a passenger who is unable, due to infirmity, illness, or age, to properly adjust and fasten a seat safety belt and is not exempted from wearing a seat safety belt under subsection (b) shall secure the passenger in a properly adjusted and fastened seat safety belt as required under this Section. 
+
+The law makes a handful of exceptions, including for:
+
+>(2) A driver or passenger possessing a written statement from a physician that such person is unable, for medical or physical reasons, to wear a seat safety belt.
+
+and
+
+>(11) A back seat passenger of a taxicab.
+
+Violation of the seat belt law (whether by a driver or a passenger) is a $25 citation, and 
+
+>(c) Failure to wear a seat safety belt in violation of this Section shall not be considered evidence of negligence, shall not limit the liability of an insurer, and shall not diminish any recovery for damages arising out of the ownership, maintenance, or operation of a motor vehicle. 
+
+Do you know if your grandfather's wheelchair was "SAE J2249 compliant" ?  Chairs of that type can be used as motor vehicle seats, with a proper "WTORS", Wheelchair Tiedown and Occupant Restraint System.
+
+In general, Federal rules (Section 38.23(d) of the DOT ADA regulations) require that all ADA-compliant buses and vans to have a two-part securement system, one to secure the wheelchair, and a seat belt and shoulder harness for the wheelchair user.
+
+Was this a Chicago "OpenTaxi" or a City Paratransit service, or somebody else ?     The organizers of the OpenTaxi dispatch service, in particular, should be experts in their policy and procedures. The driver who caused the accident is responsible for all injuries. It is possible that your grandfather would be determined "contributorily negligent" because he was not wearing a seatbelt. This would be a (partial) defense that the negligent driver would have to prove. States handle contrib differently. 
+
+Your family needs a lawyer to help you. Most will work on contingency for this type of case (no upfront cost to your family) 
+
+Sorry you are going through this. Good luck.  why didnt your grandmother make sure he was buckled too. 
+
+was this a private taxi or a medical taxi. im pretty sure there is no law about this. 
+
+sorry for your loss ---
+
+>
+> **http://imgur.com/a/myIAb**
+>
+
+---
+
+
+*I am a bot whose sole purpose is to improve the timeliness and accuracy of responses in this subreddit.*
+
+
+---
+
+**It appears you forgot to include your location in the title or body of your post.**
+
+
+**Please update the original post to include this information.**
+
+
+***Do NOT delete this post - Instead, simply edit the post with the requested information.*.**
+
+
+---
+
+[Report Inaccuracies Here](https://www.reddit.com/r/LocationBot/) | [GitHub] (https://github.com/ianpugh/LocationBot2.0) | [Author](https://reddit.com/u/ianp) | [LocationBot Statistics (Not Mobile Friendly)](https://locationbot.info) | LocationBot v2.1.1
+
+
+---
+
+Original Post:
+
+Author: /u/superlegalthrow
+
+**Family member killed in crash, wondering about fault.**
+>My grandfather and grandmother were in the same taxi. He uses a wheelchair, she doesn't.
+> 
+> The taxi driver secured my grandmother in her seat, got my grandfather in his wheelchair and secured it, but didn't put him in a seat belt. He only secured the wheelchair.
+> 
+> Is there a law somewhere specifying that taxi drivers operating with disabled people need to make sure both the occupant and wheelchair are secured? Thank you for your help.
+
+I don't know if the wheelchair was compliant with that law, I'll have to ask.
+
+As for the taxi, it was a private taxi, not from the city and not a medical taxi.
+
+Again, thank you for your help. We can't get a clear story of events from her about anything regarding the accident or even the morning of.
+
+It was a private taxi. Did the taxi driver also cause the accident? 
+
+The person who caused the accident is going to be primarily at fault. Then the question would be if your grandfather would have lived if he had a seatbelt on. 
+
+The driver might have been negligent in not putting the seatbelt so he might share fault with whoever caused the accident. When there is a death, you should definitely consult with a personal injury attorney. 

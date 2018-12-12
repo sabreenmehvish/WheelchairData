@@ -1,0 +1,13 @@
+Looking for good, free (preferably Open Source), software and/or browser extensions to restrict the use of certain applications and websites on my computer and phone I'm dealing with some pretty bad screen addiction lately, but I also need to use my computer for work and administrative stuff. I often end up spending hours watching complete and utter crap on YouTube, or getting sucked into a video game when I should be doing something else. If I don't turn on the computer at all, I'm actually fine, but I have had very poor impulse control lately. 
+
+I'm thinking that having some software that restricts how I can use my computer/phone at certain times might help curtail the screen addiction a bit, and let me spend more time on productive tasks.
+
+I'd love to hear about your experiences, what kind of software you use, and any other tricks that work well for you in regard to this type of problem!
+
+Thank you for reading :) I use Focalfilter on my laptop. The only flaw is that you have to enter both website.com as WWW.website.com in the blocked sites list. But it has option to block for a few minutes up until a whole day I think.
+
+For mobile (Android) I use ClearLock. It blocks the apps you choose, for the amount of time you want. However, I do miss the ability to plan blocked times.
+
+Both work very good, you can only deblock before the set amount of time by restarting your device. I have used Forest, which is ok. You plant a tree, and if you leave that screen the tree dies. 
+
+Freedom is far better. It can block the whole internet for a pre-determined block of time, or just certain websites. It can be used across devices. You get 7 sessions for free, then have to pay, but it’s helped me a lot, especially when writing papers. I use Rescuetime, which unlike a lot of applications I've seen is pretty good at automatically categorizing distracting sites. Obviously you can customize it too. The free version tracks all your time but doesn't come with blocking, but even knowing how you've spent all your time can be eye-opening. It was so useful to me I didn't mind paying for premium ($9/month) and now I have it integrated with IFTTT (free) so it automatically triggers focus sessions when I have a meeting in my calendar and after 10pm. I don't know of any free applications that do that. Cold Turkey might work, not sure. Freedom, when it works is fantastic. I use LeechBlock on my computer (it's a browser extension) and AntiSocial on my phone! 

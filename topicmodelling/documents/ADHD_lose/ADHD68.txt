@@ -1,0 +1,99 @@
+" If you cared than you wouldn't have forgot " I'm confident all of you have been told this by someone at some point. And I have to say its bullshit. Of course I care that my grades are shit; I do not want to be stuck in a dead end job my whole life. Also I have a interest in programming, but I keep forgetting 90% of what I learned after a day and the process repeats.  My favorite is when people get mad at me for "ignoring" them when I just didn't notice or forgot what they said, then I try to explain I wasn't ignoring them, it wasn't a concious choice I made, but I guess that means fuck all to most people, I guess I understand it, I mean someone who ignores people and then lies about it would argue thebsame way as me... Real fun having people think I'm deliberately ignoring them and then lying to their faces, feels really good Last BF broke up with me because of a very very similar reason.  He said I was disrespectful and didn’t listen.  I explained that sometimes I have to hear things 2-3-4 times before it sinks in.  It’s how I’m wired.  Unless you look me dead in the face, make eye contact, and make me repeat back what you just said, I’m going to forget the first time you tell me.  Thankfully I’m okay at work, but casual conversations over dinner or while I’m doing something else go in one ear and out the other.
+
+He was a fucking asshole.
+
+New BF accepts me (and loves me) how I am. :) "if it was important to you, you would have done it."
+
+"If you wanted to do it, you would have made sure it happened."
+
+Um, I will sit shivering for hours even though my jacket is 5 feet away because I just can't reach over and get it. I will keep doing what I'm doing for hours even though I have to pee so bad it is starting to hurt or I'm so hungry I'm shaky and I'm desperate for food. No, wanting something, even wanting it to avoid physical pain, is not enough to get me to do something...
+
+I only wish wanting something was the magic key to getting it.  Just lost my best friend for something similar. Got upset at me for not congratulating her on a test. I was extremely stressed and in the middle of a lot of stuff and her messages were just so overwhelming, I got upset and blocked her everywhere.
+
+Then I found out she went and told everyone I was bipolar (spoiler alert: I’m not) and claims I use my mental illnesses to excuse my behavior. I didn’t realize explaining why I do or act a certain way was justififying my behavior. I’ve apologized numerous times before but she just refuses to empathize with me and she ironically blames her “diagnosed sociopath” for lack of empathy lmfao
+
+Anyway, I think many people just refuse to listen to and understand us. They fail to realize we need time to process emotions and that is immediately blowing up isn’t *exactly* how we actually feel. Instead of giving me space, my friend just kind of kept going up my ass and I get overwhelmed.
+
+I wish there were more people who could understand. I always always always forget things I've done with my friends. Like " remember that time we wNt to that parade?" No. "Remember that time we missed the bus after the bars and had to walk home?" No. Or when I forget plans I've made with them. Happened a lot recently with my best friend. She thinks that the reason I forget about hanging out is that I don't care. BUT IT'S ACTUALLY BECAUSE I DID NOT LOG THE MEMORY BECAUSE I WASN'T COMPLETELY PAYING ATTENTION WHEN WE PLANNED IT AND I DIDN'T REPEAT IT TO MYSELF OVER AND OVER DAY AFTER DAY TO REMEMBER.
+
+Makes me feel bad, makes her feel bad. It's a bad time. For programming - accept that this is the way it will be.  Adjust your method to always have the reference documents on a second screen.  Learn the big things, learn the basics, and be ok with forgetting and relearning the rest all the time.
+
+As my university proff put it to me:  if you learned 10 new Java methods a day you'd be dead before you learn the library.  That's just one language, one library.  You'll probably use dozens of APIs, languages, etc. so knowing that you'll never be able to learn them all it changes the dynamic.  You can just relearn on the fly - which keeps you up to date on any new changes. Here’s a thought: you’re interested in programming. Programming what? 
+
+We have this superpower ability to hyper focus on things that interest us. I usually retain interesting things better. 
+
+Figure out what you want to program, then make a learning map of how to get there. Once you see that the uninteresting parts relevant, you might be able to hyper focus.  "How about you go fuck yourself" is my usual response. They don't have this, they won't understand, and 99% of the time they're unwilling to empathize anyway. You said you’re interested in learning programming, so thought I’d share my learning experience with you as a professional software dev. I’m completely self taught, and to most of my colleagues that means reading books to learn. Everything I learnt was through trial and error, and through repetition. That’s how I’m geared to learn - get my hands dirty, figure out why something didn’t work, and try again. That’s a slower process for most people but it’s a perk of how the adhd brain ticks - you’ll end up understanding problems and solutions far better than most people, and you’ll learn what’s called in the profession “anti patterns” and learn how to spot them and avoid them which gives us a distinct advantage. 
+
+I’m not saying forget books necessarily, if there’s theory in a book that you need to study for a test, then I’m afraid you have to suck it up, which is hard for us but it’s how most education systems work unfortunately. I’m saying the best way to learn for a lot of us is to get stuck in, and embrace failure. I hate this when talking about relationships (friends, family, romantic etc.). I am horrible ....horrible at remember dates, birthdays, anniversaries, etc. I always feel horrible when I forget my mom's birthday or my nephews and nieces whatever event. I try and I care so much...but I forget. My good friend started making me use a calendar in my smart phone, but I forget to input things. Im trying to make a habbit if putting things in the calendar right away. When I do, it really helps a lot.  Omg this sucks so bad.. my parents were always like this to me, and I always explained to them that even if something is important to me I’d still forget it. Now I have been officially diagnosed and they don’t think/say it anymore/less :) Love isn't transactional. If / then people should not be in relationships because it's all about what they get out of others rather than what they give.  To those people, love is a noun, not a verb.  
+
+If they can't take the time to understand how ADHD works after you explain it to them, then they aren't the person for you.  I have decided never to tell people I have adhd for obvious reasons... I do them them I have a short term memory deficiency. They giggle a little and i tell them i really mean it... I am slightly like Dori off finding nemo. 
+
+People are much more sympathetic to that than adhd for some reason. And they also dont ask those really insulting questions when you forget stuff like "did you take your medicine today" or say oh, they are just being adhd again, or it must be their adhd is why they act that way.
+
+Instead they seem genuinely sympathetic and saying short term memory issue actually covers most of adhd symptoms too :)  Going in blind on a coding project, armed only with the reference manual and my own unintentional stubbornness is how I make my living.
+
+What you’ll find as a coder with adhd is, you will be looking through source control at an example of how to do a thing well, and you will have questions for the author, and then you run got blend and find out YOU were the author, but you don’t remember writing it (so your questions won’t be answered). I was texting a friend for a whole week and not receiving any responses only to learn that I had COMPLETELY forgotten to congratulate her on her graduation from college.
+
+She had done just that for me days before and I couldn’t remember to do the same for her! I feel so, so, so shitty about it. I have been told this so many times! I thought it was just me until, well, until I discovered ADHD Oh really just, “if you cared then you wouldn’t have done ___” literally anything. So frustrating.  I feel especially awful when it comes to birthdays because I only have my close family’s birthday memorized and yet, I can’t memorize my best friend’s birthday and I’ve known her for 11 years! [removed] Exactly! Not only am I an asshole, but a liar too I think I've developed a habit of constantly (like every 5-10 mins, when I'm not playing or something) checking my active chats for messages and re-reading the most recent one in case I didn't respond when a response was needed. Even when there is no notification of new messages, just to avoid unintentionally ignoring people. This is in part because people never complain about these things to let me know what's wrong (sometimes I wish they would, but I can imagine it gets old very soon), they just kinda drop me from their lives without notice so I get overvigilant and anxious about it.
+Guess it doesn't help much face-to-face, but it's something. > I try to explain I wasn't ignoring them, it wasn't a conscious choice I made, but I guess that means fuck all to most people
+
+You accidentally losing focus on what they're saying = Ignoring them.
+
+Them purposely disregarding your honest explanation instead of trying to listen and understand you = Something totally different. I love you for you as well! Accept and love are understatements.  I can't begin to express just how amazing I think you are.  How tremendously attractive I find you.  How positively happy you have made me.  I hope one day you'll love me enough to make it official and permanent :)  
+
+I LOVE YOU WITH ALL MY HEART! Oh, jeez. I'll repeat something to my husband and still forget. We joke that I'm a senile, old lady sometimes to keep things light-hearted.
+
+It sucks to let people down because of memory stuff or attention issues, but I'm grateful that my husband is pretty lenient, light-hearted, and understanding about it all.  Why does he accept you? And for how long? And do you accept him accepting this quirk? 
+
+I mean, you read the posts where people report relationship troubles and describe how at first things went smoothly but after some time, sometimes years, the partner gets tired, overwhelmed and burnt\-out on the quirks.
+
+Is his acceptance a reason not to take responsibility? I would hope not. Can you do things to counter this issue? Because sistah, love ain't enough.
+
+Lasting love is a function of the relationship and the arrangements made, the deals closed and the perimeters established. It is a function of the format both agree upon. 
+
+I am in an arrogant mood: did you take notes of this? > "if it was important to you, you would have done it."
+
+I hate this passive aggressive guilt trip in particular. I know it's difficult being friends with someone with ADD but if you're not going to believe me when I tell you that you're important to me, then... yeah, sooner or later you *won't* be important to me anymore. 
+
+(Thinking about one *ex- best-friend-for-80%-of-my-life* specifically.) I remember when I was a kid, my mum said she'd take me to a theme park, but for whatever reason, I forgot to do something else (related to school, I think)
+
+When the day came, I was hella ready to go. Dressed and everything. But my mom wasn't, so I asked her if we were still going. She snapped at me, saying "Oh, you'll remember that, but you won't remember this other thing." I went back to my room in tears.
+
+I still do it. Even if it's important I'll put it off accidentally because if I don't log it in my to do list, it just doesn't get done! But that day always stuck with me. As someone on the other side of this fence, I think a lot of people with ADHD don't understand how frustrating it can be to be on the receiving end of this type of thing. 
+
+Ultimately, whether you have a medical explanation for it or not makes no difference to the person on the end of it. It feels exactly the same to them either way and blaming them for what is a natural response is counterproductive. 
+
+And it's made worse by responding with 'what do you expect, I have ADHD, lah lah lah, you can't expect any better from me'.
+
+I agree it's pointless getting angry with someone who literally can't control this type of thing but that doesn't mean you have to act like the consequences should just be ignored because of your medical condition. 
+
+I spend a lot of time with two people with ADHD:
+
+My mother, who will show up two hours late for things, claim that we'd agreed a different time, then blame me for her being late, then finish with "stop being unhappy, I have ADHD and you can't expect anything more from me". My mother's life is a catastrophic dumpster fire.
+
+My line manager at work, who is incredibly disorganised, late all the time and routinely forgets to do quite vital things. When called on this, she's apologetic, tries to fix the problem, promises to try harder and noticeably does so. She's a senior government manager with a very responsible job, and she gets given a tonne of slack with the stuff she finds hard because we all know she tries as hard as she can to do the best she can.
+
+The difference is attitude. 
+
+My mother treats her ADHD as a magical get out of jail excuse that can be used to justify anything, escape any blame for consequences and generally allow her to put her fingers in her ears and deny any responsibility for what happens in her life. She's like a paraplegic who lies in bed all day because her legs don't work. 
+
+My manager recognises that she has problems that she has to learn how to manage and overcome in order to succeed. She's like a paralympian doing the 400m in a wheelchair.
+
+Same problem. Different approach. Different outcome.  And so you stuck around with her...why?  [removed] Not all of us, and when it does happen it's possible to focus on a tiny unimportant detail that holds you back.  Not a super power.
+Chances are if it hasn't happened yet you're not going to be able to force it.
+
+It's still important to make it fun, that's always easier.  I try to plan dates for it to make it an event, and keep my goals reaaaally small.  If I go further than that, great.. if not, I did more than I would have otherwise. I code for a living too, the joke around the office is that I’ll put out more work than any three other people, but I won’t remember what I worked on yesterday. They like to give me the new problems that the shop hasn’t encountered before because I seem to be immune from the burnout associated with spending two days not making progress while trying to figure something out.  And now it is still you... just not a questionable character trait. :\-\) Aren't you doing the same thing, though? Only instead of "you can do it, because I could" you're saying "you can't do it, because I couldn't." People using themselves as the ultimate measure of what is possible happens at both extremes.
+
+Ultimately, low expectations lead to poor outcomes. So if someone takes an "I'll never be able to do..." approach, they are almost certainly correct. Not because they aren't capable of that thing, not because they have ADHD, but because they (or other people who feel the need to be vocal about it) believe they can't do it. Poor expectations can be as much of a barrier to success as ability. You can’t make judgments until you have walked a mile in someone else’s shoes.  Waking up every single day with the challenge of ADHD is hard.  Working on, understanding, and accepting the challenges that ADHD brings into your day-to-day life are what we struggle with.  
+
+I guess you struggle with accepting people that are different from you. It’s a sign that you might have FYAPD - Fuck You Asshole Personality Disorder.  You might want to talk to a therapist or your doctor to see if you can “come to terms with your disability.” I love you both Yes, of course. Actions have consequences, regardless of whether they were purposeful or not.
+
+There’s a lot of issues in both sides. Some people with ADHD don’t want to get better or own up to their mistakes and some neurotypical people fail to sympathize (empathize?) and be patient with us, especially if we acknowledge there’s an issue and we’re actively trying to fix it.
+
+I know my friend was frustrated with me and despite my constant attempts and strive to do better, she tends to focus on mistakes I’ve made rather than progress. After musing on it for a bit, I felt like she was holding me back than encouraging me to do better. I don’t want that type of influence in my life.
+
+I wish there was more people like you, who realized your manager’s potential to do the job done and her strive to actually do better. Keep doing you. This question made me actually think about why I never left her in the first place. There’s a lot of reasons, I think. One reason being, I have a tendency to hold onto friends, regardless of how toxic they may be to me. I’m terrified of losing friendships because it’s hard for me to actually go out and make friends and it’s especially hard for me to make *close* friends. She was a close friend, regardless of her treatment of me. We told each other a lot of things, things we’ve never told anyone else. She was the first person I’ve truly opened up to and felt vulnerable around.
+
+I’m not the same person I used to be when I first met her. I was indecisive and wanted to please everyone. I remember I used to literally *beg* groups of people that were horrible to me just to keep me in their friend group. Nearly 2 years later, I know what I want and how I would like to be treated. I’ve learned how to find toxic people in my life and cut them out and I’ve learned how to acknowledge my mistakes and learn from them. I started to love myself and push myself to do better and I’m definitely happier than I used to be a year ago. Even then, with a relationship like this, fully knowing that we’re both toxic forces in each other’s lives, it’s fucking hard. I saw her as my sister... Hell, I was supposed to be her baby brother’s god aunt. A part of me is scared to let go.
+
+Enough with my sob story; you probably weren’t expecting this answer but it feels good to vent about it:^) [removed] I love you all I know borderlines don't act bratty to be bratty. I was reminded from the behavior high said of a shitty friend who had bpd. How about you calm down  [removed] 

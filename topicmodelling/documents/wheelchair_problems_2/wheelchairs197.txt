@@ -1,0 +1,23 @@
+I want to modified my electric wheelchair! 'm a guy that sit on wheelchair all my life(from I born til now) Recently I got a electric wheelchair to ride.But I think my wheelchair just missing something.
+I want to modified it cause I want to make myself cooler,and make my life more special I guess.So I searched internet bout modifying electric wheelchair,but I can't get the information that I want.Then I think Oh here's a REDDIT,but Idk it is right to ask at here.Whatever, now I need help,I want to know how can i modified my chair.
+The functions that I want to add: 
+LED lights
+can drive faster(low priority)
+have a place that I can put cups，a mirror that I can see what is happening in backward,
+And like some sockets or something that I can charge my things like cellphone.
+Hope u guys can help me I am very thankful about ur helps. Except for the driving faster, the rest should be relatively easy.
+
+* Cup Holder: My wife likes the [Ram Mount](https://www.rammount.com/) products for her cup holder.  She uses the cup holder connected to a 6" double socket arm and attached to her chair unitrack with a diamond plate with a 1" ball.
+
+* Power Socket: We basically bought one of [these female outlet plugs](https://smile.amazon.com/Practical-Motorbike-Motorcycle-Tractor-Cigarette/dp/B00E963JFY) but we got it from our local harware store.  Her wheelchair technician hooked it up in about 10 minutes when she was in for a different repair.  Although we did add a 3 amp fuse in the wiring to be sure not to damage her chair (or use anything that draws too much power)...this was almost 10 years ago and it was the first one he did, so wanted to be careful.  Again it was just attached into her unitrack to hold in position.  She then uses various standard car chargers depending on what she is doing.
+
+* LED lights...we haven't done anything permanently (but have had some temporaries that plug into her power socket).  But pretty much any type of LED and switch should be easily wireable into your battery. I have this usb adapter it also has a strong light that acts like a headlight it's on a posable gooseneck so you can move and aim it
+https://www.gerald-simonds.co.uk/catalog/product.php?CI_ID=211
+For cup holders I have had prince lion heart Cup holder but it broke after a couple of years
+I now have the cheapest bike cup holder I found on amazon
+And will definitely be checking out the ram mount combo recommended above (hubby loves ram mount stuff
+As for going faster no idea sorry  I have a cupholder from Snapit product which is designed to collapse on impact to preventand it has an attached cellphone holder (optional).
+
+I also hooked up a Bluetooth LED kit to my batteries that I bought on Amazon:  .
+
+Wiipro RGB LED Rock Light Kits Cellphone APP Bluetooth Control with 4 pods Lights for JEEP Off Road Truck Car ATV SUV Vehicle Boat Interior with Timing & Music Mode https://www.amazon.com/dp/B01H8L2FMY?ref=yo_pop_ma_swf 

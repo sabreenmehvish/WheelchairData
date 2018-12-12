@@ -1,0 +1,106 @@
+New Orange Line car render (With U.S. Factory and Boston Transit Deal, Inroad for Chinese Rail Firm)  Holy shit that looks way too clean. [deleted] Boston.com has an article with images of the [new red line trains as well!](http://www.boston.com/business/news/2015/09/02/the-chinese-company-building-new-red-and-orange-line-cars-has-ambitions/YMGxTtz0D5IsK00OHd5n0H/story.html?p1=stream_news)
+
+Wonder how long it'll take for the red paint to be scratched to hell along where the platform line (has anybody noticed that? Seems inconsistent among the trains) But that doesn't look like it's from the 70s *at all!* Why isn't it on fire?  Sorry for no thumb (I've "retried" multiple times), but Reddit just can't grab a thumb from the NYT. So anybody know why the MBTA insists on making up trains of 2-car sets? Also, do you think there's any hope of having the sets being open to eachother ala the green line trolleys?
+
+/u/Cantabkbh ? Will the new cars be quieter? Anyone know if these cars will have any new features/improvements? The Orange and Red Line specs are slightly different 
+
+T dimensions
+RED LINE: Cars are 69 feet long and 10 feet 3 inches wide; station height is 4 feet 1 inch from rails to platform.
+
+BLUE LINE: Cars are 48 feet long and 9 feet 3 inches wide; station height is 3 feet 5 ½ inches from rails to platform.
+
+ORANGE LINE: Cars are 65 feet long and 9 feet 3 inches wide; station height is 
+3 feet 9 inches from rails to platform. Ok - I'll say it. I don't think the new orange line cars look modern at all. It looks like something that's trying to incorporate the look and feel of the current trains. I don't know if that's a good thing or not - the sense of familiarity is good for a lot of people. But for the same amount of money, I'd rather see some some newer designs rather than a play off the old one. 
+
+::EDIT:: To all the people downvoting me: 
+
+From another user's comment in this thread:
+>The new cars will operate in semi-permanently coupled married pairs consisting of an A car and a B car. The A car will contain the operator's cab, and the B car will consist entirely passenger space, i.e. no cab. In comparison, the current cars are all A cars.
+
+With this being a requirement, there isn't a reason why the A car can't have a new design in the front fascia to both be more modern looking and to be more aerodynamic. I can assure you it wouldn't cost them anymore in the rendering/design phase to create something that looks uniquely different from it's current stock.
+
+http://www.emta.com/IMG/jpg/dublin_metro.jpg
+
+A new design does not mean more bells and whistle. The design in the article is a new design nonetheless. It's just a familiar design vs one that is not.  Needs three conductors hanging off of the front of it at the front of the platform. Yay OSHA! Looks to be pretty good. They bothered to replicate the countdown timers, but couldn't put in the right type of track?  The MBTA doesn't have slab track, we have ballast and wooden ties. That's it leaving Oak Grove.
+
+[This](http://www.bankoboev.ru/images/Mjk0MTUz/Bankoboev.Ru_razrushennaya_stanciya_v_metro.jpg) is it by the time it arrives at Forrest Hills. And Cosby sweater seats.  Thanks for that! If you click between the photos you can see that the train is actually different widths this is the same photo Baby boomers going to be pissed their childhood is fading away.... I bet you a bum shits on the floor and sets it aflame within weeks on going online.  The T uses married pairs because they are far more flexible for taking cars in and out of service when you have a severe lack of proper maintenance funding like we do in the US. Fully articulated trains, like Berlin's U & S-Bahn, work because Germany actually believes in and funds transit, so they have a preventative maintenance plan unlike the US where we only fix things to the minimal degree when they break down instead of being proactive. With articulated trainsets you have to be proactive with maintenance because if it breaks, the whole thing ends up out of service. I don't know for sure - married pairs are pretty standard practice in the US, so it's probably an economy of scale thing. That and it's easier to add-subtract capacity with a pair than 3-body car or more.
+
+>hope of having the sets being open to eachother ala the green line trolleys?
+
+Probably not, it's a bit ironic (or is it, idk how that terms works anymore) as articulated trolleys were developed/invented by BERy engineers to handle the Atlantic Ave El curves - but none of our infra is tooled to accommodate artics at this point - they come with their own operational necessities (harder to break down, yard reconfiguration, etc..) - it'll probably be possible to move from car to car, but whether that's an option open to normal riders, I'd doubt it. According to the post below from /u/Texasian, they said: “When I went to speak at Harvard, I took the train—the subway—and it was noisy, it was not the best experience,” he said. “It’s a great time for us to seek opportunities here to try and help. ... Once we deliver the new cars for these two lines, I can guarantee you, commuters can enjoy their music through their headphones.” The relatively new silver 20-year old Red Line cars are already much quieter than the older 40-year old cars, so I would say yes.  Pulled from the RFP, summarized by me. I'm not sure what optional features will be included by CRRC:
+
+* There will be provisions for a Wi-Fi antenna on the roof of the cars.
+* The new cars may have, but are not required to have, interior LED active route signs. I'm guessing these would be similar to [the FIND on the newer NYC subway cars](http://kellynford.com/2009/10/23/the-find-display-on-the-mtas-new-r160-trains-simply-brilliant/).
+* The new cars may have, but are not required to have, interior LCD displays for the displaying of additional passenger information and the displaying of advertisements. I'm assuming these will also be similar to what's on the newer NYC subway cars and will similarly be ignored by passengers.
+* The new cars may have, but are not required to have, passenger operated doors with door-open buttons adjacent to each door. The current Blue Line cars have passenger operator doors, and the T apparently has no clue how to utilize them properly. I'm guessing the passenger operated doors on the new OL and RL trains, if included, will be similarly mis-utilized for maximum passenger confusion.
+* There will be vertical poles between each pair of opposite doors, similar to [what's on the new NYC subway cars](http://www.ttmg.org/photos/tlogan/NYCS_Alstom_Interior.jpg). On the RL cars, there will have handrails running down the centerline of the ceiling of the car, also similar to what's on the new NYC subway cars.
+* There will be CCTV security cameras looking into the passenger area.
+* The exterior destination signs will be electronic LED signs and will be yellow-on-black, similar to the exterior destination signs on the buses. The godawful exterior destination signs on the current Green Line trolleys and 1800 series RL cars are black-on-yellow LCD signs.
+* Of course, there will be automated visual and audio station announcements.
+* The new cars will operate in semi-permanently coupled married pairs consisting of an A car and a B car. The A car will contain the operator's cab, and the B car will consist entirely passenger space, i.e. no cab. In comparison, the current cars are all A cars.
+* The OL A cars will have a minimum of 44 seats, and the RL A cars will have a minimum 43 seats. Both the OL and RL B cars will have a minimum 50 seats. There will be 2 permanent wheelchair spaces in each car, and at least 6 seats can be flipped up for 2 additional wheelchair spaces. In comparison, the current OL cars contain 58 seats and no wheelchair spaces. The current RL cars except the 1800 series cars, contain 62-64 seats and no wheelchairs spaces. The current 1800 series RL cars contain 50 seats and 2 permanent wheelchair spaces.
+* The OL cars will have 3 doors per side. The RL cars will have 4 doors per side. Each door will be approximately 64 inches wide, which is wider than the doors on the current OL cars and current RL cars except the 1800 series cars.
+* The train operator will have available a 120 volt outlet, a storage locker, and a footrest. No drink holder for Dunkin Donuts cups, unfortunately. Yes, flip-down seats at the end of the cars to accommodate strollers, wheelchairs, bikes etc. The money here is tight. We need function over form. The T specifically requested that the design be similar to the current stock. I have no problem with these trains that don't look that bad as long as they are reliable. Extra bells and whistles just open up more maintenance issues and with a $7.3 billion backlog, we need all the optimization we can get. This was also the cheapest bid by far. The core savings could allow for some additional features if desired. >But to pay the big bucks for a new car, I'd want to see some newer designs rather than a play off the old one.
+
+It's worth pointing out that of the bids that otherwise met all the requirements, these are the cheapest by a substantial margin. > 
+> 
+> http://www.emta.com/IMG/jpg/dublin_metro.jpg
+
+A design like that would look seriously goofy for the 'A' car that ends up in the middle of the train.  Wouldn't be surprised if they use this same station for all of their renders. Its not as if the station looks anything like what we've got. I'm pretty sure that the MBTA does have slab track in some places, like the Orange Line inside Ruggles.  That's why it was delayed?
+
+
+
+
+Every day? i wish oak grove looked like that lol Same station, different train. Well, really Gen-X, Y, or Z.  It is known. Any thoughts on why they can't do married triplets?  i.e. A-B-B?
+
+I mean, this isn't Utah, but... IIRC a lot of newer NYC subway orders are 4 or 5 car sets.
+
+Also, full articulation removes a lot of trucks from the system, and the associated motors, gearboxes, brakes, and other equipment.  It does add an articulation joint to the mix, though.
+
+Berlin is all articulated now?  I recall some nicely kept 60's vintage stock still running when I was there in 2010... Now that you mention it, I have noticed some of the cars are much louder than others. I should really pay more attention. Cool, thanks. > The new cars may have, but are not required to have, passenger operated doors with door-open buttons adjacent to each door. 
+
+Think these are really only useful for low-traffic systems. I feel that Red and Orange lines get enough traffic even during off-peak that having all doors open and close is not a bad idea.
+
+I know I am being wishful but any chance of getting bike hangers?  The backlog really doesn't have that much to do with it though - the money for new cars was already allocated and really only spendable for the new cars (which are kind of part of the backlog anyway), and with CRRC coming in at an insanely low bid compared to what was allocated, one would think the design could be a bit better.
+
+That said, I am not really all that unhappy with the design. Not sure if the color scheme really jives with me, but, hey, they are early renders. I'm not asking for form over function. What I'm saying is that the money that is spent to draw/render the retro looking new cars could've been used to draw/render a new front fascia that might function even better in reducing aerodynamic drag. 
+
+I've worked with rendering companies in my field of work. Even if the new design is similar to the old design, it's still a **new** design in the hands of the person rendering it. The amount of time to render a 3D image of something unfamiliar and something familiar is negligible. 
+
+>function over form
+>Extra bells and whistles
+
+I never said any of these. Don't twist my words. 
+
+>similar to the current stock
+
+This part I can understand. But my thought process is questioning if a more aerodynamic front end can help reduce drag. A google image search of European trains reveal a pattern of smoother, curvier front fascias. And I'm wondering if there is any merit to that and why we wouldn't take that into consideration.
+
+From another user's comment in this thread:
+>The new cars will operate in semi-permanently coupled married pairs consisting of an A car and a B car. The A car will contain the operator's cab, and the B car will consist entirely passenger space, i.e. no cab. In comparison, the current cars are all A cars.
+
+With this being a requirement, there isn't a reason why the A car can't have a new design in the front fascia to both be more modern looking and to be more aerodynamic. I can assure you it wouldn't cost them anymore in the rendering/design phase to create something that looks uniquely different from it's current stock. 
+
+http://www.emta.com/IMG/jpg/dublin_metro.jpg I don't think they intend to use an "A" train in the middle of the train. Read this guy's comments on the new improvements and features of the new trains:
+
+https://www.reddit.com/r/boston/comments/3jhjlm/new_orange_line_car_render_with_us_factory_and/cupfnzn
+
+>The A car will contain the operator's cab, and the B car will consist entirely passenger space, i.e. no cab. In comparison, the current cars are all A cars.
+
+Currently, every car is a "A" train. They are incorporating a "B" train in the new design so that those become the middle train. So on paper and in concept, the "A" train is already going to be different than a "B" train. So there's no reason why the "A" can't be designed differently.  [You're right, there is some concrete floating slab (page 22 of pdf, page number 38).](http://www.mbta.com/uploadedFiles/Documents/Financials/CIP_8_12_Section_II.pdf) Not all are artic, but for the U-Bahn, there were a good number of new Type H (Großprofil -1994-2002) and HK (Kleinprofil - 2000-2007) running when I lived there in 2012. It probably worked out to about half new and half old of my total trips taken. Gorgeous trains. The major S-Bahn routes are essentially all artic (Class 481) now. I used the S-Bahn a lot and never encountered anything but a 481. Allegedly according to Wiki, some lines have older trains. Also, the T should partner with the Metro and get something like Berliner Fenster on the MBTA cars! I loved watching the Berliner Fenster on my commute - weather, jokes, news, sports scores...
+
+Brand new Type IK (Kleinprofil) train entered service in May of this year: http://www.railwaygazette.com/news/urban/single-view/view/berlin-u-bahn-unveils-pre-series-stadler-trainset.html I don't think bike hangers were specified in the RFP, but unless they were specifically prohibited, I suppose CRRC could include them so long as they don't violate any of the other requirements or ADA laws. passenger operated doors during off-peak outdoor stations would be nice in the winter, but probably cause more confusion than its worth. I understand that (in re: to the allocated money for initial cost), but the new trains after they are procured need to be maintained and the T's maintenance record is deplorable (mainly because there just is no funding). Extra curves & parts that can deteriorate or fail only add to the maintenance regime. Low maintenance, efficient cars should be the goal and that seems to be what we are getting. > A google image search of European trains reveal a pattern of smoother, curvier front fascias. 
+
+Are you looking at metro stock or suburban, S-Bahn-style trainsets? Remember that these sets need to be interchangeable, so slapping something sleek on the cab means that entire pair cannot be rotated back the middle of the assembly. Most of the Euro metros and suburbans with curvy cab styling that I'm familiar with run 4- or 8-body cars that cannot be broken down and reassembled if need be.  But it's married A-B pairs.  So a train needs three of each to make a 6-car train.  QED: one 'A' car is in the middle somewhere.
+
+A-B-A-B-B-A
+
+http://www.mychordbook.com/img/artists/abba.jpg Where is this notion that a different and unfamiliar design would lead to parts that'll deteriorate? 
+
+Just because the current design is similar to the existing stock doesn't mean it's not a new design. It still needs to be drawn out and rendered and new parts still need to be fabricated and manufactured. A similar design or not, it's still a new design. 
+
+Another user below mentioned that the trains need to be interchangeable so it can be broken down and reassembled. That is a good point as to why we can't come up with a new fascia. But the notion of it deteriorating or failing can also be applied to the design seen in the article.  Oh definitely - just saying the outer shell (if made with long lasting materials) probably wouldn't change that too much (or would the paint job). Again, I actually don't mind these renderings, and I am much more interested in seeing the inside renderings :)  > Remember that these sets need to be interchangeable
+
+I wasn't aware this is something that's going to continue to be a requirement in the next generation build. But that's an interesting point.  >  semi-permanently coupled married pairs
+
+I guess we'll have to see what the actual product will end up being. Just for clarification, interchangeable between the new R/O series, not necessarily interchangeable across series. It's not the MBTA *absolutely* needs to re-order the sets every day, but I believe (we need an ops expert, stat!) that the MBTA likes to rotate the lead sets to keep one or two sets from wearing down more than the others. I like to think of this order as a "bridge" procurement: newer tech, but older maint and operating practices.  

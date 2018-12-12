@@ -1,0 +1,95 @@
+Procrastination often stems from being overwhelmed We often fail in the pursuit of our goals because we give our instant gratification demons too much firing power. Winning the war against our short sighted demons is a daily battle, but it gets easier with every small little victory. The key is to fight the battles on your terms and make them easy to win.  
+
+*Getting fit* is too vague. It is easy to justify starting tomorrow. Tomorrow justifying starting on Monday is easy. Monday it will be easier to put if off until the first of September.  
+*Writing my first novel* is too large a goal. It is an intimidating mountain that looks insurmountable. Instant gratification demons will tell you that you can't make a real difference today, and it will be painful to work on this, rather binge watch The Office, that sounds much more pleasant.  
+
+I struggle with my demons daily, but some of them I've managed to weaken, one day at a time. For me, the key was simplifying my goals to avoid getting overwhelmed and stop procrastinating. 
+
+
+I wanted to get into programming apps, so I read books and articles on design. Then for a while I did nothing. I watched videos on Android coding and planned what apps I am going to develop. Then I did nothing. Once I got really motivated and even installed some development kits, but never did I write a single line of code. It wasn't until I found the guys over at r/theXeffect that things started to change for me.  
+On the first day I just wrote down what tools I needed, what skills I had to learn, and what steps I had to take. I declared the day a success and loaded up a couple of episodes of Rick and Morty.  
+On the second day I updated my previously installed Android development kit. Another successful day.  
+The third day I followed a *Hello, World!* tutorial and actually wrote (okay copied) my first lines of Android code. Great stuff, I'm building momentum!  
+The next couple of days I watched videos on app Activity Lifecycle and copied code from the tutorials where appropriate.  
+Every day that I managed to tick off as a success I became more and more motivated. After the first month I was certain that I would eventually reach my goal of publishing an app. It took me just shy of seven months to finally publish my first app, [a digital X-effect type habit builder](https://play.google.com/store/apps/details?id=za.co.twinc.everydayhabit) (it seemed the most appropriate first app!). 
+
+I still struggle with daily battles against my instant gratification demons, but I don't feed them with overwhelming goals anymore and I procrastinate a lot less because of it. 
+My current habit building goal is to switch off all screens at 21:00, since I'm stealing productivity from tomorrow every night by going to bed late and sleeping poorly. 
+
+
+Thanks for reading. Any feedback on my app would be great!  
+
+
+**tl;dr Beat procrastination with daily micro-habits** I am looking forward to hopefully actually remembering to come back and read this later.  Also no sense of urgency. But then if I'm hyperfocus on something then everything is urgent. There is no in between :/ I don't know you, but I love you. This post hit *really* close to home. Believe it or not, I've actually downloaded your app before (2-3 weeks before reading this post), but I wasn't able to maintain my momentum. I'm gonna re-download it again, right now, and give it another shot. Thanks a ton, and for what it's worth, you're helping at least one graduate student get a step closer to writing his dissertation. :] This is a great post, it really speaks to me.
+
+
+I've recently started medication and have felt inspired to take back control of my life. My first task has been to develop a budget and be more responsible with finances. The other day I did some number crunching and developed a budget that allows me to spend so much each day. I've been keeping track of all of my expenses, where before I would find it hard to manage. Now that I'm actually able to see results, I've become slightly addicted to saving money and being frugal. It almost feels like a game, haha. As someone easily overwhelmed and prone to instant gratification behaviors to a destructive extent, couldn't be more in agreement. I wanted to learn programming so bad for so long now. I keep failing everyday. Wanted to be self-employed but instead I work a job I hate. I tried to break down tasks in smaller chunks but the moment I work on them, I still get super overwhelmed. So I binge-watch Supernatural to feed my instant gratification demons.
+
+I've got 5 habit/daily tasks apps. I never open them. I downloaded yours. Hope it won't suffer the same fate. It looks great btw. Your app looks great. I'm going to give it a shot. Whether you know it or not, your concept of "micro-habits" is actually a highly successful theory in business in general, but also very specifically as a coping mechanism for ADHDers. 
+
+THE GREEN BLIPS LOOK SO SATISFYING I MUST EARN THE RIGHT TO CREATE THEM Ok, got it. I have shit I want to do, too. Best get cracking, right? Back when I was a hardcore procrastinator, I did it because it produced better work. The adrenaline rush from needing to get it done (sometimes while undetected) really got my brain charged up to do the work needed. 
+
+I don't think my experience with it was the same as other people's, though.  It is really high quality. Fantastic work. 
+
+Too bad I don't have any Android devices, and while I am qualified to write an analogous app for iOS, I am certainly too lazy to finish the project.
+
+So, this is an immense achievement. Good post, thanks for sharing. You are writing that you are building a habit to switch of all screens at 21.00. I think that I'm probably less fit because of all day screen time, but I don't know what productive work I can do without screens. Allmost al the work that has to be done need screens... I like to know what productive work you do after you shut down the screens.        RemindMe! 11 hours RemindMe! 12 hours Any iPhone app? RemindMe! 5 Hours r/remindme in 5 hours
+Shit I'm on mobile and can't remember how to do this, but there's a sub reddit you can subscribe to that will remind you of the post in X amount of time. Fuck. So nauseatingly this.  Thank you so much.  
+Just write every single day and you'll get it done. I've been there too. Don't get discouraged if you end up deleting everything you wrote today, if you wrote something it was a success and you're one step closer to finishing your dissertation. Good luck friend. That's great. Tracking your own behaviour helps so much with awareness, and so much positiveness can stem from that. Good on you. I so feel you. For over 20 years, the big problem in my marriage was that I was in charge of bill paying and always late and screwing it up due to procrastination. 
+One thing that has eliminated the issue is putting as much as I can on automatic withdrawals, budgeting an amount each of us has to deposit to cover all the bills plus a few hundred for a cushion, and just  making sure each of us makes the bank transfer by the 10th of the month. I haven't reconciled the bills in 6 months and it is no big deal, there is always at least a few hundred extra sitting in the account in case we go splurge at the grocery store or something. 
+Making a lot of it automatic was a huge help, and taking off the pressure of having to detail it all was the other.  I know the feels man. Doubt this app will ever support me, so I'll keep slaving away at my 45h a week day job.  
+Thanks for giving my app a shot also, hope it helps you to build some momentum.  
+What is your approach to programming, maybe I can give some further advice (not an expert though). Thanks for your feedback, it is so encouraging to hear that.  
+I'm well aware of the established theories yes. It is exactly because they were so useful to me that I decided to put them in an app. There are many apps that does this already, but it sorta felt like a homage to what worked for me... :) No man, that sounds very familiar. I think a lot of procrastinators feel that they need that urgency to be productive and produce good results. Problem is that it is a slippery slope that leads to a very dark place. For me, I started convincing myself that some urgent things were unimportant and that some big important projects were not yet urgent enough. Thank you for the positive feedback. :) I struggle with productivity if I don't get enough sleep, so my idea is that my productive day should end at 21:00 and I should wind down and relax before bed. If I work until bed time it sometimes takes me up to two hours to finally fall asleep.  
+
+My night routine includes making sure the kitchen is clean, preparing soaked oats and cutting fruit for my breakfast, packing lunch, setting out my work and exercise clothes for the morning and reading until I feel tired enough to sleep. With this approach I fall asleep almost instantly and I'm up before sunrise (usually before my alarm even sounds). I also have very productive mornings when I manage to execute this plan. Sorry, no. With my limited experience and resources also not likely to happen. Have a search though, there are many similar apps. :) RemindMe! 4 hours
+
+Something like that maybe? (remind this guy to read this) Hey. Read the thing. **Here's a sneak peek of /r/remindme using the [top posts](https://np.reddit.com/r/remindme/top/?sort=top&t=year) of the year!**
+
+\#1: [RemindMe](https://np.reddit.com/r/remindme/comments/5x5fc8/remindme/)  
+\#2: [This is gonna be a long one. See ya in 3 years fucker](https://np.reddit.com/r/remindme/comments/5ycuh1/this_is_gonna_be_a_long_one_see_ya_in_3_years/)  
+\#3: [[NSFW] Porn Reminder](https://np.reddit.com/r/remindme/comments/55hezd/porn_reminder/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/6l7i0m/blacklist/) I mostly agree, but fear autopay because it takes thought processes away from where your money's going. 
+
+What I prefer is paying each month without autopay, but with a literal shitton of reminders. My calendar has them 1 week, 5 days, 3 days, 2 days, 1 day, and the day of... all scheduled about a week before the actual deadline.
+
+I also use the bill payer provided by my credit union, which helps keep track of all payments with histories of what and when you last paid. You've learned programming enough to make more apps I guess. I've seen very simple apps making a lot of money. Google on how to get more downloads on your app (googled that yesterday for a friend, found promising stuff). Write articles & blogs on productivity and procrastination and lead them to your app. Also make a kick ass video for your apps. Download some nulled After Effects template and just edit texts for your app. (Sorry idk when to stop typing lol)
+
+My approach is very flawed. I got some ideas on making some apps and websites. I guess I was always confused where to start from. I have archived several courses on Edx.org. I open first day lecture and procrastinate to see it through. 
+
+Today while in shower this morning I thought to go on a 100 Day Self Improvement thingy. And then I read your post mentioning  r/theXeffect. I subscribed it and I think I'll soon try that. Thanks for that. Do you know more subs like that?  Oddly enough, I was also a "reverse procrastinator" at one point, finishing things the day I got them just to troll the teacher by handing stuff in early and trying to play around the forgetfulness by doing things before I could forget.  Thank you for responding. It's a really nice app. I will be messaging you on [**2017-08-26 02:24:09 UTC**](http://www.wolframalpha.com/input/?i=2017-08-26 02:24:09 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/ADHD/comments/6vye88/procrastination_often_stems_from_being_overwhelmed/dm4okur)
+
+[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[https://www.reddit.com/r/ADHD/comments/6vye88/procrastination_often_stems_from_being_overwhelmed/dm4okur]%0A%0ARemindMe!  4 hours) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete Comment&message=Delete! dm4ol9d)
+
+_____
+
+|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&subject=List Of Reminders&message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)
+|-|-|-|-|-|-| Thank you! I would have struggled forever trying to figure that out. Please don't give me the porn reminder, bot.
+
+I'm on nofap rn. Yeah, I ignore reminders. For me autopay works because I can't ignore or forget it. But, I couldn't have done this until recently as I am now making enough that it isn't a problem coming up with the whole pop at once. It's about one paycheck, and then the other one (or two on the months with three checks) are all for savings and fun. I am finally getting ahead, and best of all, no more marital angst over money! What worked for me was that I had a little bit of coding knowledge and that every tutorial I worked through was to incorporate some new feature into my app. It kept the vision of *what* and *why* clear, so I managed to stay motivated.  
+
+Thanks for the After Effects tip, that looks really promising! I have also done a lot of reading on key word rankings, app globalisation, and app store optimisation. There are great resources available, so I'll keep at it! :)  
+
+For more resources on X-effect and the likes, I assume you read [The Post that Started it all](https://www.reddit.com/r/getdisciplined/comments/1x99m6/im_a_piece_of_shit_no_more_games_no_more_lies_no/cf9dz72/)? The [r/getdisciplined/wiki](https://www.reddit.com/r/getdisciplined/wiki/index) is also pretty great. Good luck on your journey friend!
+ **Here's a sneak peek of /r/theXeffect using the [top posts](https://np.reddit.com/r/theXeffect/top/?sort=top&t=year) of the year!**
+
+\#1: [I was doing so well...](http://imgur.com/LqshlpP) | [20 comments](https://np.reddit.com/r/theXeffect/comments/5dy2f6/i_was_doing_so_well/)  
+\#2: [My card has been with me through a lot.](http://i.imgur.com/ZlSFAMZ.jpg) | [39 comments](https://np.reddit.com/r/theXeffect/comments/67qkzl/my_card_has_been_with_me_through_a_lot/)  
+\#3: [Just a baby step, but as a severely depressed person, this is a huge accomplishment for me.](http://i.imgur.com/pDwIb6Y.jpg) | [22 comments](https://np.reddit.com/r/theXeffect/comments/61qmqj/just_a_baby_step_but_as_a_severely_depressed/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/6l7i0m/blacklist/) I'll start with the basics and then learn the specific features coding required in my apps.
+
+That post is epic. Thanks for the links! :)  So for me it went something like this:  
+
+* First app just shows the text *Hello, World!*
+* I'll have to save a users progress, so let's make a counter that remembers the amount of button clicks between app launches and writes it to the text field.
+* I'll need pretty material design buttons so let me update my button counter to a image based modern button.
+* Users will need to edit settings, so let me figure out how to have a settings activity where and let you change the colour of the text of the button counter.
+* I want notifications in my end app so let me fire off a notification for every three button clicks.  
+
+For months and months it didn't look anything like a habit tracking app, but every new thing I learned had its place in the end goal. That's a less overwhelming way to go at it. Also keeps your end goal crystal clear and you don't wander off. I'll get right on to my Hello World app! Thanks for your super helpful tips friend! 

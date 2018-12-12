@@ -1,0 +1,17 @@
+Origination app Hi all, I'm looking for an app to help me stay on track and get make sure I get everything I need to get done (personal and business) done.
+
+I'm looking for a calendar app that not only allows me to have tasks on certain days and times but allow have tasks that are not yet "scheduled" but I can still look at and know I have to get them done.
+
+Any suggestions would be extremely helpful.
+
+Thanks.
+
+Edit: 
+I need something that has a good Android app and a good Windows or Web-based program. I like this one called Habits which lets you create and check off items you have to do and monitors your streaks / consistency. You can change the colors of tasks (in the past I've made different colors for work, school, and personal things). You can also set reminders for each task to pop up at a specified time or multiple times! This is diving in at the deep end. 
+
+iOS: OmniFocus https://www.omnigroup.com/omnifocus/ios/ I use an open-source task list manager called "Tasks", [link here](https://f-droid.org/packages/org.tasks/).
+
+Basically, it's a to-do list manager that can track and add the task to your calendar, while allowing for organization/categories and unscheduled tasks too.
+
+Give it a shot - it's free, anyway. No web interface, though. Can you send a link.  whoops sorry it's actually called Look - Habits tracker 
+http://loophabits.org/faq.html I like this app and I will definitely be using it but this is not what I'm looking for. 

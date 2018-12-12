@@ -1,0 +1,47 @@
+Fellow office cronies, I want to hear your daily processes. Useful apps, time management, etc. How do you get your tasks and projects done? I've tried to use Evernote (which works great on my phone) but while I love my job, our network is extremely restricted.  Obviously stuff like Facebook is out, but we can't stream any media whatsoever, Gmail and all communications functionality are blocked and anything I've tried to use which interfaces with a browser is also blocked.  How would you stay organized and allot your time?
+
+I think a large issue is the meetings interspersed throughout my day.  I generally get in around 7:15 and yesterday I had meetings:
+
+- 7:30-8:30
+- 9-10
+- 10:30-12:30
+- 2-3
+Off at 4
+
+Now that is higher number of meetings than usual, but not much.  How would you allot time in between meetings and have you found a way to keep focused on a task when one task is spread over many, disconnected hours?  
+
+I suppose it's not as much an ADHD issue as it is a general office issue, but by the time I get done focusing on a one hour telecon it usually takes me a few minutes to get water or go to the bathroom and another 10 to process the information, write emails and generally get situated.  Add 5 minutes before the next meeting to prepare and that gives me 40 minutes a few times a day to do things that actually require a fair bit of attention and analysis and that's 40 minutes if I'm actually having a productive day.  My meds help immensely, but depending on whether it's a "good" day or "bad", I tend to get focused on anything BUT work.  If I'm flighty or distracted, almost zero gets done outside of what's accomplished in meetings.
+
+What does your day look like and how do you go about keeping track of tasks and projects?  Cork boards and dry erase?  Hire an assistant to hit you with a squirt bottle when you get off task?   I too, sit at a desk all day, but I have unrestricted internet so it's a bit different.
+
+That said, I use an awesome web app (and mobile app) called Trello (trello.com). I understand that you probably won't be able to use this on your work computer, but you might be able use some of the same concepts in a more tactile form on paper. 
+
+Screenshot example → http://i.imgur.com/DrMckoY.png
+
+It can be used it in different ways, but the whole idea is to have 'boards' with 'lists' and each list has 'tasks'. Since you can move tasks around from list to list, I create a flow for mine:
+
+This Week → Today's Priorities → In Progress → Done 
+
+And the last column is for the spastic ADHD thoughts that get me off task. When I think of something unrelated to what I'm supposed to be doing, I add it to the last column. Sometimes it's a random thought about bull fighting in Spain, other times it's remembering I need to make a dentist appointment (or whatever). You can add due dates to each task, as well as checklists, and attachments. 
+
+Even if you can't use the web version on your work computer, or even the mobile app, you might consider a similar tactile system using post-it notes. 
+
+Hope this helps! Here are my tips:
+
+* Use a paper notebook for notes and todos.  Physical is better than electronic for ADHD.  Carry the notebook everywhere.
+* Give yourself visual reminders.  Morning checklist on the monitor, stickies to remind yourself where you left off, etc
+* Break thing down into micro tasks
+* Use timers.  Set a timer X minutes and crank.  Take break.  Rinse repeat.
+ If you're a reader, I suggest reading Getting Things Done by David Allen. He lays out a fantastic system for organizing and making sure things aren't forgotten. I implemented at my last work place, I'm horrible at remembering tasks and keeping relevant documents accessible, and this system fixed all that. 
+I just needed someone to give me a system to follow. 
+He also delves into how to handle projects etc... I'm a legal assistant, so I get a lot of picky detail shit that is not in my wheelhouse. I needed a system *quick* when I started. I eventually Todoist, which is a list app that has a lot of very nice features. Besides having an extremely deep sub-project system, note-taking within tasks, ability to sync with Outlook and my phone, and turn emails into tasks (although I don't use that feature much due to confidentiality issues), and the ability to tag for priority. I keep it open along with Outlook on one of my monitors all day, and I keep my phone with me at all times so if someone stops me in the hall and asks me to do something, I can immediately input it in Todoist.
+
+It's been a lifesaver at work, and pretty much every time I didn't input a task (or didn't break the task down into enough steps), something's gone haywire. Now if only I could figure out a way to make myself use it *outside* of work...
+
+EDIT: lousy autocorrect I like how you keep a column for jotting down your adhd ramblings. 
+
+You could use that as reference and try writing short stories or poems or something. Maybe even a novel or screenplay! Trello was one I was thinking of, but unless it has an installable application (I'm assuming it's strictly web based but I haven't researched it at all) I can't even access their website.  
+
+The idea looks good though.  I'll look into getting a white board I can divide into sections. I downloaded a timer called Orzeszek Timer.  It's a pretty simple user interface anyway, but it allows you to create batch files with predetermined times set.  I.e. - I have a batch file shortcut on my desktop for 45 minutes.  Double click and the timer is automatically launched in a small window out of the way on my desktop, set for 45 and has all my predetermined alarm settings.
+
+I also set up a windows scheduled task for taking my meds at noon and I'm starting a daily post it for tasks I NEED to get done that day. Hm, I don't see anything about a native app. Good luck with the whiteboard concept, I recommend using the post-it's with it, just because they're easy to move around.  That's the plan.  I just got finished with Agile training so I have some ideas. 

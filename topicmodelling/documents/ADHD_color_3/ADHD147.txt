@@ -1,0 +1,74 @@
+I Could Use Help Looking for a Better Alarm App What's up, r/ADHD!  I recently turned my life around by setting a ton of reminder alarms for myself every morning.  Thanks to this, I'm consistently getting to work on time for the first time in my life.  Here is my current setup:
+
+
+4:45am - Take Medicine  
+6:00am - Wake up  
+6:05am - Workout  
+6:30am - Poop/Reddit  
+6:55am - Stop Redditing/Turn on Shower  
+7:00am - Get in Shower  
+7:15am - Shower's almost over  
+7:20am - Dry Off  
+7:24am - Deodorant, Teeth, Shave, Sunscreen  
+7:34am - Get Dressed  
+7:50am - Do Hair  
+7:57am - Grab Today's Gear  
+8:05am - Walk out of the House
+
+
+(I realize that these timetables may seem weird to everyone else, but after a lot of trial and error I've determined that these are the appropriate times that I need to stay on schedule.)
+
+
+The only hiccup is when I want to wake up at a different time.  As you can imagine, it's a lot of work to redo the math and reset 13 different alarms, so I usually just won't do it.
+
+
+It would be awesome if I could get these alarms/time spacings consolidated into 1 Alarm package.  If i could call it "Morning Routine" and the app would tell me it goes from 4:45-8:05am.  Then, if I wanted to get up at a different time, the alarm package would tell me what time the package would start & stop, and all the interior alarms would keep the same spacings from each other.
+
+
+[If I can admit to being extra high maintainance, I'd love to find an alarm that would automatically turn on a particular Pandora station.]
+
+
+Does anyone know of any apps that could do this?
+
+
+TL;DR - I'm looking for an app that has alarms within alarms Dude, this is genius. I plan out my routine using songs to gauge if I'm on schedule or not, this is so much better planned out. Fuck if someone would build an ADHD centric alarm app it would be so helpful. If you have an iPhone the Timeful app is what I use to stay vaguely on task but the alarms could be better. 
+
+Again, Timeful is the app you'd want, but it's alarm system could use work. It's got different colors and notifications for habits or todo items, and different colors for personal vs work vs wellness vs important. Give it a try.  [deleted] If you're on Android this could all be done with Tasker.  30/30 would time your routine, it's an awesome app, but you need to interact with it between timers.  I have need of the very same app. Have not found one so far :*( Your app idea is GENIUS.  I'm going to go download Tasker right now based on comments here.
+
+Edit: Also, I do this same thing with a combination of Google calendar, Evernote, and my alarm app on my phone.  You are not alone.  I also schedule my poops. Saving this! I don't have an app recommendation, but I'm really glad I'm not the only one who has such a pinpoint routine.
+
+I have a similar one in the evening, though it isn't necessarily bound to a start time.
+
+And I love my routine. It isn't just that the granular breakdown and precision intrigues me, but also that I get a little miffed if I can't stick to it. 1) calendar alerts instead of the alarm function ? Maybe wouldn't help much but you could set different times for say Sunday , then set that for an alternate waking time. 
+
+2) a timer for every 5-10-15 min whichever , alrm tone/beep would be the same tone of course,and you'd have to know which number on the schedule you were  for each beep. 
+
+#3 rough idea : RecordYourself or music , sound whatever, announcing the steps with appropriate intervals, blank space  or music or you talking it through ,either audio or video on selected device, start playing the loop whenever you wake up to your alarm or , you know, whenever you actually wake and get out of bed, 
+
+ I'm liking #3 so far , it bolded itself  Does anyone know of apps like this for Windows Phone? I never really was bothered by the app gap, but I'd really like something like this. :( https://itunes.apple.com/us/app/timers-elapsed-multiple-timer/id427926864?mt=8
+
+I use ELAPSED for a very similar schedule.  You can set and label a bunch of different timers. and set them all to start at the same time It's a countdown timer, so you have to set them from the beginning of the day to when you want it to go off for that activity.  For instance:   
+
+    *work out: 30 min (will go off at 6:30)
+    *bathroom stuff: 55 min (will go off at 6:55)
+    *Get in shower: 60 min (will go off at 7:30
+    
+
+I'm not quite sure if I set that up to be when you start the activity or when you end the activity but, something like that.  
+
+The upside: It's free! You can label and save everything.  So, you don't have to reset it once you get it worked out.  Also it tells you what you are supposed to be doing right now, or what you are supposed to move on to depending on how you label it.  It will still vibrate if for some reason you have to set your phone to silent.  It will still work if you're listening to something else/doing something else on your phone.  You can set each alarm to go off once: like for get in the shower, or until you turn it off: like for wake up.
+
+Neutral:  I'm not sure how well it would work to wake you up.  I've never used it for that.  But it does go up to 99 hours, so you could probably set the whole thing the night before, or whenever your most "focused" time of the day is.  
+
+Downside: You do have to take a couple minutes to select each of the alarms.  It does take a while to do the math and figure out how long to set each alarm for.  (Suggestion: try to find a way to alphabetize your routine because the list of preset alarm choices goes alphabetical.  If you set it something like this:  a. meds, b. wake up c.work out, you can just go through and tap them in order.)
+
+Overall: It's not perfect, there is definitely a learning curve, but once you take the time/have the time you can "set it and forget it."  This is what I like about it.  I can focus on something for a long time once (and when it's new, it is kind of fun), but doing something boring (like tracking the normal clock) everyday is impossible.
+
+I am currently using it on iphone.  I don't know if their is an android or Windows version.
+
+EDIT: for formatting.  Still trying to figure out how that works.  I can't ever seem to get a bulleted list to work right, or get spaces between the paragraphs.  I should prob read the wiki.
+
+TL;DR Elapsed is a great timer app I use on my phone.  It lets you save multiple alarms and start them all at once.  It's not quite what what OP was looking for.  But after a bit of a learning curve, I found it to be super helpful.
+
+
+ Wake up at 7 at least dood Thank you! I'm downloading it right now and I'll let you know how it works :) Honestly I love you. Marry me. I have been looking for something like this FOR MONTHS. <3 Thank you! Unfortunately, I'm currently using an iPhone, but I hope hope all Android-using ADHDers see this comment. Uhh.. it looks super confusing on the app store.  If I buy it... is it easy to figure out?  And it allows you to create relative times between tasks with a specific starting point as OP described? Seconding this. It's perfect for what OP is asking, and I personally love it. Glad you liked it :) Just help me spread it please. There's so many unorganized souls who needs this and don't even know it :D Tasker has a steep learning curve, but its all powerful when it comes to automation. No doubt! It's been two days and my life is somehow making sense suddenly. Thank you so much lol 

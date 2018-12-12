@@ -1,0 +1,17 @@
+Looking for new motor assemblies for Quantum Q600. So I need new motor assemblies for my Quantum/Pride Q600 and my local place in Vancouver have quoted me:
+
+DRVASMB1903 Motor/gearbox assm - LEFT $740.00
+
+DRVASMB1904 Motor/gearbox assm - RIGHT $740.00
+
++labor ofcourse and since it's  needed soon I didn't even get the usual paltry 4% discount. I have no financing/insurance and this will hurt.
+
+He also said that 4-pole motors are no longer available for the Q600, as I was considering an upgrade from the standard 2-pole units. Is that true? I don't know the part numbers for the apparently discontinued 4-pole units.
+
+Does anybody know a good place with better prices for new motors in Canada or US? I can get a friend to install them, looks relatively simple. The company you called lied to you about the motors. DRVASMB1906 and DRVASMB1905 are the right and left 4 pole motors.  MSRP for the US is $1036.18 each. 
+
+The 2 pole are cheaper.  MSRP  $925.10 US.
+
+
+There is not a technical guide because replacing the motors is easy. Jack up the base so the drive wheels are not touching the work surface (floor, bench, etc), remove drive wheels, loosen the bolt holding the freewheel release, undo motor connector wire, remove bolts holding the motor to the wheel arm (4 or 5 bolts on top).  Reverse to install new motor.  Adding to this, since I might get a friend to replace motor assembly; is anybody aware of a Service Manual? So far I've only found a User Manual. http://www.ebay.com/itm/Left-Right-motors-with-gearboxes-for-Pride-Quantum-600-4812-/272045845569?hash=item3f57322c41:g:3b0AAOSwiLdV-Dzt Thank you very much! You MUST be a Dealer before you will get one shred of info from these fools. The programming is made complex on purpose, your best bet is user comments and a fairly good-natured DME tech.
+The chair is basically bolted together (ALIGNMENT OF MOTORS IS CRITICAL) so, should pose no problems, if mechanically adept. 

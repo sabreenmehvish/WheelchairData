@@ -1,0 +1,60 @@
+What computer program or apps that will help you focus in class or work? I got the accommodation from my college to allow me to use the laptop in class specifically for note taking. Right now I am looking for useful computer program, it can be a PC or a Mac.
+
+So far I have
+
+* OneNote (Perfect for note-taking, easily organized as you want, sync across all devices, search word to find the right note, lookup feature allow the sidebar to show the definition of the word or anything else without using browser)
+* Word (Using it for essay or complex note taking if it is needed)
+* Excel (Specifally for chart making, useful program)
+* Anki (Flash card program, sync with phone app such as Android)
+* X Mind (Mind mapping program, great for teacher that want us to use charts and mind mapping)
+* CopyCopy (Great program/app for PushBullet alternative, allow to copy and paste sync across all devices and phone, can push images to other devices.)
+* Dropbox (easy sync to all connected devices without any issue)
+
+
+What other app or program you use to help you to keep organized in your life? I tried to search it in the reddit but it seem all over the places and some topic is like more than a year old. so that why I am asking to refresh the discussion to see if there is anything new popping up.
+
+TL;DR what program you use to keep you organized? I've just recently discovered OneNote and apart from the fact that I can't get the mobile Android app working I love it.
+
+Google Keep, Inbox, Drive, and Calendar are life changers for me. The best part is that they're accessible from pretty much every device and operating system. I recommend checking them out if you haven't. Inbox isn't for everyone, but it's been really helpful for me because you can "snooze" emails and add reminder notes to them. Anything in my inbox is stuff I'm working on and I dismiss and snooze stuff as needed.  For college I use myHomework. I find it really useful and it syncs from pc to phone.  I use an application called SelfControl (on OSX, I don't know if it's available on anything else). It's not directly related to note-taking but it could help: you set a time limit and a block list of websites (reddit, facebook etc). Within that time you can't access these sites at all, even if you restart your computer, quit the program, uninstall it, super hardcore. If you get distracted in class on your laptop like I do this can eliminate some distractions!  **This is a great thread with lots of cool stuff. Can we tag this as OrgIdeas???**
+
+
+
+A lot of folks here mentioned OneNote. I use a similar program called [**Notational Velocity**](http://notational.net/) and it has seriously saved my life and become so much more. I use it as a note-taker, list-maker, and journal of sorts.
+
+
+
+Right now this program is only available on macs BUT it does sync with another program called [**SimpleNote**](http://simplenote.com/) which works remarkably just as well - and I access SimpleNote on my iphone and on a computer browser.
+
+
+
+For making lists and lists only - I use [**Wunderlist**](https://www.wunderlist.com/) which is also fantastic and is just a beautifully made program. 
+
+
+
+When I feel like I'm in crunchmode and need something to force me to zone in, I use [**Focus Booster**](https://www.focusboosterapp.com/) which is a timer that works pretty well and just has a simple design.
+
+
+
+This isn't a computer program - but I heavily use this website to help me go to bed in time so that I don't wake up feeling too tired the next morning. I really hope the developer makes this an app/program soon. [**Sleepy Time**](sleepyti.me)
+
+
+
+This program goes without saying: [**Evernote**](https://www.evernote.com). The free version is phenomenal. I've been using it more heavily though so I am fairly close to upgrading. *Slight tangential note*: On Mondays, my boss asks me to send him a list of 7 things I achieved in the past week & 7 things I want to complete in the upcoming week. I use Evernote to use their checkbox lists feature to keep track of this 7/7 list and in saving screenshots or articles or webpages.
+
+
+
+That's all I got for now. I'm going to check out some of these other program ideas in the thread.
+
+
+
+Side-note that I feel like is important to mention: I don't use the above programs all the time. But I use them regularly enough that they've become my go-to programs for doing whatever it is I want to do in whatever organized fashion. For example, if I'm in the mood to create a list with checkboxes I'll go with Evernote. But if I'm in that mood and I want way more functionality in the list (like with deadlines and the sort) I'll go with Wunderlist. If I just wanted to write out some stuff in freeform with the most simple and minimalist design I'll go with Notational Velocity/Simplenote. 
+
+ For OneNote android app, I had that issue too. I found out it get wonky depends on what network connect you are using. It work better with WiFi. Also resetting the app (clearing the data and cache) fixed the issue. It will take a while to sync everything. That one issue with OneDrive, they used to be doing well with syncing until last year, they got all sluggish. There is topics of this syncing issue all over in the internet. Even some of my notebook failed to sync or take an hour to sync of 500 KB notebook file. 
+
+**Google Keep**, I couldn't get into it. I tried many times to get into it and I always failed to do it. I believe the problem is that it didn't have standalone app in Window to get it sync across. Sure I could do that in the browser but I rely on notification to keep me informed. Sometime I ignore my phone to focus on my assignment.
+
+
+I struggle to find the productivity of calendar for me but it is really hard. I did the google Calendar but it feel like too much work to get it up, and set the reminder, and all that thing. So far I am using daily/weekly planner. It helps for me but it is not always with me which it is the issue. 
+
+
+Also don't use the Window 10 OneNote from the store. They are not fully featured as the desktop version. If you are searching for the desktop, just google for OneNote 2013, it is free for anyone to use.  Yeah I have Office 2016 free through my school so I've been using that. It took me a while to get into Keep but I realized it's best used as a task/reminder app and not a note taking one (thus turning to OneNote). Everybody's workflow is different so it's hard to say what is or isn't for everyone. Sorry your experience with these wasn't as successful 

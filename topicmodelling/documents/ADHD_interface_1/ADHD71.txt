@@ -1,0 +1,33 @@
+Cheaper alternative to youneedabudget.com? Also, YNAB is awesome! **Situation:**
+
+I work as a freelancer, and as soon as I get paid by a client, I tend to go into "woo look at all the moneyz in my bank account!" mode, and impulsively buy random crap. I tried other budgeting software, but they tend to focus on what you already spent, which doesn't help much. OK so I spent too much on groceries due to buying chips. I'll just stop buying as many. Ohh that means I can even more easily afford X thing I don't really need, right?
+
+**Why YNAB is awesome:**
+
+I am currently on the trial of YNAB and it's great! It allows me to allocate the money I have on planned spending, so instead of thinking "so much money, I can easily afford to buy X!", I see that all the money is actually going somewhere, be it bills or stuff I want way more than X that I am saving up for. I feel it gives me a more realistic overview of my financial situation, and doesn't make me feel like I have more money than I do. It also has an easy to use, intuitive interface.
+
+**Question:**
+
+Seeing my rather dire financial situation for next month, in spite of thinking I was doing well, I am wondering if there is a cheaper alternative that does the same thing, or better. I am also worried that I may pay for a year, and then get bored of it and stop using it in a couple of months.
+
+So, what do you use as budgeting software? Do you stick with it on the long run? This won't help you, but it might help someone else on this sub: [YNAB is free for students](https://www.youneedabudget.com/pricing/). 
+
+ So, Interesting story:
+
+I actually have design brief for a similar site i was going to make for budgeting. With a freemium business model without any restrictions on the core budgeting service.
+
+I'm still going to build it, I'll let you know how it goes! YNAB is pretty good!  I ended up getting the subscription.
+
+I'm a little overwhelmed by it right now, by trying to understand where my money is going.  At least, I can see more of it now and have fixed a few problems.  I'm almost ready to make goals.
+
+It's just the inputting part that kills me?  Not every interaction is recognized and I have to go through it one by one... ugh. Take a look/see @ this:
+
+https://www.reddit.com/r/financier/ I am simply depressed and stuff doesn't make me happy, nor do I have any interest in stuff, so I don't buy it. I can imagine if I was actually able to enjoy stuff it would be difficult. In that case I would simply cut up the credit card, use a debit card to get cash from ATMs, buy everything for cash offline. And simply the chore of having to go to a mall would likely prevent overspending. It is a big chore. Few things I hate more than trying on clothes so I wear a pair of shoes until my wife says it looks absolutely not OK now and get another. I get it at some point, flying stuff are one of the few I am still able to feel joy for, so when I registered for AliBaba I immediately bought a remote control quadcopter drone. Seeing the danger, I conventiently forgot my password and I was conveniently too lazy to log in my email and get a reminder done.
+
+So I guess strategically using forgetfulness and laziness. Can't figure out that Amazon password, eh, better go do something else. have you tried [Mint](https://www.mint.com/)? It's free and amazing. Yeah the subscription model is upsetting. I bought YNAB back when it was just a one-time payment. Though I'm stuck with that old system (no budgeting via Web browser, no automatic transactions from my accounts) it works great for me. I'm not sure if you could request that version still, but it may help you in the long-term.
+
+Edit: also I tried Mint. Then YNAB. I find YNAB to be much better for me. I've been using it for 3 years now. Super helpful software that made it possible to save up for an engagement ring, and it helps me plan out my finances for future months while I'm unemployed right now! Sounds cool. I'd be curious to try it. Yeah, I decided to only start tracking my money from now on instead of adding in what I did the past month or anything. I tried that with another budgeting program, I just don't have the patience... Seems promising! Thank you! Thanks, I'll give it a try too. So there is hope, someone with ADHD sticking with something for 3 years! :D
+
+Thank you. I'm half tempted to just delete my previous months and just start from scratch.  What I'm finding hard is figuring out what I *should* budget for the variables, like food and supplies. Oh no, I don't have ADHD. My wife does, though. Actually, it is hard sometimes for her to manually put in transactions in my version.
+
+But my brother (who also has ADHD) has the newest version of ynab and has been using it successfully for a little over a year now. Hope that helps! What I'm trying is to guess and see how it goes next month... Good luck! :) 
